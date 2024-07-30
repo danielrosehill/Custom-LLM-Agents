@@ -1,0 +1,1 @@
+# GPT Optimised Version Of Configuration (intende)
