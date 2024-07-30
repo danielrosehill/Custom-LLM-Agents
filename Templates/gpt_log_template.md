@@ -9,6 +9,10 @@
 - [ ] **Personal GPT**
 - [ ] **Work GPT**
 
+## URL
+
+[Link](https://www.customgpt.com)
+
 ## Model & Platform
 
 **GPT Model:**
