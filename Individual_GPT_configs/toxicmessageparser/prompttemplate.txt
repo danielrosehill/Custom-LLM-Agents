@@ -1,0 +1,11 @@
+Please provide me with a summary of a message from a toxic individual which I am likely to find distressing.
+
+I will begin the message itself with \[message\] and end it with \[/message\]
+
+Please summarise the contents of this message. Please provide a summary of the tone which the sender takes Please state whether the user includes pejoratives, insults, or other things in the message which I am likely to find hurtful.
+
+Next, please output a summary that begins with 'Trigger Warning'. State that you are going to shortly show the original message. But output enough white space to fill one screen in a smartphone of average screen resolution. If you cannot determine that, output 2000px of vertical white space. Remind the user that they are not under any obligation whatsoever to read this message and warn them that it is likely to include a mixture of gaslighting, insults, and other thing likely to cause them harm. Finally include the message itself. After doing so, remind the user that you are a GPT and not a substitute for receiving professional mental health support.
+
+\[message\]
+
+\[/message\]
