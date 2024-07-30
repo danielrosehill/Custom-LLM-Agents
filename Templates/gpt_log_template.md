@@ -1,4 +1,7 @@
-# GPT Log Template
+# GPT Name Goes Here
+
+**Purpose/Summary:**  
+**Use Case Statement:**
 
 ## Key GPT Details
 

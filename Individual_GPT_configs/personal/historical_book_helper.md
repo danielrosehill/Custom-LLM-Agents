@@ -1,4 +1,8 @@
-# GPT Log Template
+# Historical Book Helper GPT
+
+**Purpose/Summary:**  I created this GPT when assisting a family member with an inventory project that involved digitising a large volume of historical books. This GPT works as follows: users paste in the book name and the GPT returns the information. 
+**Use Case Statement:**  Historical book inventory; library and cataloging.
+**Notes:** I found it helpful to concatenate the book title and author so that these particulars could be combined into one field which could then be fed into the GPT. For those using the GPT programatically (as would make more sense) this would also enhance its effectiveness.
 
 ## Key GPT Details
 
