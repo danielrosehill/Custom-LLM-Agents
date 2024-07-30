@@ -1,4 +1,8 @@
-# GPT Log Template
+# Custom GPT For Parsing Communications From Abusive, Toxic, Or Difficult People
+
+**Purpose/Summary:**  The purpose of this GPT is to make it easier for those who receive hurtful communications from abusive individuals to receive a summary of the communication without needing to actually read it (although the GPT provides that option too).
+
+**Use Case Statement:** This GPT could be particularly suitable for the support network of somebody receiving such messages.
 
 ## Key GPT Details
 
