@@ -1,4 +1,6 @@
-# Daniel Rosehill Custom GPTs
+# Daniel Rosehill Open Source Custom GPT Library
+
+## About This Repository
 
 This repository contains links to custom GPTs that I have build on top of ChatGPT (*although increasingly I'm exploring the use of other GPTs including Claude*).
 
@@ -42,6 +44,9 @@ Please optimise this prompt so that it produces the most useful output:
 [prompt]
 ```
 
+## Notes On GPT URLs
+
+At the time of writing, OpenAI does not commit to saving users' custom GPTs indefinitely. The current process is that the GPTs may be deactivated if the user changes paying tier. As I don't and can't commit to maintaining a paid subscription indefinitely, it's possible that the URLs will not resolve. The URLs for private GPTs are not shared.
 
  ## Contact Me
 

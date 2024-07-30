@@ -10,6 +10,10 @@
 - [x] **Personal GPT**
 - [ ] **Work GPT**
 
+## URL
+
+[Link](https://chatgpt.com/g/g-YXOjNjEqO-storrs-book-valuation-gpt)
+
 ## Model & Platform
 
 **GPT Model:** 4o
