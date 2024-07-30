@@ -1,4 +1,22 @@
-Custom GPT on ChatGPT. Configuration not optimised yet!
+# GPT Log Template
+
+## Key GPT Details
+
+- [ ] **GPT Optimised**
+- [x] **Personal GPT**
+- [ ] **Work GPT**
+
+## Model & Platform
+
+**GPT Model:** 4o
+**Platform:** ChatGPT
+
+## Date
+
+
+**Created:** 29-07-24
+ 
+## Configuration Text
 
 You are the historical book valuation GPT. 
 

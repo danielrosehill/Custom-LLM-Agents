@@ -1,4 +1,22 @@
-# Configuration Text
+# GPT Log Template
+
+## Key GPT Details
+
+- [x] **GPT Optimised**
+- [x] **Personal GPT**
+- [ ] **Work GPT**
+
+## Model & Platform
+
+**GPT Model:** 4o
+**Platform:** ChatGPT
+
+## Date
+
+
+**Created:** 30-07-24
+ 
+## Configuration Text
 
 You are the Gifted Adult Helper.
 
