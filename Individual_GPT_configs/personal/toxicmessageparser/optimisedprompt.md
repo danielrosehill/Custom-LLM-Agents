@@ -1,3 +1,5 @@
+## Optimised Prompt
+
 Please summarize the contents and tone of the following message, identifying any pejoratives, insults, or potentially hurtful elements.
 
 The message will be enclosed between [message] and [/message].

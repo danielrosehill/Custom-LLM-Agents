@@ -1,14 +1,20 @@
-# Daniel Rosehill Custom ChatGPT GPTs
+# Daniel Rosehill Custom GPTs
 
-This repository contains links to custom GPTs that I have build on top of ChatGPT.
+This repository contains links to custom GPTs that I have build on top of ChatGPT (*although increasingly I'm exploring the use of other GPTs including Claude*).
 
-I create this (typically) for specific use-cases. The overarching objective is to create a sort of "fleet" of GPT agents to help me manage various aspects of my work and personal lives.
+I am finding amazing utility in creating custom GPTs for specific purposes (commonly those related to my professional life). 
+
+However, while it lacks the ability of custom GPTs to quickly store detailed contextual information, prompt engineering is often enough to quickly and dramatically accelerate the value yielded from working with GPTs.
+
+The overarching objective is to create a sort of "fleet" of GPT agents to help me manage various aspects of my work and personal lives.
+
+Like everything I open-source, I'm doing so to make a small contribution to the collective sum of human knowledge. If you'd like to use any of these GPTs for whatever reason, you have my full permission to do so.
 
  ## Key Parts Of this Repo
  
- I've tinkered with various ways of saving and sharing my custom GPT configurations with the intention of open-sourcing them to help others replicate them.
+ I've tinkered with various ways of saving and sharing my custom GPT configurations with the intention of open-sourcing them to help others replicate them. This is in addition to my own internal system for logging custom GPTs I have created to enable their easy retrieval and to serve as a backup of their configurations (for this purpose, I am using NocoDB).
 
- While outputting them from my databasing software is perhaps the most technically elegant system (I store the configurations in a NoCoDB instance), ultimately, I have concluded that sharing the configurations as individual markdown files is probably more useful for readers.
+ While outputting them from my databasing software is perhaps the most technically elegant system for open-sourcing configurations, ultimately, I have concluded that sharing the configurations as individual markdown files is probably more useful for those who may wish to use them for their own purposes.
 
  As a "quick and dirty" organisation system, I've bucketed those under a folder which is currently called "individual GPT configs" (or a similar filename). I am organising them into folders there.
 
@@ -39,4 +45,8 @@ Please optimise this prompt so that it produces the most useful output:
 
  ## Contact Me
 
+ If you would like to get in touch for any reason whatsoever, including just to discuss how awesome GPTs are, please feel free to drop me a line at:
+
+```
  public at danielrosehill dot com
+ ```
