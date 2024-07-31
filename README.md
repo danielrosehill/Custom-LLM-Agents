@@ -48,6 +48,10 @@ Please optimise this prompt so that it produces the most useful output:
 
 At the time of writing, OpenAI does not commit to saving users' custom GPTs indefinitely. The current process is that the GPTs may be deactivated if the user changes paying tier. As I don't and can't commit to maintaining a paid subscription indefinitely, it's possible that the URLs will not resolve. The URLs for private GPTs are not shared.
 
+## A Note About Gender Pronouns
+
+To achieve effective outputs with GPTs, concise prompts and configuration texts are advised. In the interest of streamlining generation, I use 'he' as a pronoun to refer to the user. This is simply for pragmatic reasons and should not adversely affect the usability of the GPT for users who identify in other terms.
+
  ## Contact Me
 
  If you would like to get in touch for any reason whatsoever, including just to discuss how awesome GPTs are, please feel free to drop me a line at:
