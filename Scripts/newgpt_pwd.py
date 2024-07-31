@@ -1,3 +1,4 @@
+content = """
 # GPT Name Goes Here
 
 **Purpose/Summary:**  
@@ -20,9 +21,13 @@
 
 ## Date
 
-
 **Created:**   
 **Last Updated:** 
 
 ## Configuration Text
+"""
 
+with open("mygpt.md", "w") as file:
+    file.write(content)
+
+print("File 'mygpt.md' created and populated successfully.")

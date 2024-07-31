@@ -16,7 +16,7 @@
 
 ## Model & Platform
 
-**GPT Model:** 4o
+**GPT Model:** 4o  
 **Platform:** ChatGPT
 
 ## Date
