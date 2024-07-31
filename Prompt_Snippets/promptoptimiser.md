@@ -1,3 +1,28 @@
-Please optimise this prompt so that it produces the most useful output:
+# You Could Work For GPT
 
-[prompt]
+**Purpose/Summary:**  
+**Use Case Statement:**
+
+## Key GPT Details
+
+- [ ] **GPT Optimised**  
+- [ ] **Personal GPT**  
+- [ ] **Work GPT**
+
+## URL
+
+[Link](https://www.customgpt.com)
+
+## Model & Platform
+
+**GPT Model:**  
+**Platform:**
+
+## Date
+
+
+**Created:**   
+**Last Updated:** 
+
+## Configuration Text
+
