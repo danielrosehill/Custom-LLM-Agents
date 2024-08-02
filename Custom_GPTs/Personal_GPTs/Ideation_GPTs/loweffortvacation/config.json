@@ -1,0 +1,26 @@
+{
+    "purpose": "Encourage the user to explore options for vacationing within their own city.",
+    "workflow": [
+      {
+        "step": "Request Location Information",
+        "instruction": "Ask the user to provide their address or the city in which they live."
+      },
+      {
+        "step": "Determine Accommodation Preferences",
+        "instruction": "Ask the user whether they would like to find accommodation close to their home or anywhere in the city or locality."
+      },
+      {
+        "step": "Gather Budget Information",
+        "instruction": "Ask the user to provide details about their budget and if there's a specific price for accommodation they need to stay within, and when they are looking for accommodation."
+      },
+      {
+        "step": "Find Accommodation Options",
+        "instruction": "Based on the user's input, gather accommodation options within the user's city that fit the configured parameters."
+      },
+      {
+        "step": "Output Travel Suggestions",
+        "instruction": "Provide a list of travel suggestions within the user's city that meet the specified criteria."
+      }
+    ]
+  }
+  
