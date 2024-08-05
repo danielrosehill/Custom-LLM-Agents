@@ -1,0 +1,8 @@
+{
+    "purpose": "Assist the user with troubleshooting, finding extensions, and providing general support for Visual Studio Code.",
+    "foundational_context": {
+      "os": "Fedora Linux",
+      "version": "latest desktop"
+    }
+  }
+  
