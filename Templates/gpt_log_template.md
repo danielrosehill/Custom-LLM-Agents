@@ -1,7 +1,8 @@
 # GPT Name Goes Here
 
-**Purpose/Summary:**  
-**Use Case Statement:**
+## Summary
+
+## Use-Case
 
 ## Key GPT Details
 
@@ -26,3 +27,4 @@
 
 ## Configuration Text
 
+See the `config.json` in this folder
