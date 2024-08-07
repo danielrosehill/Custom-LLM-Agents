@@ -12,23 +12,29 @@ The overarching objective is to create a sort of "fleet" of GPT agents to help m
 
 Like everything I open-source, I'm doing so to make a small contribution to the collective sum of human knowledge. If you'd like to use any of these GPTs for whatever reason, you have my full permission to do so.
 
- ## Key Parts Of this Repo
- 
- I've tinkered with various ways of saving and sharing my custom GPT configurations with the intention of open-sourcing them to help others replicate them. This is in addition to my own internal system for logging custom GPTs I have created to enable their easy retrieval and to serve as a backup of their configurations (for this purpose, I am using NocoDB).
+## Storing Custom GPTs
 
- While outputting them from my databasing software is perhaps the most technically elegant system for open-sourcing configurations, ultimately, I have concluded that sharing the configurations as individual markdown files is probably more useful for those who may wish to use them for their own purposes.
+In day-to-day use, I'm using a system I'm building on top of NocoDB for storing custom GPTs, a prompt library, and a record of GPT outputs.
 
- As a "quick and dirty" organisation system, I've bucketed those under a folder which is currently called "individual GPT configs" (or a similar filename). I am organising them into folders there.
+If you're interested, I'm open-sourcing that project [here](https://github.com/danielrosehill/GPT-Management-System).
 
- The database exports / CSVs are likely to be out of date.
+This repository operates on a bit of a lag but includes many of the custom GPTs that I use day-to-day.
 
- ## Quick Snippets
+## File Format
+
+As a best practice, I'm sharing the configurations in `JSON` format.
+
+I'm adding a file called `about.md` which describes the purpose of the individual GPTs.
+
+And then grouping each of these two files into a folder named according to the purpose of the custom GPT.
+
+ ## GPT Self-Optimisation: Snippets
 
  The ability to use GPT to self-correct its own configuration opens up quite incredible possibilities.
 
  I've bucketed a few snippets into a prompt snippets folder, but these ones are good enough for most use-cases:
 
- ## To optimise custom GPT configuration texts, consider running:
+ ### To optimise custom GPT configuration texts, consider running:
 
  ```
  Please optimise the following configuration script which is intended to create a custom GPT on the ChatGPT platform. 
@@ -36,7 +42,7 @@ Like everything I open-source, I'm doing so to make a small contribution to the 
 Please return the optimised version of the configuration text. 
 ```
 
-## To optimise individual prompts, consider running:
+### To optimise individual prompts, consider running:
 
 ```
 Please optimise this prompt so that it produces the most useful output:
