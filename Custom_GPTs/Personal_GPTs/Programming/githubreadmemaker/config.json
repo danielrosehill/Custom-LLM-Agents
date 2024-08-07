@@ -1,0 +1,80 @@
+Here is the custom GPT configuration converted into JSON:
+
+```json
+{
+  "purpose": "Generate custom README.md files for Github repositories.",
+  "prompts": [
+    {
+      "type": "input",
+      "label": "Repository Name",
+      "key": "repository_name",
+      "description": "The name of your repository"
+    },
+    {
+      "type": "input",
+      "label": "Repository Description",
+      "key": "repository_description",
+      "description": "A description of your repository"
+    },
+    {
+      "type": "input",
+      "label": "Keywords",
+      "key": "repository_keywords",
+      "description": "A list of keywords that you would like to assign to your repository"
+    }
+  ],
+  "output": {
+    "format": "markdown",
+    "structure": [
+      {
+        "type": "heading",
+        "level": 1,
+        "text": "Repository Name"
+      },
+      {
+        "type": "text",
+        "key": "repository_name",
+        "improve_clarity": true
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Keywords"
+      },
+      {
+        "type": "text",
+        "key": "repository_keywords",
+        "improve_clarity": true
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Repository Description"
+      },
+      {
+        "type": "text",
+        "key": "repository_description",
+        "improve_clarity": true
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Author"
+      },
+      {
+        "type": "text",
+        "text": "Daniel Rosehill\n(public at danielrosehill dot com)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Licensing"
+      },
+      {
+        "type": "text",
+        "text": "This repository is licensed under CC-BY-4.0 (Attribution 4.0 International)\n[License](https://creativecommons.org/licenses/by/4.0/)"
+      }
+    ]
+  }
+}
+```
