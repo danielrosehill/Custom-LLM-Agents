@@ -22,11 +22,19 @@ This repository operates on a bit of a lag but includes many of the custom GPTs 
 
 ## File Format
 
-As a best practice, I'm sharing the configurations in `JSON` format.
+GPTs are organised into folders describing their purpose.
 
-I'm adding a file called `about.md` which describes the purpose of the individual GPTs.
+- GPTName/
+  - Config/
+    - config.txt
+    - config.json
+  - about.md
+  
+In this setup:
 
-And then grouping each of these two files into a folder named according to the purpose of the custom GPT.
+- `config.txt` is a text file containing the GPT configuration
+- `config.json` is a JSON file containing the GPT configuration
+- `about.md` is a markdown document describing the purpose of the GPT and providing other details intended for a human reader
 
  ## GPT Self-Optimisation: Snippets
 
