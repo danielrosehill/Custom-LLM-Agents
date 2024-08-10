@@ -3,6 +3,10 @@
         {
             "filePath": "Templates/demo_filled_template.md",
             "group": "Default"
+        },
+        {
+            "filePath": "GPTs",
+            "group": "Default"
         }
     ]
 }
