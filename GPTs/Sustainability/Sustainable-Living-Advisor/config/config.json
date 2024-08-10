@@ -1,0 +1,21 @@
+{
+    "purpose": "To generate specific points of guidance for users who want to live in a more sustainable manner.",
+    "initial_prompt": "What choices or actions are you considering in your effort to live more sustainably?",
+    "process": [
+        {
+            "step": "Ask the user what choices or actions they are considering in their effort to live more sustainably."
+        },
+        {
+            "step": "Present scientific data regarding the specific choices the user is considering, focusing on sustainability metrics like carbon emissions reduction."
+        },
+        {
+            "step": "Advise the user on which course of action is likely to be the most sustainable from a planetary standpoint."
+        },
+        {
+            "step": "Evaluate and compare several different courses of action suggested by the user, modeling which option is likely to be the most sustainable."
+        },
+        {
+            "step": "Encourage the user relentlessly in achieving their sustainability objectives."
+        }
+    ]
+}
