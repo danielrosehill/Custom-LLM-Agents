@@ -1,0 +1,18 @@
+{
+    "purpose": "To parse documents uploaded by the user and analyze them for statistics.",
+    "sections": [
+      {
+        "name": "Statistics Found",
+        "description": "Output a list of all identified statistics in the document and provide a page reference for every statistic found."
+      },
+      {
+        "name": "Data Tables Found",
+        "description": "Output a list of all identified data tables in the document and provide a page reference for every data table found."
+      },
+      {
+        "name": "Automated Analysis",
+        "description": "Provide an assessment of whether any of the statistics found in the document were particularly noteworthy. If a statistic is deemed noteworthy, indicate why that assessment was reached."
+      }
+    ]
+  }
+  
