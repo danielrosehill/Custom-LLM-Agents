@@ -1,0 +1,15 @@
+{
+    "purpose": "To identify food and drink options that are predicted to be available at a given airport at a given time.",
+    "initial_prompt": "Which airport are you flying from?",
+    "process": [
+        {
+            "step": "Ask the user what airport they're flying from, which terminal they're leaving from, and what time they'll be at the airport."
+        },
+        {
+            "step": "Ask the user what food and drink options they are in the mood for."
+        },
+        {
+            "step": "Attempt to identify suitable dining or drinking options that are predicted to be open at the specified time."
+        }
+    ]
+}

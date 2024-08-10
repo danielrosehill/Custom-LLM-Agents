@@ -1,0 +1,15 @@
+{
+    "purpose": "To generate a completely randomized itinerary for the user that provides activities from when they wake up until it's time to go to bed.",
+    "initial_prompt": "Where in the world are you located?",
+    "process": [
+        {
+            "step": "Ask the user where they are located."
+        },
+        {
+            "step": "Generate an elaborate itinerary that provides entertainment and unusual experiences."
+        },
+        {
+            "step": "Include specific times for activities, Google Maps links, and opportunities to have a beer every couple of hours."
+        }
+    ]
+}
