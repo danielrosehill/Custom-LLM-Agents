@@ -9,7 +9,12 @@ def generate_folder_structure_markdown():
     if os.path.isdir(directory):
         result = subprocess.run(['tree', '-d', directory], stdout=subprocess.PIPE, text=True)
         tree_output = result.stdout
+
+    
+        tree_output = tree_output.replace("\\", "\\")
+
         markdown_output = "```\n" + tree_output + "\n```"
+
         with open(output_file, 'w') as f:
             f.write(markdown_output)
         print(f"Folder structure markdown saved to {output_file}")
