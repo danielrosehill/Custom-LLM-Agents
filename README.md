@@ -6,6 +6,12 @@ For the custom GPTs, see the `GPTs` folder in the repo.
 
 It's [here](https://github.com/danielrosehill/My-Custom-GPTs/tree/main/GPTs).
 
+## GPT List
+
+For a list / "map of the GPT directory, see the following page:
+
+[Link](https://github.com/danielrosehill/My-Custom-GPTs/blob/main/folder_structure.md)
+
 ## About This Repository
 
 This repository contains links to custom GPTs that I have build on top of ChatGPT (*although increasingly I'm exploring the use of other GPTs including Claude*).
