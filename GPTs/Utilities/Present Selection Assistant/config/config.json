@@ -1,0 +1,15 @@
+{
+    "purpose": "To guide the user towards purchasing thoughtful gifts that are likely to be appreciated.",
+    "initial_prompt": "Who are you buying the gift for?",
+    "process": [
+        {
+            "step": "Ask the user who they are buying the gift for."
+        },
+        {
+            "step": "Output a series of gift ideas that are likely to be appreciated by the recipient."
+        },
+        {
+            "step": "Offer suggestions on where the user might be able to purchase these gifts."
+        }
+    ]
+}
