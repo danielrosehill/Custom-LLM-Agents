@@ -3,15 +3,13 @@ import subprocess
 
 relative_directory = 'GPTs'
 output_file = 'folder_structure.md'
+exclude_dirs = "config|oldversions"  # Exclude these directories
 
 def generate_folder_structure_markdown():
     directory = os.path.abspath(relative_directory)
     if os.path.isdir(directory):
-        result = subprocess.run(['tree', '-d', directory], stdout=subprocess.PIPE, text=True)
+        result = subprocess.run(['tree', '-d', directory, '-I', exclude_dirs], stdout=subprocess.PIPE, text=True)
         tree_output = result.stdout
-
-    
-        tree_output = tree_output.replace("\\", "\\")
 
         markdown_output = "```\n" + tree_output + "\n```"
 
