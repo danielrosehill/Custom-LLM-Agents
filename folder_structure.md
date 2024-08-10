@@ -13,12 +13,18 @@
 │       ├── config
 │       └── oldversions
 ├── For_Fun
+│   ├── A-Day-In-GPT-Land
+│   │   ├── config
+│   │   └── oldversions
 │   └── Ask-A-Sloth
 ├── Geopolitics_And_News
 ├── GPT-Tools
 │   ├── ChatGPT
 │   ├── Custom-GPTs
 │   │   └── Custom-GPT-Config-Assistant
+│   ├── Dont-Custom-GPT-Alone
+│   │   ├── config
+│   │   └── oldversions
 │   └── Prompt-Engineering
 │       ├── ChatGPT-Prompt-Engineering-Buddy
 │       │   ├── config
@@ -48,12 +54,20 @@
 │       └── oldversions
 ├── Pranks
 │   └── Weird-Fashion-Ideas
+├── Preparedness
+│   └── Disaster-Debriefer
+│       ├── config
+│       └── oldversions
 ├── Productivity
 │   ├── Brainstorming-Coach
 │   │   ├── config
 │   │   └── oldversions
 │   └── kaizen_thinker
 ├── Professional_Tools
+│   ├── Business_Continuity
+│   │   └── Business-Continuity-Advisor
+│   │       ├── config
+│   │       └── oldversions
 │   ├── General
 │   │   └── Conference-Scout
 │   └── Productivity
@@ -62,23 +76,46 @@
 │           ├── config
 │           └── oldversions
 ├── Research
-│   └── Document-Stats-And-Numbers-Miner
-│       ├── config
-│       └── oldversions
+│   ├── Document-Stats-And-Numbers-Miner
+│   │   ├── config
+│   │   └── oldversions
+│   └── Purchasing
+│       └── Brand-Reliability-GPT
+│           ├── config
+│           └── oldversions
 ├── Technology
+│   ├── Backups
+│   │   └── Backup-Coach
+│   │       ├── config
+│   │       └── oldversions
 │   ├── Linux
+│   │   ├── Fedora
+│   │   │   └── Fedora-Hardware-Finder
+│   │   │       ├── config
+│   │   │       └── oldversions
 │   │   └── Linux-Hardware-Compatibility-Checker
 │   ├── Programming
 │   │   ├── Github-Readme-Generator
 │   │   ├── Python-Can-Do-That
 │   │   └── VS-Code-Helper-Fedora
+│   ├── Stack-Research-Optimisation
+│   │   └── Tech-Product-Finder
+│   │       ├── config
+│   │       └── oldversions
 │   └── Taxonomy-Builder
-├── Utilities
-│   ├── brand_palette_finder
-│   └── github_repo_summariser
+├── Travel
+│   └── Airport-Food-Finder
 │       ├── config
-│       └── OldVersions
-│           └── V1
+│       └── oldversions
+├── Utilities
+│   ├── Brand-Palette-Identifier
+│   ├── Github-Repo-Summariser
+│   │   ├── config
+│   │   └── OldVersions
+│   │       └── V1
+│   └── Present Selection Assistant
+│       ├── config
+│       └── oldversions
 ├── Work_GPTs
 │   ├── Communications
 │   │   └── Communications-Copilot
@@ -86,7 +123,9 @@
 │   └── Writing
 │       └── Jazz-Up-My-Doc
 └── Writing
-    └── BLUF-Email-Writer
+    ├── BLUF-Email-Writer
+    │   ├── config
+    │   └── oldversions
+    └── Quick-Email-Template-Generator
         ├── config
         └── oldversions
-
