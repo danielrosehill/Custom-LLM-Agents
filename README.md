@@ -1,5 +1,7 @@
 # Daniel Rosehill Open Source Custom GPT Library
 
+![Sloth making a new GPT](/images/banner.webp)
+
 ## View The GPTs
 
 For the custom GPTs, see the `GPTs` folder in the repo.
