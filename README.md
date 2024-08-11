@@ -4,15 +4,11 @@
 
 ## View The GPTs
 
-For the custom GPTs, see the `GPTs` folder in the repo.
+For just the list, see:
 
-It's [here](https://github.com/danielrosehill/My-Custom-GPTs/tree/main/GPTs).
+[GPTList.csv](/GPTList.csv)
 
-## GPT List
-
-For a list / "map of the GPT directory, see the following page:
-
-[Link](https://github.com/danielrosehill/My-Custom-GPTs/blob/main/folder_structure.md)
+The configurations are stored in `Created_GPTs`.
 
 ## About This Repository
 
