@@ -4,11 +4,13 @@
 
 ## View The GPTs
 
-For just the list, see:
+The configurations are stored in `Created_GPTs`.
+
+This is populated first. 
+
+Some time later, the list is updated here:
 
 [GPTList.csv](/GPTList.csv)
-
-The configurations are stored in `Created_GPTs`.
 
 ## About This Repository
 
