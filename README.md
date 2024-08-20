@@ -8,8 +8,8 @@ See `Exports` [here](https://github.com/danielrosehill/My-Custom-GPTs/tree/main/
 
 The latest list is provided as:
 
-`list.csv` - CSV of GPTs
-`list.md` - markdown file of GPTs (formatted from the CSV export)
+- `list.csv` - CSV of GPTs
+- `list.md` - markdown file of GPTs (formatted from the CSV export)
 
 ## Individual GPT Configurations
 
