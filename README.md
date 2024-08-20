@@ -4,13 +4,9 @@
 
 ## View The GPTs
 
-The configurations are stored in `Created_GPTs`.
+The individual configurations are stored in `Created_GPTs`.
 
-This is populated first. 
-
-Some time later, the list is updated here:
-
-[GPTList.csv](/GPTList.csv)
+Lists are under `Exports` and organised into timestamped folders (dd-mm-yy).
 
 ## About This Repository
 
