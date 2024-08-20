@@ -2,11 +2,32 @@
 
 ![Sloth making a new GPT](/images/banner.webp)
 
-## View The GPTs
+## Latest List Of Custom GPTs
 
-The individual configurations are stored in `Created_GPTs`.
+See `Exports` [here](https://github.com/danielrosehill/My-Custom-GPTs/tree/main/Exports).
 
-Lists are under `Exports` and organised into timestamped folders (dd-mm-yy).
+The latest list is provided as:
+
+`list.csv` - CSV of GPTs
+`list.md` - markdown file of GPTs (formatted from the CSV export)
+
+## Individual GPT Configurations
+
+Configurations for some individual GPTs are nested under `Created_GPTs`.
+
+Here's the folder scaffolding used:
+
+```
+GPT Name
+- about.md
+- Config
+-- config.md
+-- config.json
+```
+
+- The `GPT Name` is the GPT's name.
+- `about.md` provides a little bit of information about the custom GPT's intended purpose
+- `config` houses configuration files provided in markdown and JSON format (the latter for machine-readibility and portability)
 
 ## About This Repository
 
