@@ -1,51 +1,42 @@
-# Daniel Rosehill Open Source Custom GPT Library
+# Daniel Rosehill Open Source Custom LLM Configuration Library
 
-![Sloth making a new GPT](/images/banner.webp)
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/Custom-LLM-Agents)
 
-## Latest List Of Custom GPTs
+![Sloth making a new LLM](/images/banner.webp)
 
-See `Exports` [here](https://github.com/danielrosehill/My-Custom-GPTs/tree/main/Exports).
+ 
+## Individual LLM Agent Configurations
 
-The latest list is provided as:
-
-- `list.csv` - CSV of GPTs
-- `list.md` - markdown file of GPTs (formatted from the CSV export)
-
-## Individual GPT Configurations
-
-Configurations for some individual GPTs are nested under `Created_GPTs`.
-
-Here's the folder scaffolding used:
 
 ```
-GPT Name
+LLM Name
 - about.md
 - Config
 -- config.md
 -- config.json
 ```
 
-- The `GPT Name` is the GPT's name.
-- `about.md` provides a little bit of information about the custom GPT's intended purpose
+- The `LLM Name` is the LLM's name.
+- `about.md` provides a little bit of information about the custom LLM's intended purpose
 - `config` houses configuration files provided in markdown and JSON format (the latter for machine-readibility and portability)
 
 ## About This Repository
 
-This repository contains links to custom GPTs that I have build on top of ChatGPT (*although increasingly I'm exploring the use of other GPTs including Claude*).
+This repository contains links to custom LLMs that I have build on top of ChatGPT (*although increasingly I'm exploring the use of other LLMs including Claude*).
 
-I am finding amazing utility in creating custom GPTs for specific purposes (commonly those related to my professional life). 
+I am finding amazing utility in creating custom LLMs for specific purposes (commonly those related to my professional life). 
 
-However, while it lacks the ability of custom GPTs to quickly store detailed contextual information, prompt engineering is often enough to quickly and dramatically accelerate the value yielded from working with GPTs.
+However, while it lacks the ability of custom LLMs to quickly store detailed contextual information, prompt engineering is often enough to quickly and dramatically accelerate the value yielded from working with LLMs.
 
-The overarching objective is to create a sort of "fleet" of GPT agents to help me manage various aspects of my work and personal lives.
+The overarching objective is to create a sort of "fleet" of LLM agents to help me manage various aspects of my work and personal lives.
 
-Like everything I open-source, I'm doing so to make a small contribution to the collective sum of human knowledge. If you'd like to use any of these GPTs for whatever reason, you have my full permission to do so.
+Like everything I open-source, I'm doing so to make a small contribution to the collective sum of human knowledge. If you'd like to use any of these LLMs for whatever reason, you have my full permission to do so.
 
 ## File Formats
 
-GPTs are organised into folders describing their purpose.
+LLMs are organised into folders describing their purpose.
 
-- GPTName/
+- LLMName/
   - Config/
     - config.txt
     - config.json
@@ -53,11 +44,11 @@ GPTs are organised into folders describing their purpose.
   
 In this setup:
 
-- `config.txt` is a text file containing the GPT configuration
-- `config.json` is a JSON file containing the GPT configuration
-- `about.md` is a markdown document describing the purpose of the GPT and providing other details intended for a human reader
+- `config.txt` is a text file containing the LLM configuration
+- `config.json` is a JSON file containing the LLM configuration
+- `about.md` is a markdown document describing the purpose of the LLM and providing other details intended for a human reader
 
-You can use `JSON` directly in ChatGPT's custom GPT editor to effectively recreate any of these GPTs.
+You can use `JSON` directly in ChatLLM's custom LLM editor to effectively recreate any of these LLMs.
 
 
 ## Other Notes
