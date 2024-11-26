@@ -48,10 +48,9 @@ In this setup:
 
 You can use `JSON` directly in ChatLLM's custom LLM editor to effectively recreate any of these LLMs.
 
+## Pronouns
 
-## Other Notes
-
-See the `Notes` folder for other small details.
+For simplicity I use "he" when I need to refer to the user in a configuration text.
 
 ## Author
 
