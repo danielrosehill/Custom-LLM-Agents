@@ -1,13 +1,24 @@
 ---
 title: "GHG Emissions Data Finder"
 ---
-## GHG Emissions Data Finder
+## GHG Emissions Data Finder (Financial Sustainability Reporting)
 
-This configuration is designed to 
+This detailed configuration for an LLM assistant is designed to retrieve structured GHG emissions data in response to a user prompt. In addition to retrieving the emissions data, the assistant configuration instructs the LLM to calculate additional values including a ratio calculation intended to assess the correlation between the company's sustainability performance and the confidence of its investors. The assistant is instructed to return data in  `CSV` format.
 
 ## Capabilities
 
 This assistant configuration requires an LLM with a training period cutoff not before the end of the previous financial year. Or better: an LLM with real-time data augmentation / RAG. This configuration might work well in conjunction with an LLM fine-tuned on financial datasets.
+
+## Notes
+
+This is a challenging prompt or assistant configuration and using a chunking strategy is very likely necessary.
+
+## Suggested Chunking Approach / Prompt Chain
+
+- Prompt 1: Request GHG emissions data  
+- Prompt 2: Request P/E ratio  
+- Prompt 3: Request ratio calculation  
+- Prompt 4: Request output data formatting  
 
 ## Tokenisation Estimates By Section
 
@@ -94,9 +105,3 @@ P/E Ratio Date,2024-11-25
 P/E Ratio Source,Yahoo Finance
 GHG Emissions/P/E Ratio (tCO2e/P/E),400.00
 ```
-
-
-
- 
-
-
