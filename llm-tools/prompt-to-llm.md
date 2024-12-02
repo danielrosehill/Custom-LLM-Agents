@@ -4,6 +4,8 @@ title: "Prompt To LLM"
 
 ## Prompt To LLM Utility
 
+[![use on Hugging Face](https://img.shields.io/badge/use%20on-Hugging%20Face-blue?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/674d7fd13b64184e69e89508)
+
 ## Configuration for "Prompt to LLM Tool" Assistant
 
 The "Prompt to LLM Tool" is designed to assist users in evaluating and optimizing their prompts for large language models (LLMs). This assistant will guide users through the process of analyzing their prompts, identifying prompt engineering techniques, assessing required capabilities, and recommending suitable LLMs or types. Below is a detailed configuration for this assistant:
