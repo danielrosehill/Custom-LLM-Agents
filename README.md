@@ -10,17 +10,17 @@
 | --- | --- | --- |
 | a day in gpt land |  | [link](ai-related/a-day-in-gpt-land.md) |
 | acronym_to_organisation |  | [link](utilities/acronym_to_organisation.md) |
-| ai career ideator |  | [link](ai-related/ai-career-ideator.md) |
+| ai career ideator | [link](https://hf.co/chat/assistant/6701df91cb513bb057ded41) | [link](ai-related/ai-career-ideator.md) |
 | ai could help here |  | [link](ai-related/ai-could-help-here.md) |
-| ai tech advisor |  | [link](ai-related/ai-tech-advisor.md) |
+| ai tech advisor | [link](https://hf.co/chat/assistant/6701df2bcb513bb057ded3a8) | [link](ai-related/ai-tech-advisor.md) |
 | airport food options |  | [link](travel/airport-food-options.md) |
 | automate my workflow |  | [link](productivity/automation/automate-my-workflow.md) |
 | backoffice development copilot |  | [link](development/backoffice-development-copilot.md) |
 | backoffice gpt creation assistant |  | [link](development/backoffice-gpt-creation-assistant.md) |
-| backup coach |  | [link](tech-general/backup-coach.md) |
+| backup coach | [link](https://hf.co/chat/assistant/6701e064b41b0e86f9d5acdd) | [link](tech-general/backup-coach.md) |
 | backup evaluation assistant |  | [link](tech-general/backup-evaluation-assistant.md) |
 | bad jokes galore |  | [link](for-fun/bad-jokes-galore.md) |
-| beer tap identifier |  | [link](food-and-drink/beer-tap-identifier.md) |
+| beer tap identifier | [link](https://hf.co/chat/assistant/674d41200a1ac006d7354790) | [link](food-and-drink/beer-tap-identifier.md) |
 | boss update batcher |  | [link](productivity/boss-update-batcher.md) |
 | brainstorming assistant |  | [link](productivity/brainstorming/brainstorming-assistant.md) |
 | brainstorming coach |  | [link](productivity/brainstorming/brainstorming-coach.md) |
@@ -55,7 +55,7 @@
 | find me a guinness |  | [link](travel/find-me-a-guinness.md) |
 | find me compatible hardware |  | [link](research/purchasing/find-me-compatible-hardware.md) |
 | free tier ai software |  | [link](ai-related/free-tier-ai-software.md) |
-| freeform converter |  | [link](writing/freeform-converter.md) |
+| freeform converter | [link](https://hf.co/chat/assistant/670cfcba1f325eee148c7c19) | [link](writing/freeform-converter.md) |
 | gaslighting guardian |  | [link](health/mental-health/gaslighting-guardian.md) |
 | geopolitical brief generator |  | [link](geopolitics/brief-generators/geopolitical-brief-generator.md) |
 | geopolitical scenario simulator |  | [link](geopolitics/simulators/geopolitical-scenario-simulator.md) |
@@ -82,7 +82,7 @@
 | let's automate this |  | [link](productivity/automation/let's-automate-this.md) |
 | let's work remotely! |  | [link](productivity/let's-work-remotely!.md) |
 | life's a musical |  | [link](for-fun/life's-a-musical.md) |
-| llm output judge |  | [link](llms/llm-output-judge.md) |
+| llm output judge | [link](https://hf.co/chat/assistant/6757a73c7ab12b601c7fdfa7) | [link](llms/llm-output-judge.md) |
 | location based threat briefer |  | [link](preparedness/location-based-threat-briefer.md) |
 | lousy pun joke generator |  | [link](for-fun/lousy-pun-joke-generator.md) |
 | low fat food options |  | [link](health/low-fat-food-options.md) |
@@ -108,7 +108,7 @@
 | preparedness partner |  | [link](preparedness/preparedness-partner.md) |
 | prompt engineering digest |  | [link](prompt-eng/news-digest/prompt-engineering-digest.md) |
 | prompt shortener |  | [link](prompt-eng/utilities/prompt-shortener.md) |
-| prompt to llm |  | [link](llm-tools/prompt-to-llm.md) |
+| prompt to llm | [link](https://hf.co/chat/assistant/674d7fd13b64184e69e89508) | [link](llm-tools/prompt-to-llm.md) |
 | pub agenda generator |  | [link](for-fun/pub-agenda-generator.md) |
 | pub crawl creator |  | [link](for-fun/pub-crawl-creator.md) |
 | python chatgpt ap script builder |  | [link](data/python-chatgpt-ap-script-builder.md) |
