@@ -18,13 +18,17 @@ def find_markdown_files(base_path, exclude_dirs, exclude_files):
 def format_title(file_name):
     """Convert a file name to readable case with proper capitalization."""
     name_without_extension = os.path.splitext(file_name)[0]
-    readable_name = re.sub(r'([a-z])([A-Z])', r'\1 \2', name_without_extension).replace('_', ' ').title()
+    # Replace hyphens with spaces and capitalize each word
+    readable_name = re.sub(r'[-_]', ' ', name_without_extension).title()
     return readable_name
 
 def create_markdown_table(markdown_files):
     """Create a markdown table for the list of markdown files."""
+    # Sort files alphabetically by their formatted title
+    sorted_files = sorted(markdown_files, key=lambda f: format_title(os.path.basename(f)))
+    
     table_lines = ['| Title | Link |', '|-------|------|']
-    for file in sorted(markdown_files):
+    for file in sorted_files:
         file_name = os.path.basename(file)
         title = format_title(file_name)
         table_lines.append(f'| {title} | [link]({file}) |')  # Removed './' from the link
