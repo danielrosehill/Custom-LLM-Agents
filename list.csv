@@ -1,263 +1,147 @@
-title,added_to_huggingface,huggingfacechaturl,relative_path
-a day in gpt land,,,ai-related/a-day-in-gpt-land.md
-acronym_to_organisation,,,utilities/acronym_to_organisation.md
-ai career ideator,,https://hf.co/chat/assistant/6701df91cb513bb057ded417,ai-related/ai-career-ideator.md
-ai could help here,,,ai-related/ai-could-help-here.md
-ai tech advisor,,https://hf.co/chat/assistant/6701df2bcb513bb057ded3a8,ai-related/ai-tech-advisor.md
-airport food options,,,travel/airport-food-options.md
-automate my workflow,,,productivity/automation/automate-my-workflow.md
-backoffice development copilot,,,development/backoffice-development-copilot.md
-backoffice gpt creation assistant,,,development/backoffice-gpt-creation-assistant.md
-backup coach,,https://hf.co/chat/assistant/6701e064b41b0e86f9d5acdd,tech-general/backup-coach.md
-backup evaluation assistant,,,tech-general/backup-evaluation-assistant.md
-bad jokes galore,,,for-fun/bad-jokes-galore.md
-beer tap identifier,,https://hf.co/chat/assistant/674d41200a1ac006d7354790,food-and-drink/beer-tap-identifier.md
-boss update batcher,,,productivity/boss-update-batcher.md
-brainstorming assistant,,,productivity/brainstorming/brainstorming-assistant.md
-brainstorming coach,,,productivity/brainstorming/brainstorming-coach.md
-brand reliability checker,,,research/purchasing/brand-reliability-checker.md
-brief generator,,,writing/brief-generator.md
-broken link helper,,,utilities/broken-link-helper.md
-business continuity advisor,,,preparedness/business-continuity/business-continuity-advisor.md
-career pivot ideator,,,career/career-pivot-ideator.md
-chatgpt capabilities miner,,,llms/chat-gpt/chatgpt-capabilities-miner.md
-chatgpt prompt engineering buddy,,,llms/chat-gpt/chatgpt-prompt-engineering-buddy.md
-chatgpt to hf chat,,,utilities/chatgpt-to-hf-chat.md
-csv taxonomy generator,,,data/taxonomies/csv-taxonomy-generator.md
-csv to markdown reformatter,,,data/csv-to-markdown-reformatter.md
-daily schedule manager,,,organisation/workflow-planners/daily-schedule-manager.md
-data organisation genie,,,data/data-organisation-genie.md
-data relationships utility,,,data/data-utilities/data-relationships-utility.md
-data visualisation and storytelling guide,,,data/data-visualisation/data-visualisation-and-storytelling-guide.md
-databases are better than spreadsheets,,,data/education/databases-are-better-than-spreadsheets.md
-disaster debrief assistant,,,preparedness/disaster-debrief-assistant.md
-disaster preparedness expert,,,preparedness/disaster-preparedness-expert.md
-disaster scenario ideator,,,preparedness/disaster-scenario-ideator.md
-do we need this meeting,,,productivity/do-we-need-this-meeting.md
-document stats and numbers miner,,,data/data-mining/document-stats-and-numbers-miner.md
-document table finder,,,data/data-discovery/document-table-finder.md
-dummy  csv data generator,,,data/data-utilities/dummy--csv-data-generator.md
-dummy tech project ideator,,,data/data-utilities/dummy-tech-project-ideator.md
-eco ninja3,,,data/data-discovery/eco-ninja3.md
-email disaster,,,for-fun/email-disaster.md
-email optimiser,,,writing/email-optimiser.md
-emergency shelter finding guidance,,,preparedness/emergency-shelter-finding-guidance.md
-find a bar near me,,,travel/find-a-bar-near-me.md
-find me a guinness,,,travel/find-me-a-guinness.md
-find me compatible hardware,,,research/purchasing/find-me-compatible-hardware.md
-free tier ai software,,,ai-related/free-tier-ai-software.md
-freeform converter,,https://hf.co/chat/assistant/670cfcba1f325eee148c7c19,writing/freeform-converter.md
-gaslighting guardian,,,health/mental-health/gaslighting-guardian.md
-geopolitical brief generator,,,geopolitics/brief-generators/geopolitical-brief-generator.md
-geopolitical scenario simulator,,,geopolitics/simulators/geopolitical-scenario-simulator.md
-ghg emissions data,,,sustainability/data-discovery/ghg-emissions-data.md
-gifted adult helper,,,health/mental-health/gifted-adult-helper.md
-gpt fleet optimisation utility,,,llms/agent-fleets/gpt-fleet-optimisation-utility.md
-gpt prompt chaining coach,,,prompt-eng/coaches/gpt-prompt-chaining-coach.md
-gpt test bench,,,llms/evaluation/gpt-test-bench.md
-gpt usage coach,,,llms/ideation/gpt-usage-coach.md
-graph database stack assistant,,,data/graph-databases/graph-database-stack-assistant.md
-grow with my job,,,career/grow-with-my-job.md
-help me remember that,,,organisation/help-me-remember-that.md
-if we don't change...,,,sustainability/if-we-don't-change....md
-image_to_sql_query,,,data/sql-helpers/image_to_sql_query.md
-improve my gpt prompt,,,prompt-eng/utilities/improve-my-gpt-prompt.md
-improve my script,,,development/improve-my-script.md
-in flight wifi,,,travel/in-flight-wifi.md
-indian and nepalese restaurant finder,,,food-and-drink/indian-and-nepalese-restaurant-finder.md
-israel sitreps,,,geopolitics/brief-generators/israel-sitreps.md
-iterative gpt suggester,,,llms/iterative-gpt-suggester.md
-job performance coach,,,career/job-performance-coach.md
-keep me on time,,,organisation/time-management/keep-me-on-time.md
-late night venues,,,travel/late-night-venues.md
-let's automate this,,,productivity/automation/let's-automate-this.md
-let's work remotely!,,,productivity/let's-work-remotely!.md
-life's a musical,,,for-fun/life's-a-musical.md
-location based threat briefer,,,preparedness/location-based-threat-briefer.md
-lousy pun joke generator,,,for-fun/lousy-pun-joke-generator.md
-low fat food options,,,health/low-fat-food-options.md
-luggage allowance helper,,,travel/luggage-allowance-helper.md
-media interview coach,,,professional/pr-and-comms/media-interview-coach.md
-media monitoring brief assistant,,,professional/pr-and-comms/media-monitoring-brief-assistant.md
-media monitoring helper,,,professional/pr-and-comms/media-monitoring-helper.md
-media opportunity screener,,,professional/pr-and-comms/media-opportunity-screener.md
-media outreach assistant,,,professional/pr-and-comms/media-outreach-assistant.md
-medieval english text generator,,,writing/medieval-english-text-generator.md
-meeting agenda assistant,,,professional/meeting-organisers/meeting-agenda-assistant.md
-meeting minutes recorder,,,professional/meeting-organisers/meeting-minutes-recorder.md
-movie advisor,,,entertainment/movie-advisor.md
-new statistics locator,,,data/data-discovery/new-statistics-locator.md
-open data finder,,,data/data-discovery/open-data-finder.md
-opportunities for comment pr assistant,,,professional/pr-and-comms/opportunities-for-comment-pr-assistant.md
-organisation relationship finder,,,data/data-utilities/organisation-relationship-finder.md
-personal conspiracy theory generator,,,for-fun/personal-conspiracy-theory-generator.md
-postgres_taxonomy_builder,,,data/taxonomies/postgres_taxonomy_builder.md
-postgresql expert,,,data/postgres/postgresql-expert.md
-preparedness advisor,,,preparedness/preparedness-advisor.md
-preparedness brief creator,,,preparedness/preparedness-brief-creator.md
-preparedness partner,,,preparedness/preparedness-partner.md
-prompt engineering digest,,,prompt-eng/news-digest/prompt-engineering-digest.md
-prompt shortener,,,prompt-eng/utilities/prompt-shortener.md
-prompt to llm,,https://hf.co/chat/assistant/674d7fd13b64184e69e89508,llm-tools/prompt-to-llm.md
-pub agenda generator,,,for-fun/pub-agenda-generator.md
-pub crawl creator,,,for-fun/pub-crawl-creator.md
-python chatgpt ap script builder,,,data/python-chatgpt-ap-script-builder.md
-quick email template generator,,,writing/quick-email-template-generator.md
-random gpt suggestion tool,,,llms/random-gpt-suggestion-tool.md
-recent documentary finder,,,for-fun/recent-documentary-finder.md
-recent report finder,,,sustainability/sustainability-reports/recent-report-finder.md
-regulation and policy comparison assistant,,,research/policy-analysis/regulation-and-policy-comparison-assistant.md
-report summariser,,,research/summarisers/report-summariser.md
-research with python tutorials generator,,,research/research-with-python-tutorials-generator.md
-ruggedized product finder,,,research/purchasing/ruggedized-product-finder.md
-schema genie,,,data/sql-helpers/schema-genie.md
-self hosted tech finder,,,tech-general/self-hosted-tech-finder.md
-sensory support gpt,,,health/mental-health/sensory-support-gpt.md
-sql data relationship helper,,,data/sql-helpers/sql-data-relationship-helper.md
-sustainability report finder,,,sustainability/sustainability-reports/sustainability-report-finder.md
-sustainable living advisor,,,sustainability/advisory/sustainable-living-advisor.md
-taxonomy and category builder,,,data/taxonomies/taxonomy-and-category-builder.md
-tech comparison head to head,,,utilities/tech-comparison-head-to-head.md
-tech improvement guide,,,tech-general/tech-improvement-guide.md
-tech product finder,,,research/tech-product-finder.md
-tech stack optimizer,,,tech-general/tech-stack-optimizer.md
-technology certification finder,,,career/technology-certification-finder.md
-text fixer (british_english),,,writing/text-fixer-(british_english).md
-the checklist pro,,,organisation/the-checklist-pro.md
-the creativity coach,,,health/mental-health/the-creativity-coach.md
-the database matchmaker,,,data/data-architecture/the-database-matchmaker.md
-the fake wine buff,,,for-fun/the-fake-wine-buff.md
-the professional skeptic,,,research/the-professional-skeptic.md
-the sunrise riser sleeping hours suggester,,,health/the-sunrise-riser-sleeping-hours-suggester.md
-topic to subreddit,,,research/topic-to-subreddit.md
-travel prep pro,,,travel/travel-prep-pro.md
-true story movie recommender,,,utilities/true-story-movie-recommender.md
-typo master,,,writing/typo-master.md
-vacation doomsday prepper,,,for-fun/vacation-doomsday-prepper.md
-voice mode mentor,,,productivity/voice-mode/voice-mode-mentor.md
-vscode to markdown,,,text-formatting/vscode-to-markdown.md
-weekly work planner,,,organisation/workflow-planners/weekly-work-planner.md
-weekly workflow planning assistant,,,organisation/workflow-planners/weekly-workflow-planning-assistant.md
-weird clothing suggester,,,for-fun/weird-clothing-suggester.md
-what's at this domain,,,utilities/what's-at-this-domain.md
-who's this person,,,utilities/who's-this-person.md
-worst eats guide,,,food-and-drink/worst-eats-guide.md
-ye olde text converter,,,writing/ye-olde-text-converter.md
-your friendly ai prof,,,ai-related/your-friendly-ai-prof.md
-readme,README.md,,
-folder_structure,non-docs/folder_structure.md,,
-badges,non-docs/badges.md,,
-config,non-docs/Drafting/Stack-Evaluator/config.md,,
-notes,non-docs/Drafting/Stack-Evaluator/notes.md,,
-date,non-docs/Exports/date.md,,
-list,non-docs/Exports/list.md,,
-date,non-docs/Exports/200824/date.md,,
-list,non-docs/Exports/200824/list.md,,
-amazon prime enabler,non-docs/Archived/Agents-original configs/Amazon Prime Enabler.md,,
-architecture and urban planning facts,non-docs/Archived/Agents-original configs/Architecture And Urban Planning Facts.md,,
-brand reliability gpt,non-docs/Archived/Agents-original configs/Brand Reliability GPT.md,,
-custom gpt configuration generator,non-docs/Archived/Agents-original configs/Custom GPT Configuration Generator.md,,
-custom gpt configuration helper,non-docs/Archived/Agents-original configs/Custom GPT Configuration Helper.md,,
-custom gpt creator,non-docs/Archived/Agents-original configs/Custom GPT Creator.md,,
-don't custom gpt alone!,non-docs/Archived/Agents-original configs/Don't Custom GPT Alone!.md,,
-engaging conversationalist,non-docs/Archived/Agents-original configs/Engaging Conversationalist.md,,
-executive visionary,non-docs/Archived/Agents-original configs/Executive Visionary.md,,
-fat content estimator,non-docs/Archived/Agents-original configs/Fat Content Estimator.md,,
-fedora hardware finder,non-docs/Archived/Agents-original configs/Fedora Hardware Finder.md,,
-flight mode,non-docs/Archived/Agents-original configs/Flight Mode.md,,
-forgetting something,non-docs/Archived/Agents-original configs/Forgetting Something.md,,
-gpt workbench development assistance,non-docs/Archived/Agents-original configs/GPT Workbench Development Assistance.md,,
-github repository summariser,non-docs/Archived/Agents-original configs/Github Repository Summariser.md,,
-greenhouse gas emissions data finder,non-docs/Archived/Agents-original configs/Greenhouse Gas Emissions Data Finder.md,,
-impact investing digest,non-docs/Archived/Agents-original configs/Impact Investing Digest.md,,
-let's change the world,non-docs/Archived/Agents-original configs/Let's Change The World.md,,
-let's delve into this,non-docs/Archived/Agents-original configs/Let's Delve Into This.md,,
-local duds food and drink,non-docs/Archived/Agents-original configs/Local Duds Food And Drink.md,,
-local products finder,non-docs/Archived/Agents-original configs/Local Products Finder.md,,
-medication legality guide,non-docs/Archived/Agents-original configs/Medication Legality Guide.md,,
-medication manager,non-docs/Archived/Agents-original configs/Medication Manager.md,,
-morning impact pep talk,non-docs/Archived/Agents-original configs/Morning Impact Pep Talk.md,,
-need_time_alone,non-docs/Archived/Agents-original configs/Need_Time_Alone.md,,
-personal data finder,non-docs/Archived/Agents-original configs/Personal Data Finder.md,,
-personal shopping list,non-docs/Archived/Agents-original configs/Personal Shopping List.md,,
-present selection helper,non-docs/Archived/Agents-original configs/Present Selection Helper.md,,
-quiet please,non-docs/Archived/Agents-original configs/Quiet Please.md,,
-rain expected,non-docs/Archived/Agents-original configs/Rain Expected.md,,
-safety scout,non-docs/Archived/Agents-original configs/Safety Scout.md,,
-self guided walking tour creator,non-docs/Archived/Agents-original configs/Self-Guided Walking Tour Creator.md,,
-shakesperean scribe,non-docs/Archived/Agents-original configs/Shakesperean Scribe.md,,
-sloth photo generator,non-docs/Archived/Agents-original configs/Sloth Photo Generator.md,,
-smartphone productivity guide,non-docs/Archived/Agents-original configs/Smartphone Productivity Guide.md,,
-social agenda creator,non-docs/Archived/Agents-original configs/Social Agenda Creator.md,,
-sound sensitivity explainer,non-docs/Archived/Agents-original configs/Sound Sensitivity Explainer.md,,
-stack research assistant,non-docs/Archived/Agents-original configs/Stack Research Assistant.md,,
-stat update helper,non-docs/Archived/Agents-original configs/Stat Update Helper.md,,
-subreddit finder,non-docs/Archived/Agents-original configs/Subreddit Finder.md,,
-the absurd solution guru,non-docs/Archived/Agents-original configs/The Absurd Solution Guru.md,,
-the data downer,non-docs/Archived/Agents-original configs/The Data Downer.md,,
-the eccentric's ally,non-docs/Archived/Agents-original configs/The Eccentric's Ally.md,,
-the family newsletter bore,non-docs/Archived/Agents-original configs/The Family Newsletter Bore.md,,
-the platitude king,non-docs/Archived/Agents-original configs/The Platitude King.md,,
-the prank master,non-docs/Archived/Agents-original configs/The Prank Master.md,,
-date,non-docs/Archived/Exports/200824/date.md,,
-list,non-docs/Archived/Exports/200824/list.md,,
-customgptideation,non-docs/Archived/Use_case_ideation/customgptideation.md,,
-adultadhd,non-docs/Archived/Use_case_ideation/by_use_case/adultadhd.md,,
-creativity,non-docs/Archived/Use_case_ideation/by_use_case/creativity.md,,
-data_engineering,non-docs/Archived/Use_case_ideation/by_use_case/data_engineering.md,,
-dataanalysis,non-docs/Archived/Use_case_ideation/by_use_case/dataanalysis.md,,
-datavisualisation,non-docs/Archived/Use_case_ideation/by_use_case/datavisualisation.md,,
-preparedness,non-docs/Archived/Use_case_ideation/by_use_case/preparedness.md,,
-productivity,non-docs/Archived/Use_case_ideation/by_use_case/productivity.md,,
-research_general,non-docs/Archived/Use_case_ideation/by_use_case/research_general.md,,
-gpt_self_optimisation,non-docs/Notes/gpt_self_optimisation.md,,
-gpturls,non-docs/Notes/gpturls.md,,
-pronouns,non-docs/Notes/pronouns.md,,
-storagesystem,non-docs/Notes/storagesystem.md,,
-customgptoptimiser,non-docs/Notes/Prompt_Snippets/customgptoptimiser.md,,
-promptoptimiser,non-docs/Notes/Prompt_Snippets/promptoptimiser.md,,
-demo_filled_template,non-docs/System/Templates/demo_filled_template.md,,
-gpt_log_template,non-docs/System/Templates/gpt_log_template.md,,
-don't custom gpt alone!,non-docs/System/To Update/Don't Custom GPT Alone!.md,,
-engaging conversationalist,non-docs/System/To Update/Engaging Conversationalist.md,,
-executive visionary,non-docs/System/To Update/Executive Visionary.md,,
-fat content estimator,non-docs/System/To Update/Fat Content Estimator.md,,
-fedora hardware finder,non-docs/System/To Update/Fedora Hardware Finder.md,,
-flight mode,non-docs/System/To Update/Flight Mode.md,,
-forgetting something,non-docs/System/To Update/Forgetting Something.md,,
-gpt workbench development assistance,non-docs/System/To Update/GPT Workbench Development Assistance.md,,
-github repository summariser,non-docs/System/To Update/Github Repository Summariser.md,,
-greenhouse gas emissions data finder,non-docs/System/To Update/Greenhouse Gas Emissions Data Finder.md,,
-impact investing digest,non-docs/System/To Update/Impact Investing Digest.md,,
-let's change the world,non-docs/System/To Update/Let's Change The World.md,,
-let's delve into this,non-docs/System/To Update/Let's Delve Into This.md,,
-local duds food and drink,non-docs/System/To Update/Local Duds Food And Drink.md,,
-local products finder,non-docs/System/To Update/Local Products Finder.md,,
-medication legality guide,non-docs/System/To Update/Medication Legality Guide.md,,
-medication manager,non-docs/System/To Update/Medication Manager.md,,
-morning impact pep talk,non-docs/System/To Update/Morning Impact Pep Talk.md,,
-need_time_alone,non-docs/System/To Update/Need_Time_Alone.md,,
-personal data finder,non-docs/System/To Update/Personal Data Finder.md,,
-personal shopping list,non-docs/System/To Update/Personal Shopping List.md,,
-present selection helper,non-docs/System/To Update/Present Selection Helper.md,,
-quiet please,non-docs/System/To Update/Quiet Please.md,,
-rain expected,non-docs/System/To Update/Rain Expected.md,,
-rewrite customgpt configs,non-docs/System/To Update/Rewrite-CustomGPT-Configs.md,,
-safety scout,non-docs/System/To Update/Safety Scout.md,,
-self guided walking tour creator,non-docs/System/To Update/Self-Guided Walking Tour Creator.md,,
-shakesperean scribe,non-docs/System/To Update/Shakesperean Scribe.md,,
-sloth photo generator,non-docs/System/To Update/Sloth Photo Generator.md,,
-smartphone productivity guide,non-docs/System/To Update/Smartphone Productivity Guide.md,,
-social agenda creator,non-docs/System/To Update/Social Agenda Creator.md,,
-sound sensitivity explainer,non-docs/System/To Update/Sound Sensitivity Explainer.md,,
-stack research assistant,non-docs/System/To Update/Stack Research Assistant.md,,
-stat update helper,non-docs/System/To Update/Stat Update Helper.md,,
-subreddit finder,non-docs/System/To Update/Subreddit Finder.md,,
-the absurd solution guru,non-docs/System/To Update/The Absurd Solution Guru.md,,
-the data downer,non-docs/System/To Update/The Data Downer.md,,
-the eccentric's ally,non-docs/System/To Update/The Eccentric's Ally.md,,
-the family newsletter bore,non-docs/System/To Update/The Family Newsletter Bore.md,,
-the platitude king,non-docs/System/To Update/The Platitude King.md,,
-the prank master,non-docs/System/To Update/The Prank Master.md,,
-ghg emissions report finder,non-docs/configs-as-files/md/ghg-emissions-report-finder.md,,
-urls,non-docs/Tracking/urls.md,,
+title,relative_path,added_to_huggingface,huggingfacechaturl
+a day in gpt land,ai-related/a-day-in-gpt-land.md,,
+acronym_to_organisation,utilities/acronym_to_organisation.md,,
+ai career ideator,ai-related/ai-career-ideator.md,,
+ai could help here,ai-related/ai-could-help-here.md,,
+ai tech advisor,ai-related/ai-tech-advisor.md,,
+airport food options,travel/airport-food-options.md,,
+automate my workflow,productivity/automation/automate-my-workflow.md,,
+backoffice development copilot,development/backoffice-development-copilot.md,,
+backoffice gpt creation assistant,development/backoffice-gpt-creation-assistant.md,,
+backup coach,tech-general/backup-coach.md,,
+backup evaluation assistant,tech-general/backup-evaluation-assistant.md,,
+bad jokes galore,for-fun/bad-jokes-galore.md,,
+beer tap identifier,food-and-drink/beer-tap-identifier.md,,
+boss update batcher,productivity/boss-update-batcher.md,,
+brainstorming assistant,productivity/brainstorming/brainstorming-assistant.md,,
+brainstorming coach,productivity/brainstorming/brainstorming-coach.md,,
+brand reliability checker,research/purchasing/brand-reliability-checker.md,,
+brief generator,writing/brief-generator.md,,
+broken link helper,utilities/broken-link-helper.md,,
+business continuity advisor,preparedness/business-continuity/business-continuity-advisor.md,,
+career pivot ideator,career/career-pivot-ideator.md,,
+chatgpt capabilities miner,llms/chat-gpt/chatgpt-capabilities-miner.md,,
+chatgpt prompt engineering buddy,llms/chat-gpt/chatgpt-prompt-engineering-buddy.md,,
+chatgpt to hf chat,utilities/chatgpt-to-hf-chat.md,,
+csv taxonomy generator,data/taxonomies/csv-taxonomy-generator.md,,
+csv to markdown reformatter,data/csv-to-markdown-reformatter.md,,
+daily schedule manager,organisation/workflow-planners/daily-schedule-manager.md,,
+data organisation genie,data/data-organisation-genie.md,,
+data relationships utility,data/data-utilities/data-relationships-utility.md,,
+data visualisation and storytelling guide,data/data-visualisation/data-visualisation-and-storytelling-guide.md,,
+databases are better than spreadsheets,data/education/databases-are-better-than-spreadsheets.md,,
+disaster debrief assistant,preparedness/disaster-debrief-assistant.md,,
+disaster preparedness expert,preparedness/disaster-preparedness-expert.md,,
+disaster scenario ideator,preparedness/disaster-scenario-ideator.md,,
+do we need this meeting,productivity/do-we-need-this-meeting.md,,
+document stats and numbers miner,data/data-mining/document-stats-and-numbers-miner.md,,
+document table finder,data/data-discovery/document-table-finder.md,,
+dummy  csv data generator,data/data-utilities/dummy--csv-data-generator.md,,
+dummy tech project ideator,data/data-utilities/dummy-tech-project-ideator.md,,
+eco ninja3,data/data-discovery/eco-ninja3.md,,
+email disaster,for-fun/email-disaster.md,,
+email optimiser,writing/email-optimiser.md,,
+emergency shelter finding guidance,preparedness/emergency-shelter-finding-guidance.md,,
+find a bar near me,travel/find-a-bar-near-me.md,,
+find me a guinness,travel/find-me-a-guinness.md,,
+find me compatible hardware,research/purchasing/find-me-compatible-hardware.md,,
+free tier ai software,ai-related/free-tier-ai-software.md,,
+freeform converter,writing/freeform-converter.md,,
+gaslighting guardian,health/mental-health/gaslighting-guardian.md,,
+geopolitical brief generator,geopolitics/brief-generators/geopolitical-brief-generator.md,,
+geopolitical scenario simulator,geopolitics/simulators/geopolitical-scenario-simulator.md,,
+ghg emissions data,sustainability/data-discovery/ghg-emissions-data.md,,
+gifted adult helper,health/mental-health/gifted-adult-helper.md,,
+gpt fleet optimisation utility,llms/agent-fleets/gpt-fleet-optimisation-utility.md,,
+gpt prompt chaining coach,prompt-eng/coaches/gpt-prompt-chaining-coach.md,,
+gpt test bench,llms/evaluation/gpt-test-bench.md,,
+gpt usage coach,llms/ideation/gpt-usage-coach.md,,
+graph database stack assistant,data/graph-databases/graph-database-stack-assistant.md,,
+grow with my job,career/grow-with-my-job.md,,
+help me remember that,organisation/help-me-remember-that.md,,
+if we don't change...,sustainability/if-we-don't-change....md,,
+image_to_sql_query,data/sql-helpers/image_to_sql_query.md,,
+improve my gpt prompt,prompt-eng/utilities/improve-my-gpt-prompt.md,,
+improve my script,development/improve-my-script.md,,
+in flight wifi,travel/in-flight-wifi.md,,
+indian and nepalese restaurant finder,food-and-drink/indian-and-nepalese-restaurant-finder.md,,
+israel sitreps,geopolitics/brief-generators/israel-sitreps.md,,
+iterative gpt suggester,llms/iterative-gpt-suggester.md,,
+job performance coach,career/job-performance-coach.md,,
+keep me on time,organisation/time-management/keep-me-on-time.md,,
+late night venues,travel/late-night-venues.md,,
+let's automate this,productivity/automation/let's-automate-this.md,,
+let's work remotely!,productivity/let's-work-remotely!.md,,
+life's a musical,for-fun/life's-a-musical.md,,
+llm output judge,llms/llm-output-judge.md,,
+location based threat briefer,preparedness/location-based-threat-briefer.md,,
+lousy pun joke generator,for-fun/lousy-pun-joke-generator.md,,
+low fat food options,health/low-fat-food-options.md,,
+luggage allowance helper,travel/luggage-allowance-helper.md,,
+media interview coach,professional/pr-and-comms/media-interview-coach.md,,
+media monitoring brief assistant,professional/pr-and-comms/media-monitoring-brief-assistant.md,,
+media monitoring helper,professional/pr-and-comms/media-monitoring-helper.md,,
+media opportunity screener,professional/pr-and-comms/media-opportunity-screener.md,,
+media outreach assistant,professional/pr-and-comms/media-outreach-assistant.md,,
+medieval english text generator,writing/medieval-english-text-generator.md,,
+meeting agenda assistant,professional/meeting-organisers/meeting-agenda-assistant.md,,
+meeting minutes recorder,professional/meeting-organisers/meeting-minutes-recorder.md,,
+movie advisor,entertainment/movie-advisor.md,,
+new statistics locator,data/data-discovery/new-statistics-locator.md,,
+open data finder,data/data-discovery/open-data-finder.md,,
+opportunities for comment pr assistant,professional/pr-and-comms/opportunities-for-comment-pr-assistant.md,,
+organisation relationship finder,data/data-utilities/organisation-relationship-finder.md,,
+personal conspiracy theory generator,for-fun/personal-conspiracy-theory-generator.md,,
+postgres_taxonomy_builder,data/taxonomies/postgres_taxonomy_builder.md,,
+postgresql expert,data/postgres/postgresql-expert.md,,
+preparedness advisor,preparedness/preparedness-advisor.md,,
+preparedness brief creator,preparedness/preparedness-brief-creator.md,,
+preparedness partner,preparedness/preparedness-partner.md,,
+prompt engineering digest,prompt-eng/news-digest/prompt-engineering-digest.md,,
+prompt shortener,prompt-eng/utilities/prompt-shortener.md,,
+prompt to llm,llm-tools/prompt-to-llm.md,,
+pub agenda generator,for-fun/pub-agenda-generator.md,,
+pub crawl creator,for-fun/pub-crawl-creator.md,,
+python chatgpt ap script builder,data/python-chatgpt-ap-script-builder.md,,
+quick email template generator,writing/quick-email-template-generator.md,,
+random gpt suggestion tool,llms/random-gpt-suggestion-tool.md,,
+recent documentary finder,for-fun/recent-documentary-finder.md,,
+recent report finder,sustainability/sustainability-reports/recent-report-finder.md,,
+regulation and policy comparison assistant,research/policy-analysis/regulation-and-policy-comparison-assistant.md,,
+report summariser,research/summarisers/report-summariser.md,,
+research with python tutorials generator,research/research-with-python-tutorials-generator.md,,
+ruggedized product finder,research/purchasing/ruggedized-product-finder.md,,
+schema genie,data/sql-helpers/schema-genie.md,,
+self hosted tech finder,tech-general/self-hosted-tech-finder.md,,
+sensory support gpt,health/mental-health/sensory-support-gpt.md,,
+sql data relationship helper,data/sql-helpers/sql-data-relationship-helper.md,,
+sustainability report finder,sustainability/sustainability-reports/sustainability-report-finder.md,,
+sustainable living advisor,sustainability/advisory/sustainable-living-advisor.md,,
+taxonomy and category builder,data/taxonomies/taxonomy-and-category-builder.md,,
+tech comparison head to head,utilities/tech-comparison-head-to-head.md,,
+tech improvement guide,tech-general/tech-improvement-guide.md,,
+tech product finder,research/tech-product-finder.md,,
+tech stack optimizer,tech-general/tech-stack-optimizer.md,,
+technology certification finder,career/technology-certification-finder.md,,
+text fixer (british_english),writing/text-fixer-(british_english).md,,
+the checklist pro,organisation/the-checklist-pro.md,,
+the creativity coach,health/mental-health/the-creativity-coach.md,,
+the database matchmaker,data/data-architecture/the-database-matchmaker.md,,
+the fake wine buff,for-fun/the-fake-wine-buff.md,,
+the professional skeptic,research/the-professional-skeptic.md,,
+the sunrise riser sleeping hours suggester,health/the-sunrise-riser-sleeping-hours-suggester.md,,
+topic to subreddit,research/topic-to-subreddit.md,,
+travel prep pro,travel/travel-prep-pro.md,,
+true story movie recommender,utilities/true-story-movie-recommender.md,,
+typo master,writing/typo-master.md,,
+vacation doomsday prepper,for-fun/vacation-doomsday-prepper.md,,
+voice mode mentor,productivity/voice-mode/voice-mode-mentor.md,,
+vscode to markdown,text-formatting/vscode-to-markdown.md,,
+weekly work planner,organisation/workflow-planners/weekly-work-planner.md,,
+weekly workflow planning assistant,organisation/workflow-planners/weekly-workflow-planning-assistant.md,,
+weird clothing suggester,for-fun/weird-clothing-suggester.md,,
+what's at this domain,utilities/what's-at-this-domain.md,,
+who's this person,utilities/who's-this-person.md,,
+worst eats guide,food-and-drink/worst-eats-guide.md,,
+ye olde text converter,writing/ye-olde-text-converter.md,,
+your friendly ai prof,ai-related/your-friendly-ai-prof.md,,
