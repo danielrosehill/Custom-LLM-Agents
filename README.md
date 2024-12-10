@@ -14,29 +14,29 @@
 | ai could help here |  | [link](ai-related/ai-could-help-here.md) |
 | ai tech advisor | [link](https://hf.co/chat/assistant/6701df2bcb513bb057ded3a8) | [link](ai-related/ai-tech-advisor.md) |
 | airport food options |  | [link](travel/airport-food-options.md) |
-| automate my workflow |  | [link](productivity/automation/automate-my-workflow.md) |
+| automate my workflow | [link](https://hf.co/chat/assistant/67579ee97ab12b601c7fd9fd) | [link](productivity/automation/automate-my-workflow.md) |
 | backoffice development copilot |  | [link](development/backoffice-development-copilot.md) |
 | backoffice gpt creation assistant |  | [link](development/backoffice-gpt-creation-assistant.md) |
 | backup coach | [link](https://hf.co/chat/assistant/6701e064b41b0e86f9d5acdd) | [link](tech-general/backup-coach.md) |
 | backup evaluation assistant |  | [link](tech-general/backup-evaluation-assistant.md) |
 | bad jokes galore |  | [link](for-fun/bad-jokes-galore.md) |
 | beer tap identifier | [link](https://hf.co/chat/assistant/674d41200a1ac006d7354790) | [link](food-and-drink/beer-tap-identifier.md) |
-| boss update batcher |  | [link](productivity/boss-update-batcher.md) |
+| boss update batcher | [link](https://hf.co/chat/assistant/67579f6a2526a3ccbf0c76ac) | [link](productivity/boss-update-batcher.md) |
 | brainstorming assistant |  | [link](productivity/brainstorming/brainstorming-assistant.md) |
 | brainstorming coach |  | [link](productivity/brainstorming/brainstorming-coach.md) |
 | brand reliability checker |  | [link](research/purchasing/brand-reliability-checker.md) |
-| brief generator |  | [link](writing/brief-generator.md) |
-| broken link helper |  | [link](utilities/broken-link-helper.md) |
+| brief generator | [link](https://hf.co/chat/assistant/67579fd5ca07b5d6830df516) | [link](writing/brief-generator.md) |
+| broken link helper | [link](https://hf.co/chat/assistant/6757a04fca07b5d6830df541) | [link](utilities/broken-link-helper.md) |
 | business continuity advisor |  | [link](preparedness/business-continuity/business-continuity-advisor.md) |
 | career pivot ideator |  | [link](career/career-pivot-ideator.md) |
 | chatgpt capabilities miner |  | [link](llms/chat-gpt/chatgpt-capabilities-miner.md) |
 | chatgpt prompt engineering buddy |  | [link](llms/chat-gpt/chatgpt-prompt-engineering-buddy.md) |
 | chatgpt to hf chat |  | [link](utilities/chatgpt-to-hf-chat.md) |
-| csv taxonomy generator |  | [link](data/taxonomies/csv-taxonomy-generator.md) |
+| csv taxonomy generator | [link](https://hf.co/chat/assistant/6757a0aca55bdf54377f8c70) | [link](data/taxonomies/csv-taxonomy-generator.md) |
 | csv to markdown reformatter |  | [link](data/csv-to-markdown-reformatter.md) |
 | daily schedule manager |  | [link](organisation/workflow-planners/daily-schedule-manager.md) |
-| data organisation genie |  | [link](data/data-organisation-genie.md) |
-| data relationships utility |  | [link](data/data-utilities/data-relationships-utility.md) |
+| data organisation genie | [link](https://hf.co/chat/assistant/6757a4267ab12b601c7fdd86) | [link](data/data-organisation-genie.md) |
+| data relationships utility | [link](https://hf.co/chat/assistant/6757a45aa55bdf54377f8f33) | [link](data/data-utilities/data-relationships-utility.md) |
 | data visualisation and storytelling guide |  | [link](data/data-visualisation/data-visualisation-and-storytelling-guide.md) |
 | databases are better than spreadsheets |  | [link](data/education/databases-are-better-than-spreadsheets.md) |
 | disaster debrief assistant |  | [link](preparedness/disaster-debrief-assistant.md) |
@@ -44,7 +44,7 @@
 | disaster scenario ideator |  | [link](preparedness/disaster-scenario-ideator.md) |
 | do we need this meeting |  | [link](productivity/do-we-need-this-meeting.md) |
 | document stats and numbers miner |  | [link](data/data-mining/document-stats-and-numbers-miner.md) |
-| document table finder |  | [link](data/data-discovery/document-table-finder.md) |
+| document table finder | [link](https://hf.co/chat/assistant/6757a52e2526a3ccbf0c7ac5) | [link](data/data-discovery/document-table-finder.md) |
 | dummy  csv data generator |  | [link](data/data-utilities/dummy--csv-data-generator.md) |
 | dummy tech project ideator |  | [link](data/data-utilities/dummy-tech-project-ideator.md) |
 | eco ninja3 |  | [link](data/data-discovery/eco-ninja3.md) |
@@ -58,7 +58,7 @@
 | freeform converter | [link](https://hf.co/chat/assistant/670cfcba1f325eee148c7c19) | [link](writing/freeform-converter.md) |
 | gaslighting guardian |  | [link](health/mental-health/gaslighting-guardian.md) |
 | geopolitical brief generator |  | [link](geopolitics/brief-generators/geopolitical-brief-generator.md) |
-| geopolitical scenario simulator |  | [link](geopolitics/simulators/geopolitical-scenario-simulator.md) |
+| geopolitical scenario simulator | [link](https://hf.co/chat/assistant/6757a6b19370b67839010745) | [link](geopolitics/simulators/geopolitical-scenario-simulator.md) |
 | ghg emissions data |  | [link](sustainability/data-discovery/ghg-emissions-data.md) |
 | gifted adult helper |  | [link](health/mental-health/gifted-adult-helper.md) |
 | gpt fleet optimisation utility |  | [link](llms/agent-fleets/gpt-fleet-optimisation-utility.md) |
