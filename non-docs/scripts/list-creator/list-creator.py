@@ -10,9 +10,9 @@ def format_title(file_name):
 
 def generate_csv():
     """
-    Generate a two-column CSV file at the base of the repository with readable titles
-    and HuggingFace identifiers derived from markdown file names in the repository.
-    Avoid duplicate entries when the script is run repeatedly.
+    Generate a four-column CSV file at the root of the repository with readable titles,
+    relative paths, and additional columns for HuggingFace status and URL. Avoid duplicate
+    entries when the script is run repeatedly.
     """
     # Get the absolute path of the current working directory
     current_dir = os.path.abspath(os.getcwd())
@@ -24,17 +24,18 @@ def generate_csv():
             raise RuntimeError("Could not find the base of the repository.")
         current_dir = parent_dir
 
-    base_dir = current_dir
+    base_dir = current_dir  # The root of the repository
 
-    # Initialize a list to store markdown file names
+    # Initialize a list to store markdown file names and their relative paths
     markdown_files = []
 
     # Walk through the directory tree starting from where the script is executed
-    for root, dirs, files in os.walk(os.getcwd()):
+    for root, dirs, files in os.walk(base_dir):  # Start from the root of the repository
         for file in files:
             if file.endswith('.md'):
-                # Append the file name without extension
-                markdown_files.append(file[:-3])
+                # Get relative path and file name without extension
+                relative_path = os.path.relpath(os.path.join(root, file), base_dir)
+                markdown_files.append((file[:-3], relative_path))
 
     # Define the path for the CSV file at the base of the repository
     csv_path = os.path.join(base_dir, 'list.csv')
@@ -53,11 +54,11 @@ def generate_csv():
     with open(csv_path, mode='a', newline='', encoding='utf-8') as csv_file:
         writer = csv.writer(csv_file)
         if not os.path.exists(csv_path) or os.stat(csv_path).st_size == 0:  # Write header row only if new file
-            writer.writerow(['Title', 'HuggingFace'])
-        for file_name in markdown_files:
+            writer.writerow(['title', 'relative_path', 'added_to_huggingface', 'huggingfacechaturl'])
+        for file_name, relative_path in markdown_files:
             formatted_title = format_title(file_name)
             if formatted_title not in existing_titles:
-                writer.writerow([formatted_title, 'Added to HuggingFace'])
+                writer.writerow([formatted_title, relative_path, '', ''])  # Empty values for added_to_huggingface and huggingfacechaturl
 
 # Call the function to generate CSV
 generate_csv()
