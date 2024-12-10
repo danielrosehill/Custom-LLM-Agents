@@ -5,6 +5,272 @@
 ![Sloth making a new LLM](images/banner.webp)
 
 ## Index
+<!-- START OF GENERATED TABLE -->
+| Title | HuggingFace URL | Repository File Link |
+| --- | --- | --- |
+| a day in gpt land |  | [link](ai-related/a-day-in-gpt-land.md) |
+| acronym_to_organisation |  | [link](utilities/acronym_to_organisation.md) |
+| ai career ideator | [link](https://hf.co/chat/assistant/6701df91cb513bb057ded417) | [link](ai-related/ai-career-ideator.md) |
+| ai could help here |  | [link](ai-related/ai-could-help-here.md) |
+| ai tech advisor | [link](https://hf.co/chat/assistant/6701df2bcb513bb057ded3a8) | [link](ai-related/ai-tech-advisor.md) |
+| airport food options |  | [link](travel/airport-food-options.md) |
+| automate my workflow |  | [link](productivity/automation/automate-my-workflow.md) |
+| backoffice development copilot |  | [link](development/backoffice-development-copilot.md) |
+| backoffice gpt creation assistant |  | [link](development/backoffice-gpt-creation-assistant.md) |
+| backup coach | [link](https://hf.co/chat/assistant/6701e064b41b0e86f9d5acdd) | [link](tech-general/backup-coach.md) |
+| backup evaluation assistant |  | [link](tech-general/backup-evaluation-assistant.md) |
+| bad jokes galore |  | [link](for-fun/bad-jokes-galore.md) |
+| beer tap identifier | [link](https://hf.co/chat/assistant/674d41200a1ac006d7354790) | [link](food-and-drink/beer-tap-identifier.md) |
+| boss update batcher |  | [link](productivity/boss-update-batcher.md) |
+| brainstorming assistant |  | [link](productivity/brainstorming/brainstorming-assistant.md) |
+| brainstorming coach |  | [link](productivity/brainstorming/brainstorming-coach.md) |
+| brand reliability checker |  | [link](research/purchasing/brand-reliability-checker.md) |
+| brief generator |  | [link](writing/brief-generator.md) |
+| broken link helper |  | [link](utilities/broken-link-helper.md) |
+| business continuity advisor |  | [link](preparedness/business-continuity/business-continuity-advisor.md) |
+| career pivot ideator |  | [link](career/career-pivot-ideator.md) |
+| chatgpt capabilities miner |  | [link](llms/chat-gpt/chatgpt-capabilities-miner.md) |
+| chatgpt prompt engineering buddy |  | [link](llms/chat-gpt/chatgpt-prompt-engineering-buddy.md) |
+| chatgpt to hf chat |  | [link](utilities/chatgpt-to-hf-chat.md) |
+| csv taxonomy generator |  | [link](data/taxonomies/csv-taxonomy-generator.md) |
+| csv to markdown reformatter |  | [link](data/csv-to-markdown-reformatter.md) |
+| daily schedule manager |  | [link](organisation/workflow-planners/daily-schedule-manager.md) |
+| data organisation genie |  | [link](data/data-organisation-genie.md) |
+| data relationships utility |  | [link](data/data-utilities/data-relationships-utility.md) |
+| data visualisation and storytelling guide |  | [link](data/data-visualisation/data-visualisation-and-storytelling-guide.md) |
+| databases are better than spreadsheets |  | [link](data/education/databases-are-better-than-spreadsheets.md) |
+| disaster debrief assistant |  | [link](preparedness/disaster-debrief-assistant.md) |
+| disaster preparedness expert |  | [link](preparedness/disaster-preparedness-expert.md) |
+| disaster scenario ideator |  | [link](preparedness/disaster-scenario-ideator.md) |
+| do we need this meeting |  | [link](productivity/do-we-need-this-meeting.md) |
+| document stats and numbers miner |  | [link](data/data-mining/document-stats-and-numbers-miner.md) |
+| document table finder |  | [link](data/data-discovery/document-table-finder.md) |
+| dummy  csv data generator |  | [link](data/data-utilities/dummy--csv-data-generator.md) |
+| dummy tech project ideator |  | [link](data/data-utilities/dummy-tech-project-ideator.md) |
+| eco ninja3 |  | [link](data/data-discovery/eco-ninja3.md) |
+| email disaster |  | [link](for-fun/email-disaster.md) |
+| email optimiser |  | [link](writing/email-optimiser.md) |
+| emergency shelter finding guidance |  | [link](preparedness/emergency-shelter-finding-guidance.md) |
+| find a bar near me |  | [link](travel/find-a-bar-near-me.md) |
+| find me a guinness |  | [link](travel/find-me-a-guinness.md) |
+| find me compatible hardware |  | [link](research/purchasing/find-me-compatible-hardware.md) |
+| free tier ai software |  | [link](ai-related/free-tier-ai-software.md) |
+| freeform converter | [link](https://hf.co/chat/assistant/670cfcba1f325eee148c7c19) | [link](writing/freeform-converter.md) |
+| gaslighting guardian |  | [link](health/mental-health/gaslighting-guardian.md) |
+| geopolitical brief generator |  | [link](geopolitics/brief-generators/geopolitical-brief-generator.md) |
+| geopolitical scenario simulator |  | [link](geopolitics/simulators/geopolitical-scenario-simulator.md) |
+| ghg emissions data |  | [link](sustainability/data-discovery/ghg-emissions-data.md) |
+| gifted adult helper |  | [link](health/mental-health/gifted-adult-helper.md) |
+| gpt fleet optimisation utility |  | [link](llms/agent-fleets/gpt-fleet-optimisation-utility.md) |
+| gpt prompt chaining coach |  | [link](prompt-eng/coaches/gpt-prompt-chaining-coach.md) |
+| gpt test bench |  | [link](llms/evaluation/gpt-test-bench.md) |
+| gpt usage coach |  | [link](llms/ideation/gpt-usage-coach.md) |
+| graph database stack assistant |  | [link](data/graph-databases/graph-database-stack-assistant.md) |
+| grow with my job |  | [link](career/grow-with-my-job.md) |
+| help me remember that |  | [link](organisation/help-me-remember-that.md) |
+| if we don't change... |  | [link](sustainability/if-we-don't-change....md) |
+| image_to_sql_query |  | [link](data/sql-helpers/image_to_sql_query.md) |
+| improve my gpt prompt |  | [link](prompt-eng/utilities/improve-my-gpt-prompt.md) |
+| improve my script |  | [link](development/improve-my-script.md) |
+| in flight wifi |  | [link](travel/in-flight-wifi.md) |
+| indian and nepalese restaurant finder |  | [link](food-and-drink/indian-and-nepalese-restaurant-finder.md) |
+| israel sitreps |  | [link](geopolitics/brief-generators/israel-sitreps.md) |
+| iterative gpt suggester |  | [link](llms/iterative-gpt-suggester.md) |
+| job performance coach |  | [link](career/job-performance-coach.md) |
+| keep me on time |  | [link](organisation/time-management/keep-me-on-time.md) |
+| late night venues |  | [link](travel/late-night-venues.md) |
+| let's automate this |  | [link](productivity/automation/let's-automate-this.md) |
+| let's work remotely! |  | [link](productivity/let's-work-remotely!.md) |
+| life's a musical |  | [link](for-fun/life's-a-musical.md) |
+| location based threat briefer |  | [link](preparedness/location-based-threat-briefer.md) |
+| lousy pun joke generator |  | [link](for-fun/lousy-pun-joke-generator.md) |
+| low fat food options |  | [link](health/low-fat-food-options.md) |
+| luggage allowance helper |  | [link](travel/luggage-allowance-helper.md) |
+| media interview coach |  | [link](professional/pr-and-comms/media-interview-coach.md) |
+| media monitoring brief assistant |  | [link](professional/pr-and-comms/media-monitoring-brief-assistant.md) |
+| media monitoring helper |  | [link](professional/pr-and-comms/media-monitoring-helper.md) |
+| media opportunity screener |  | [link](professional/pr-and-comms/media-opportunity-screener.md) |
+| media outreach assistant |  | [link](professional/pr-and-comms/media-outreach-assistant.md) |
+| medieval english text generator |  | [link](writing/medieval-english-text-generator.md) |
+| meeting agenda assistant |  | [link](professional/meeting-organisers/meeting-agenda-assistant.md) |
+| meeting minutes recorder |  | [link](professional/meeting-organisers/meeting-minutes-recorder.md) |
+| movie advisor |  | [link](entertainment/movie-advisor.md) |
+| new statistics locator |  | [link](data/data-discovery/new-statistics-locator.md) |
+| open data finder |  | [link](data/data-discovery/open-data-finder.md) |
+| opportunities for comment pr assistant |  | [link](professional/pr-and-comms/opportunities-for-comment-pr-assistant.md) |
+| organisation relationship finder |  | [link](data/data-utilities/organisation-relationship-finder.md) |
+| personal conspiracy theory generator |  | [link](for-fun/personal-conspiracy-theory-generator.md) |
+| postgres_taxonomy_builder |  | [link](data/taxonomies/postgres_taxonomy_builder.md) |
+| postgresql expert |  | [link](data/postgres/postgresql-expert.md) |
+| preparedness advisor |  | [link](preparedness/preparedness-advisor.md) |
+| preparedness brief creator |  | [link](preparedness/preparedness-brief-creator.md) |
+| preparedness partner |  | [link](preparedness/preparedness-partner.md) |
+| prompt engineering digest |  | [link](prompt-eng/news-digest/prompt-engineering-digest.md) |
+| prompt shortener |  | [link](prompt-eng/utilities/prompt-shortener.md) |
+| prompt to llm | [link](https://hf.co/chat/assistant/674d7fd13b64184e69e89508) | [link](llm-tools/prompt-to-llm.md) |
+| pub agenda generator |  | [link](for-fun/pub-agenda-generator.md) |
+| pub crawl creator |  | [link](for-fun/pub-crawl-creator.md) |
+| python chatgpt ap script builder |  | [link](data/python-chatgpt-ap-script-builder.md) |
+| quick email template generator |  | [link](writing/quick-email-template-generator.md) |
+| random gpt suggestion tool |  | [link](llms/random-gpt-suggestion-tool.md) |
+| recent documentary finder |  | [link](for-fun/recent-documentary-finder.md) |
+| recent report finder |  | [link](sustainability/sustainability-reports/recent-report-finder.md) |
+| regulation and policy comparison assistant |  | [link](research/policy-analysis/regulation-and-policy-comparison-assistant.md) |
+| report summariser |  | [link](research/summarisers/report-summariser.md) |
+| research with python tutorials generator |  | [link](research/research-with-python-tutorials-generator.md) |
+| ruggedized product finder |  | [link](research/purchasing/ruggedized-product-finder.md) |
+| schema genie |  | [link](data/sql-helpers/schema-genie.md) |
+| self hosted tech finder |  | [link](tech-general/self-hosted-tech-finder.md) |
+| sensory support gpt |  | [link](health/mental-health/sensory-support-gpt.md) |
+| sql data relationship helper |  | [link](data/sql-helpers/sql-data-relationship-helper.md) |
+| sustainability report finder |  | [link](sustainability/sustainability-reports/sustainability-report-finder.md) |
+| sustainable living advisor |  | [link](sustainability/advisory/sustainable-living-advisor.md) |
+| taxonomy and category builder |  | [link](data/taxonomies/taxonomy-and-category-builder.md) |
+| tech comparison head to head |  | [link](utilities/tech-comparison-head-to-head.md) |
+| tech improvement guide |  | [link](tech-general/tech-improvement-guide.md) |
+| tech product finder |  | [link](research/tech-product-finder.md) |
+| tech stack optimizer |  | [link](tech-general/tech-stack-optimizer.md) |
+| technology certification finder |  | [link](career/technology-certification-finder.md) |
+| text fixer (british_english) |  | [link](writing/text-fixer-(british_english).md) |
+| the checklist pro |  | [link](organisation/the-checklist-pro.md) |
+| the creativity coach |  | [link](health/mental-health/the-creativity-coach.md) |
+| the database matchmaker |  | [link](data/data-architecture/the-database-matchmaker.md) |
+| the fake wine buff |  | [link](for-fun/the-fake-wine-buff.md) |
+| the professional skeptic |  | [link](research/the-professional-skeptic.md) |
+| the sunrise riser sleeping hours suggester |  | [link](health/the-sunrise-riser-sleeping-hours-suggester.md) |
+| topic to subreddit |  | [link](research/topic-to-subreddit.md) |
+| travel prep pro |  | [link](travel/travel-prep-pro.md) |
+| true story movie recommender |  | [link](utilities/true-story-movie-recommender.md) |
+| typo master |  | [link](writing/typo-master.md) |
+| vacation doomsday prepper |  | [link](for-fun/vacation-doomsday-prepper.md) |
+| voice mode mentor |  | [link](productivity/voice-mode/voice-mode-mentor.md) |
+| vscode to markdown |  | [link](text-formatting/vscode-to-markdown.md) |
+| weekly work planner |  | [link](organisation/workflow-planners/weekly-work-planner.md) |
+| weekly workflow planning assistant |  | [link](organisation/workflow-planners/weekly-workflow-planning-assistant.md) |
+| weird clothing suggester |  | [link](for-fun/weird-clothing-suggester.md) |
+| what's at this domain |  | [link](utilities/what's-at-this-domain.md) |
+| who's this person |  | [link](utilities/who's-this-person.md) |
+| worst eats guide |  | [link](food-and-drink/worst-eats-guide.md) |
+| ye olde text converter |  | [link](writing/ye-olde-text-converter.md) |
+| your friendly ai prof |  | [link](ai-related/your-friendly-ai-prof.md) |
+| readme |  |  |
+| folder_structure |  |  |
+| badges |  |  |
+| config |  |  |
+| notes |  |  |
+| date |  |  |
+| list |  |  |
+| date |  |  |
+| list |  |  |
+| amazon prime enabler |  |  |
+| architecture and urban planning facts |  |  |
+| brand reliability gpt |  |  |
+| custom gpt configuration generator |  |  |
+| custom gpt configuration helper |  |  |
+| custom gpt creator |  |  |
+| don't custom gpt alone! |  |  |
+| engaging conversationalist |  |  |
+| executive visionary |  |  |
+| fat content estimator |  |  |
+| fedora hardware finder |  |  |
+| flight mode |  |  |
+| forgetting something |  |  |
+| gpt workbench development assistance |  |  |
+| github repository summariser |  |  |
+| greenhouse gas emissions data finder |  |  |
+| impact investing digest |  |  |
+| let's change the world |  |  |
+| let's delve into this |  |  |
+| local duds food and drink |  |  |
+| local products finder |  |  |
+| medication legality guide |  |  |
+| medication manager |  |  |
+| morning impact pep talk |  |  |
+| need_time_alone |  |  |
+| personal data finder |  |  |
+| personal shopping list |  |  |
+| present selection helper |  |  |
+| quiet please |  |  |
+| rain expected |  |  |
+| safety scout |  |  |
+| self guided walking tour creator |  |  |
+| shakesperean scribe |  |  |
+| sloth photo generator |  |  |
+| smartphone productivity guide |  |  |
+| social agenda creator |  |  |
+| sound sensitivity explainer |  |  |
+| stack research assistant |  |  |
+| stat update helper |  |  |
+| subreddit finder |  |  |
+| the absurd solution guru |  |  |
+| the data downer |  |  |
+| the eccentric's ally |  |  |
+| the family newsletter bore |  |  |
+| the platitude king |  |  |
+| the prank master |  |  |
+| date |  |  |
+| list |  |  |
+| customgptideation |  |  |
+| adultadhd |  |  |
+| creativity |  |  |
+| data_engineering |  |  |
+| dataanalysis |  |  |
+| datavisualisation |  |  |
+| preparedness |  |  |
+| productivity |  |  |
+| research_general |  |  |
+| gpt_self_optimisation |  |  |
+| gpturls |  |  |
+| pronouns |  |  |
+| storagesystem |  |  |
+| customgptoptimiser |  |  |
+| promptoptimiser |  |  |
+| demo_filled_template |  |  |
+| gpt_log_template |  |  |
+| don't custom gpt alone! |  |  |
+| engaging conversationalist |  |  |
+| executive visionary |  |  |
+| fat content estimator |  |  |
+| fedora hardware finder |  |  |
+| flight mode |  |  |
+| forgetting something |  |  |
+| gpt workbench development assistance |  |  |
+| github repository summariser |  |  |
+| greenhouse gas emissions data finder |  |  |
+| impact investing digest |  |  |
+| let's change the world |  |  |
+| let's delve into this |  |  |
+| local duds food and drink |  |  |
+| local products finder |  |  |
+| medication legality guide |  |  |
+| medication manager |  |  |
+| morning impact pep talk |  |  |
+| need_time_alone |  |  |
+| personal data finder |  |  |
+| personal shopping list |  |  |
+| present selection helper |  |  |
+| quiet please |  |  |
+| rain expected |  |  |
+| rewrite customgpt configs |  |  |
+| safety scout |  |  |
+| self guided walking tour creator |  |  |
+| shakesperean scribe |  |  |
+| sloth photo generator |  |  |
+| smartphone productivity guide |  |  |
+| social agenda creator |  |  |
+| sound sensitivity explainer |  |  |
+| stack research assistant |  |  |
+| stat update helper |  |  |
+| subreddit finder |  |  |
+| the absurd solution guru |  |  |
+| the data downer |  |  |
+| the eccentric's ally |  |  |
+| the family newsletter bore |  |  |
+| the platitude king |  |  |
+| the prank master |  |  |
+| ghg emissions report finder |  |  |
+| urls |  |  |
+<!-- END OF GENERATED TABLE -->
 
  
 
