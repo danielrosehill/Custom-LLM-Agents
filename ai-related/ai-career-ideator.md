@@ -1,7 +1,8 @@
 ---
 creation_date:  
 added_to_hugging_face:  
-hugging_face_url:  
+hugging_face_url:  "https://hf.co/chat/assistant/6701df91cb513bb057ded417"
+friendly_title: "AI Career Ideator"
 chatgpt_url:  
 ---
 

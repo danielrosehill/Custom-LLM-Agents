@@ -1,95 +1,55 @@
 import os
-import re
-import json
+import pandas as pd
 
-def find_markdown_files(base_path, exclude_dirs, exclude_files):
-    """Recursively find all markdown files in the repository, excluding specified directories and files."""
-    markdown_files = []
-    for root, dirs, files in os.walk(base_path):
-        # Exclude specified directories
-        dirs[:] = [d for d in dirs if os.path.relpath(os.path.join(root, d), base_path) not in exclude_dirs]
-        
-        for file in files:
-            if file.endswith('.md') and file not in exclude_files:
-                relative_path = os.path.relpath(os.path.join(root, file), base_path)
-                markdown_files.append(relative_path)
-    return markdown_files
+# Function to find the root of the repository
+def find_repo_root():
+    current_dir = os.getcwd()
+    while current_dir != '/':
+        if '.git' in os.listdir(current_dir):
+            return current_dir
+        current_dir = os.path.dirname(current_dir)
+    raise FileNotFoundError("Repository root not found")
 
-def format_title(file_name):
-    """Convert a file name to readable case with proper capitalization."""
-    name_without_extension = os.path.splitext(file_name)[0]
-    # Replace hyphens with spaces and capitalize each word
-    readable_name = re.sub(r'[-_]', ' ', name_without_extension).title()
-    return readable_name
+# Function to update the README file
+def update_readme():
+    repo_root = find_repo_root()
+    csv_path = os.path.join(repo_root, 'list.csv')
+    readme_path = os.path.join(repo_root, 'README.md')
 
-def create_markdown_table(markdown_files):
-    """Create a markdown table for the list of markdown files."""
-    # Sort files alphabetically by their formatted title
-    sorted_files = sorted(markdown_files, key=lambda f: format_title(os.path.basename(f)))
-    
-    table_lines = ['| Title | Link |', '|-------|------|']
-    for file in sorted_files:
-        file_name = os.path.basename(file)
-        title = format_title(file_name)
-        table_lines.append(f'| {title} | [link]({file}) |')  # Removed './' from the link
-    return '\n'.join(table_lines)
+    # Read the CSV file
+    if not os.path.exists(csv_path):
+        raise FileNotFoundError("list.csv not found at the repository root")
 
-def insert_into_readme(readme_path, table):
-    """Insert the markdown table into README.md under '## Index'."""
-    with open(readme_path, 'r') as f:
-        content = f.read()
+    df = pd.read_csv(csv_path)
 
-    index_heading = '## Index'
-    if index_heading in content:
-        parts = content.split(index_heading)
-        before_index = parts[0] + index_heading + '\n\n'
-        after_index = '\n'.join(parts[1].split('\n')[1:])  # Skip existing table
-        new_content = before_index + table + '\n' + after_index
-    else:
-        new_content = content + '\n\n' + index_heading + '\n\n' + table
+    # Convert the DataFrame to a Markdown table
+    markdown_table = df.to_markdown(index=False)
 
-    with open(readme_path, 'w') as f:
-        f.write(new_content)
+    # Read the README file
+    if not os.path.exists(readme_path):
+        raise FileNotFoundError("README.md not found at the repository root")
 
-def save_memory(memory_path, markdown_files):
-    """Save the list of markdown files to a memory file."""
-    with open(memory_path, 'w') as f:
-        json.dump(markdown_files, f)
+    with open(readme_path, 'r') as file:
+        readme_content = file.readlines()
 
-def load_memory(memory_path):
-    """Load the list of markdown files from the memory file."""
-    if os.path.exists(memory_path):
-        with open(memory_path, 'r') as f:
-            return json.load(f)
-    return []
+    # Find the index of the '## Index' heading
+    index_heading = '## Index\n'
+    if index_heading not in readme_content:
+        raise ValueError("'## Index' heading not found in README.md")
 
-def update_memory(memory_path, new_files):
-    """Update the memory file with new markdown files."""
-    existing_files = load_memory(memory_path)
-    updated_files = sorted(set(existing_files + new_files))
-    save_memory(memory_path, updated_files)
-    return updated_files
+    index_position = readme_content.index(index_heading) + 1
 
-# Main script execution
+    # Insert or update the Markdown table after the '## Index' heading
+    updated_content = readme_content[:index_position] + [markdown_table + '\n'] + readme_content[index_position:]
+
+    # Write the updated content back to the README file
+    with open(readme_path, 'w') as file:
+        file.writelines(updated_content)
+
+# Simulate running the script from a subdirectory
 if __name__ == "__main__":
-    base_path = '.'
-    readme_path = 'README.md'
-    
-    # Ensure memory file is stored in the same directory as this script
-    memory_path = os.path.join(os.path.dirname(__file__), 'file_memory.json')
-    
-    # Directories and files to exclude
-    exclude_dirs = ['non-docs']
-    exclude_files = ['README.md']
-
-    # Find all markdown files excluding specified directories and files
-    markdown_files = find_markdown_files(base_path, exclude_dirs, exclude_files)
-
-    # Update memory to avoid duplicates
-    updated_files = update_memory(memory_path, markdown_files)
-
-    # Create a markdown table
-    markdown_table = create_markdown_table(updated_files)
-
-    # Insert the table into README.md
-    insert_into_readme(readme_path, markdown_table)
+    try:
+        update_readme()
+        print("README.md updated successfully.")
+    except Exception as e:
+        print(str(e))
