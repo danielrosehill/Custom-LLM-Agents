@@ -10,9 +10,9 @@ def format_title(file_name):
 
 def generate_csv():
     """
-    Generate a three-column CSV file at the base of the repository with readable titles
-    and additional columns for HuggingFace status and URL. Avoid duplicate entries when
-    the script is run repeatedly.
+    Generate a two-column CSV file at the base of the repository with readable titles
+    and HuggingFace identifiers derived from markdown file names in the repository.
+    Avoid duplicate entries when the script is run repeatedly.
     """
     # Get the absolute path of the current working directory
     current_dir = os.path.abspath(os.getcwd())
@@ -53,11 +53,11 @@ def generate_csv():
     with open(csv_path, mode='a', newline='', encoding='utf-8') as csv_file:
         writer = csv.writer(csv_file)
         if not os.path.exists(csv_path) or os.stat(csv_path).st_size == 0:  # Write header row only if new file
-            writer.writerow(['title', 'added_to_huggingface', 'huggingfacechaturl'])
+            writer.writerow(['Title', 'HuggingFace'])
         for file_name in markdown_files:
             formatted_title = format_title(file_name)
             if formatted_title not in existing_titles:
-                writer.writerow([formatted_title, '', ''])  # Empty values for added_to_huggingface and huggingfacechaturl
+                writer.writerow([formatted_title, 'Added to HuggingFace'])
 
 # Call the function to generate CSV
 generate_csv()
