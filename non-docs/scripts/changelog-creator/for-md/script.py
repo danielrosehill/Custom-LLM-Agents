@@ -17,7 +17,7 @@ def get_last_run_time(md_path):
         if len(lines) > 1:
             for line in lines[2:]:
                 if '|' in line:
-                    date_str = line.split('|')[1].strip()  # Fixed index
+                    date_str = line.split('|')[1].strip()
                     try:
                         return datetime.strptime(date_str, '%Y-%m-%d %H:%M:%S')
                     except ValueError:
@@ -29,6 +29,10 @@ def find_new_markdown_files(repo_root, last_run_time, changelog_path):
     changelog_rel_path = os.path.relpath(changelog_path, repo_root)
     
     for root, _, files in os.walk(repo_root):
+        # Skip the non-docs directory
+        if 'non-docs' in root.split(os.path.sep):
+            continue
+            
         for file in files:
             if file.endswith('.md'):
                 file_path = os.path.join(root, file)
@@ -53,7 +57,6 @@ def update_changelog(md_path, new_files):
             elif "---" not in content:
                 content = "| Date | File Name | Path |\n|------|-----------|------|\n" + content
 
-    # Create a set of existing entries using the file path as unique identifier
     existing_entries = set()
     for line in content.splitlines():
         if '|' in line and 'Date' not in line and '---' not in line:
@@ -67,7 +70,6 @@ def update_changelog(md_path, new_files):
             new_entries += f"| {creation_time.strftime('%Y-%m-%d %H:%M:%S')} | {file_name} | [link]({rel_path}) |\n"
             existing_entries.add(rel_path)
 
-    # Insert new entries after the header
     parts = content.split('\n', 2)
     if len(parts) >= 3:
         content = f"{parts[0]}\n{parts[1]}\n{new_entries}{parts[2]}"
