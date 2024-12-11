@@ -5,161 +5,165 @@
 ![Sloth making a new LLM](images/banner.webp)
 
 ## Index
-<!-- START OF GENERATED TABLE -->
-| Title | HuggingFace URL | Repository File Link |
-| --- | --- | --- |
-| a day in gpt land |  | [link](ai-related/a-day-in-gpt-land.md) |
-| acronym_to_organisation |  | [link](utilities/acronym_to_organisation.md) |
-| ai career ideator | [link](https://hf.co/chat/assistant/6701df91cb513bb057ded41) | [link](ai-related/ai-career-ideator.md) |
-| ai could help here |  | [link](ai-related/ai-could-help-here.md) |
-| ai tech advisor | [link](https://hf.co/chat/assistant/6701df2bcb513bb057ded3a8) | [link](ai-related/ai-tech-advisor.md) |
-| airport food options |  | [link](travel/airport-food-options.md) |
-| automate my workflow | [link](https://hf.co/chat/assistant/67579ee97ab12b601c7fd9fd) | [link](productivity/automation/automate-my-workflow.md) |
-| backoffice development copilot |  | [link](development/backoffice-development-copilot.md) |
-| backoffice gpt creation assistant |  | [link](development/backoffice-gpt-creation-assistant.md) |
-| backup coach | [link](https://hf.co/chat/assistant/6701e064b41b0e86f9d5acdd) | [link](tech-general/backup-coach.md) |
-| backup evaluation assistant |  | [link](tech-general/backup-evaluation-assistant.md) |
-| bad jokes galore |  | [link](for-fun/bad-jokes-galore.md) |
-| beer tap identifier | [link](https://hf.co/chat/assistant/674d41200a1ac006d7354790) | [link](food-and-drink/beer-tap-identifier.md) |
-| boss update batcher | [link](https://hf.co/chat/assistant/67579f6a2526a3ccbf0c76ac) | [link](productivity/boss-update-batcher.md) |
-| brainstorming assistant |  | [link](productivity/brainstorming/brainstorming-assistant.md) |
-| brainstorming coach |  | [link](productivity/brainstorming/brainstorming-coach.md) |
-| brand reliability checker |  | [link](research/purchasing/brand-reliability-checker.md) |
-| brief generator | [link](https://hf.co/chat/assistant/67579fd5ca07b5d6830df516) | [link](writing/brief-generator.md) |
-| broken link helper | [link](https://hf.co/chat/assistant/6757a04fca07b5d6830df541) | [link](utilities/broken-link-helper.md) |
-| business continuity advisor |  | [link](preparedness/business-continuity/business-continuity-advisor.md) |
-| career pivot ideator |  | [link](career/career-pivot-ideator.md) |
-| chatgpt capabilities miner |  | [link](llms/chat-gpt/chatgpt-capabilities-miner.md) |
-| chatgpt prompt engineering buddy |  | [link](llms/chat-gpt/chatgpt-prompt-engineering-buddy.md) |
-| chatgpt to hf chat |  | [link](utilities/chatgpt-to-hf-chat.md) |
-| csv taxonomy generator | [link](https://hf.co/chat/assistant/6757a0aca55bdf54377f8c70) | [link](data/taxonomies/csv-taxonomy-generator.md) |
-| csv to markdown reformatter |  | [link](data/csv-to-markdown-reformatter.md) |
-| daily schedule manager |  | [link](organisation/workflow-planners/daily-schedule-manager.md) |
-| data organisation genie | [link](https://hf.co/chat/assistant/6757a4267ab12b601c7fdd86) | [link](data/data-organisation-genie.md) |
-| data relationships utility | [link](https://hf.co/chat/assistant/6757a45aa55bdf54377f8f33) | [link](data/data-utilities/data-relationships-utility.md) |
-| data visualisation and storytelling guide |  | [link](data/data-visualisation/data-visualisation-and-storytelling-guide.md) |
-| databases are better than spreadsheets |  | [link](data/education/databases-are-better-than-spreadsheets.md) |
-| disaster debrief assistant |  | [link](preparedness/disaster-debrief-assistant.md) |
-| disaster preparedness expert |  | [link](preparedness/disaster-preparedness-expert.md) |
-| disaster scenario ideator |  | [link](preparedness/disaster-scenario-ideator.md) |
-| do we need this meeting |  | [link](productivity/do-we-need-this-meeting.md) |
-| document stats and numbers miner |  | [link](data/data-mining/document-stats-and-numbers-miner.md) |
-| document table finder | [link](https://hf.co/chat/assistant/6757a52e2526a3ccbf0c7ac5) | [link](data/data-discovery/document-table-finder.md) |
-| dummy  csv data generator |  | [link](data/data-utilities/dummy--csv-data-generator.md) |
-| dummy tech project ideator |  | [link](data/data-utilities/dummy-tech-project-ideator.md) |
-| eco ninja3 |  | [link](data/data-discovery/eco-ninja3.md) |
-| email disaster |  | [link](for-fun/email-disaster.md) |
-| email optimiser |  | [link](writing/email-optimiser.md) |
-| emergency shelter finding guidance |  | [link](preparedness/emergency-shelter-finding-guidance.md) |
-| find a bar near me |  | [link](travel/find-a-bar-near-me.md) |
-| find me a guinness |  | [link](travel/find-me-a-guinness.md) |
-| find me compatible hardware |  | [link](research/purchasing/find-me-compatible-hardware.md) |
-| free tier ai software |  | [link](ai-related/free-tier-ai-software.md) |
-| freeform converter | [link](https://hf.co/chat/assistant/670cfcba1f325eee148c7c19) | [link](writing/freeform-converter.md) |
-| gaslighting guardian |  | [link](health/mental-health/gaslighting-guardian.md) |
-| geopolitical brief generator |  | [link](geopolitics/brief-generators/geopolitical-brief-generator.md) |
-| geopolitical scenario simulator | [link](https://hf.co/chat/assistant/6757a6b19370b67839010745) | [link](geopolitics/simulators/geopolitical-scenario-simulator.md) |
-| ghg emissions data |  | [link](sustainability/data-discovery/ghg-emissions-data.md) |
-| gifted adult helper |  | [link](health/mental-health/gifted-adult-helper.md) |
-| gpt fleet optimisation utility |  | [link](llms/agent-fleets/gpt-fleet-optimisation-utility.md) |
-| gpt prompt chaining coach |  | [link](prompt-eng/coaches/gpt-prompt-chaining-coach.md) |
-| gpt test bench |  | [link](llms/evaluation/gpt-test-bench.md) |
-| gpt usage coach |  | [link](llms/ideation/gpt-usage-coach.md) |
-| graph database stack assistant |  | [link](data/graph-databases/graph-database-stack-assistant.md) |
-| grow with my job |  | [link](career/grow-with-my-job.md) |
-| help me remember that |  | [link](organisation/help-me-remember-that.md) |
-| if we don't change... |  | [link](sustainability/if-we-don't-change....md) |
-| image_to_sql_query |  | [link](data/sql-helpers/image_to_sql_query.md) |
-| improve my gpt prompt |  | [link](prompt-eng/utilities/improve-my-gpt-prompt.md) |
-| improve my script |  | [link](development/improve-my-script.md) |
-| in flight wifi |  | [link](travel/in-flight-wifi.md) |
-| indian and nepalese restaurant finder |  | [link](food-and-drink/indian-and-nepalese-restaurant-finder.md) |
-| israel sitreps |  | [link](geopolitics/brief-generators/israel-sitreps.md) |
-| iterative gpt suggester |  | [link](llms/iterative-gpt-suggester.md) |
-| job performance coach |  | [link](career/job-performance-coach.md) |
-| keep me on time |  | [link](organisation/time-management/keep-me-on-time.md) |
-| late night venues |  | [link](travel/late-night-venues.md) |
-| let's automate this |  | [link](productivity/automation/let's-automate-this.md) |
-| let's work remotely! |  | [link](productivity/let's-work-remotely!.md) |
-| life's a musical |  | [link](for-fun/life's-a-musical.md) |
-| llm output judge | [link](https://hf.co/chat/assistant/6757a73c7ab12b601c7fdfa7) | [link](llms/llm-output-judge.md) |
-| location based threat briefer |  | [link](preparedness/location-based-threat-briefer.md) |
-| lousy pun joke generator |  | [link](for-fun/lousy-pun-joke-generator.md) |
-| low fat food options |  | [link](health/low-fat-food-options.md) |
-| luggage allowance helper |  | [link](travel/luggage-allowance-helper.md) |
-| media interview coach |  | [link](professional/pr-and-comms/media-interview-coach.md) |
-| media monitoring brief assistant |  | [link](professional/pr-and-comms/media-monitoring-brief-assistant.md) |
-| media monitoring helper |  | [link](professional/pr-and-comms/media-monitoring-helper.md) |
-| media opportunity screener |  | [link](professional/pr-and-comms/media-opportunity-screener.md) |
-| media outreach assistant |  | [link](professional/pr-and-comms/media-outreach-assistant.md) |
-| medieval english text generator |  | [link](writing/medieval-english-text-generator.md) |
-| meeting agenda assistant |  | [link](professional/meeting-organisers/meeting-agenda-assistant.md) |
-| meeting minutes recorder |  | [link](professional/meeting-organisers/meeting-minutes-recorder.md) |
-| movie advisor |  | [link](entertainment/movie-advisor.md) |
-| new statistics locator |  | [link](data/data-discovery/new-statistics-locator.md) |
-| open data finder |  | [link](data/data-discovery/open-data-finder.md) |
-| opportunities for comment pr assistant |  | [link](professional/pr-and-comms/opportunities-for-comment-pr-assistant.md) |
-| organisation relationship finder |  | [link](data/data-utilities/organisation-relationship-finder.md) |
-| personal conspiracy theory generator |  | [link](for-fun/personal-conspiracy-theory-generator.md) |
-| postgres_taxonomy_builder |  | [link](data/taxonomies/postgres_taxonomy_builder.md) |
-| postgresql expert |  | [link](data/postgres/postgresql-expert.md) |
-| preparedness advisor |  | [link](preparedness/preparedness-advisor.md) |
-| preparedness brief creator |  | [link](preparedness/preparedness-brief-creator.md) |
-| preparedness partner |  | [link](preparedness/preparedness-partner.md) |
-| prompt engineering digest |  | [link](prompt-eng/news-digest/prompt-engineering-digest.md) |
-| prompt shortener |  | [link](prompt-eng/utilities/prompt-shortener.md) |
-| prompt to llm | [link](https://hf.co/chat/assistant/674d7fd13b64184e69e89508) | [link](llm-tools/prompt-to-llm.md) |
-| pub agenda generator |  | [link](for-fun/pub-agenda-generator.md) |
-| pub crawl creator |  | [link](for-fun/pub-crawl-creator.md) |
-| python chatgpt ap script builder |  | [link](data/python-chatgpt-ap-script-builder.md) |
-| quick email template generator |  | [link](writing/quick-email-template-generator.md) |
-| random gpt suggestion tool |  | [link](llms/random-gpt-suggestion-tool.md) |
-| recent documentary finder |  | [link](for-fun/recent-documentary-finder.md) |
-| recent report finder |  | [link](sustainability/sustainability-reports/recent-report-finder.md) |
-| regulation and policy comparison assistant |  | [link](research/policy-analysis/regulation-and-policy-comparison-assistant.md) |
-| report summariser |  | [link](research/summarisers/report-summariser.md) |
-| research with python tutorials generator |  | [link](research/research-with-python-tutorials-generator.md) |
-| ruggedized product finder |  | [link](research/purchasing/ruggedized-product-finder.md) |
-| schema genie |  | [link](data/sql-helpers/schema-genie.md) |
-| self hosted tech finder |  | [link](tech-general/self-hosted-tech-finder.md) |
-| sensory support gpt |  | [link](health/mental-health/sensory-support-gpt.md) |
-| sql data relationship helper |  | [link](data/sql-helpers/sql-data-relationship-helper.md) |
-| sustainability report finder |  | [link](sustainability/sustainability-reports/sustainability-report-finder.md) |
-| sustainable living advisor |  | [link](sustainability/advisory/sustainable-living-advisor.md) |
-| taxonomy and category builder |  | [link](data/taxonomies/taxonomy-and-category-builder.md) |
-| tech comparison head to head |  | [link](utilities/tech-comparison-head-to-head.md) |
-| tech improvement guide |  | [link](tech-general/tech-improvement-guide.md) |
-| tech product finder |  | [link](research/tech-product-finder.md) |
-| tech stack optimizer |  | [link](tech-general/tech-stack-optimizer.md) |
-| technology certification finder |  | [link](career/technology-certification-finder.md) |
-| text fixer (british_english) |  | [link](writing/text-fixer-(british_english).md) |
-| the checklist pro |  | [link](organisation/the-checklist-pro.md) |
-| the creativity coach |  | [link](health/mental-health/the-creativity-coach.md) |
-| the database matchmaker |  | [link](data/data-architecture/the-database-matchmaker.md) |
-| the fake wine buff |  | [link](for-fun/the-fake-wine-buff.md) |
-| the professional skeptic |  | [link](research/the-professional-skeptic.md) |
-| the sunrise riser sleeping hours suggester |  | [link](health/the-sunrise-riser-sleeping-hours-suggester.md) |
-| topic to subreddit |  | [link](research/topic-to-subreddit.md) |
-| travel prep pro |  | [link](travel/travel-prep-pro.md) |
-| true story movie recommender |  | [link](utilities/true-story-movie-recommender.md) |
-| typo master |  | [link](writing/typo-master.md) |
-| vacation doomsday prepper |  | [link](for-fun/vacation-doomsday-prepper.md) |
-| voice mode mentor |  | [link](productivity/voice-mode/voice-mode-mentor.md) |
-| vscode to markdown |  | [link](text-formatting/vscode-to-markdown.md) |
-| weekly work planner |  | [link](organisation/workflow-planners/weekly-work-planner.md) |
-| weekly workflow planning assistant |  | [link](organisation/workflow-planners/weekly-workflow-planning-assistant.md) |
-| weird clothing suggester |  | [link](for-fun/weird-clothing-suggester.md) |
-| what's at this domain |  | [link](utilities/what's-at-this-domain.md) |
-| who's this person |  | [link](utilities/who's-this-person.md) |
-| worst eats guide |  | [link](food-and-drink/worst-eats-guide.md) |
-| ye olde text converter |  | [link](writing/ye-olde-text-converter.md) |
-| your friendly ai prof |  | [link](ai-related/your-friendly-ai-prof.md) |
-<!-- END OF GENERATED TABLE -->
-
- 
 
 
- 
+| Date | File Name | Path |
+|------|-----------|------|
+| 2024-12-11 21:44:45 | changelog.md | [link](changelog.md) |
+| 2024-12-11 21:41:47 | text-to-video-prompt.md | [link](llm-tools/text-to-video-prompt.md) |
+| 2024-12-11 21:35:17 | voice-prompt-refiner.md | [link](llm-tools/voice-prompt-refiner.md) |
+| 2024-12-11 21:31:28 | stack-research-prompt.md | [link](llm-tools/stack-research-prompt.md) |
+| 2024-12-10 17:00:00 | docker-compose-analyser.md | [link](utilities/docker-compose-analyser.md) |
+| 2024-12-10 16:55:01 | pending_files.md | [link](pending_files.md) |
+| 2024-12-10 16:50:27 | notes.md | [link](notes.md) |
+| 2024-12-10 05:15:41 | the-llm-mimic.md | [link](llms/the-llm-mimic.md) |
+| 2024-12-10 04:35:04 | llm-output-judge.md | [link](llms/llm-output-judge.md) |
+| 2024-12-10 03:18:36 | ai-career-ideator.md | [link](ai-related/ai-career-ideator.md) |
+| 2024-12-10 03:09:22 | bad-jokes-galore.md | [link](for-fun/bad-jokes-galore.md) |
+| 2024-12-02 20:35:41 | eco-ninja3.md | [link](data/data-discovery/eco-ninja3.md) |
+| 2024-12-02 11:38:11 | prompt-to-llm.md | [link](llm-tools/prompt-to-llm.md) |
+| 2024-12-02 06:33:06 | freeform-converter.md | [link](writing/freeform-converter.md) |
+| 2024-12-02 06:32:45 | chatgpt-to-hf-chat.md | [link](utilities/chatgpt-to-hf-chat.md) |
+| 2024-11-26 19:17:51 | ghg-emissions-data.md | [link](sustainability/data-discovery/ghg-emissions-data.md) |
+| 2024-11-26 18:43:25 | voice-mode-mentor.md | [link](productivity/voice-mode/voice-mode-mentor.md) |
+| 2024-11-26 18:43:17 | let's-automate-this.md | [link](productivity/automation/let's-automate-this.md) |
+| 2024-11-26 18:43:13 | automate-my-workflow.md | [link](productivity/automation/automate-my-workflow.md) |
+| 2024-11-26 18:40:19 | movie-advisor.md | [link](entertainment/movie-advisor.md) |
+| 2024-11-26 18:38:32 | israel-sitreps.md | [link](geopolitics/brief-generators/israel-sitreps.md) |
+| 2024-11-26 18:37:14 | geopolitical-brief-generator.md | [link](geopolitics/brief-generators/geopolitical-brief-generator.md) |
+| 2024-11-26 18:37:02 | geopolitical-scenario-simulator.md | [link](geopolitics/simulators/geopolitical-scenario-simulator.md) |
+| 2024-11-26 18:34:13 | prompt-shortener.md | [link](prompt-eng/utilities/prompt-shortener.md) |
+| 2024-11-26 18:34:12 | improve-my-gpt-prompt.md | [link](prompt-eng/utilities/improve-my-gpt-prompt.md) |
+| 2024-11-26 18:34:02 | gpt-prompt-chaining-coach.md | [link](prompt-eng/coaches/gpt-prompt-chaining-coach.md) |
+| 2024-11-26 18:33:55 | prompt-engineering-digest.md | [link](prompt-eng/news-digest/prompt-engineering-digest.md) |
+| 2024-11-26 18:32:30 | sustainable-living-advisor.md | [link](sustainability/advisory/sustainable-living-advisor.md) |
+| 2024-11-26 18:32:15 | recent-report-finder.md | [link](sustainability/sustainability-reports/recent-report-finder.md) |
+| 2024-11-26 18:32:15 | sustainability-report-finder.md | [link](sustainability/sustainability-reports/sustainability-report-finder.md) |
+| 2024-11-26 18:31:59 | regulation-and-policy-comparison-assistant.md | [link](research/policy-analysis/regulation-and-policy-comparison-assistant.md) |
+| 2024-11-26 18:31:47 | report-summariser.md | [link](research/summarisers/report-summariser.md) |
+| 2024-11-26 18:31:28 | business-continuity-advisor.md | [link](preparedness/business-continuity/business-continuity-advisor.md) |
+| 2024-11-26 18:30:50 | the-database-matchmaker.md | [link](data/data-architecture/the-database-matchmaker.md) |
+| 2024-11-26 18:30:37 | databases-are-better-than-spreadsheets.md | [link](data/education/databases-are-better-than-spreadsheets.md) |
+| 2024-11-26 18:30:29 | organisation-relationship-finder.md | [link](data/data-utilities/organisation-relationship-finder.md) |
+| 2024-11-26 18:30:24 | dummy-tech-project-ideator.md | [link](data/data-utilities/dummy-tech-project-ideator.md) |
+| 2024-11-26 18:30:20 | image_to_sql_query.md | [link](data/sql-helpers/image_to_sql_query.md) |
+| 2024-11-26 18:30:18 | graph-database-stack-assistant.md | [link](data/graph-databases/graph-database-stack-assistant.md) |
+| 2024-11-26 18:30:12 | data-visualisation-and-storytelling-guide.md | [link](data/data-visualisation/data-visualisation-and-storytelling-guide.md) |
+| 2024-11-26 18:29:55 | data-relationships-utility.md | [link](data/data-utilities/data-relationships-utility.md) |
+| 2024-11-26 18:29:52 | document-stats-and-numbers-miner.md | [link](data/data-mining/document-stats-and-numbers-miner.md) |
+| 2024-11-26 18:29:49 | dummy--csv-data-generator.md | [link](data/data-utilities/dummy--csv-data-generator.md) |
+| 2024-11-26 18:29:44 | document-table-finder.md | [link](data/data-discovery/document-table-finder.md) |
+| 2024-11-26 18:29:27 | taxonomy-and-category-builder.md | [link](data/taxonomies/taxonomy-and-category-builder.md) |
+| 2024-11-26 18:29:24 | postgres_taxonomy_builder.md | [link](data/taxonomies/postgres_taxonomy_builder.md) |
+| 2024-11-26 18:29:21 | postgresql-expert.md | [link](data/postgres/postgresql-expert.md) |
+| 2024-11-26 18:29:19 | schema-genie.md | [link](data/sql-helpers/schema-genie.md) |
+| 2024-11-26 18:29:04 | sql-data-relationship-helper.md | [link](data/sql-helpers/sql-data-relationship-helper.md) |
+| 2024-11-26 18:28:55 | csv-taxonomy-generator.md | [link](data/taxonomies/csv-taxonomy-generator.md) |
+| 2024-11-26 18:28:10 | keep-me-on-time.md | [link](organisation/time-management/keep-me-on-time.md) |
+| 2024-11-26 18:28:01 | daily-schedule-manager.md | [link](organisation/workflow-planners/daily-schedule-manager.md) |
+| 2024-11-26 18:27:59 | weekly-workflow-planning-assistant.md | [link](organisation/workflow-planners/weekly-workflow-planning-assistant.md) |
+| 2024-11-26 18:27:58 | weekly-work-planner.md | [link](organisation/workflow-planners/weekly-work-planner.md) |
+| 2024-11-26 18:27:42 | meeting-minutes-recorder.md | [link](professional/meeting-organisers/meeting-minutes-recorder.md) |
+| 2024-11-26 18:27:40 | meeting-agenda-assistant.md | [link](professional/meeting-organisers/meeting-agenda-assistant.md) |
+| 2024-11-26 18:26:30 | gpt-usage-coach.md | [link](llms/ideation/gpt-usage-coach.md) |
+| 2024-11-26 18:26:21 | gpt-test-bench.md | [link](llms/evaluation/gpt-test-bench.md) |
+| 2024-11-26 18:26:06 | improve-my-script.md | [link](development/improve-my-script.md) |
+| 2024-11-26 18:25:39 | gpt-fleet-optimisation-utility.md | [link](llms/agent-fleets/gpt-fleet-optimisation-utility.md) |
+| 2024-11-26 18:24:58 | chatgpt-prompt-engineering-buddy.md | [link](llms/chat-gpt/chatgpt-prompt-engineering-buddy.md) |
+| 2024-11-26 18:24:57 | chatgpt-capabilities-miner.md | [link](llms/chat-gpt/chatgpt-capabilities-miner.md) |
+| 2024-11-26 17:45:17 | vscode-to-markdown.md | [link](text-formatting/vscode-to-markdown.md) |
+| 2024-11-26 01:40:55 | find-a-bar-near-me.md | [link](travel/find-a-bar-near-me.md) |
+| 2024-11-26 01:40:54 | find-me-a-guinness.md | [link](travel/find-me-a-guinness.md) |
+| 2024-11-26 01:40:49 | find-me-compatible-hardware.md | [link](research/purchasing/find-me-compatible-hardware.md) |
+| 2024-11-26 01:40:38 | sensory-support-gpt.md | [link](health/mental-health/sensory-support-gpt.md) |
+| 2024-11-26 01:40:33 | gifted-adult-helper.md | [link](health/mental-health/gifted-adult-helper.md) |
+| 2024-11-26 01:39:06 | csv-to-markdown-reformatter.md | [link](data/csv-to-markdown-reformatter.md) |
+| 2024-11-26 01:38:59 | disaster-debrief-assistant.md | [link](preparedness/disaster-debrief-assistant.md) |
+| 2024-11-26 01:38:59 | disaster-preparedness-expert.md | [link](preparedness/disaster-preparedness-expert.md) |
+| 2024-11-26 01:38:59 | disaster-scenario-ideator.md | [link](preparedness/disaster-scenario-ideator.md) |
+| 2024-11-26 01:38:59 | emergency-shelter-finding-guidance.md | [link](preparedness/emergency-shelter-finding-guidance.md) |
+| 2024-11-26 01:38:44 | do-we-need-this-meeting.md | [link](productivity/do-we-need-this-meeting.md) |
+| 2024-11-26 01:38:33 | recent-documentary-finder.md | [link](for-fun/recent-documentary-finder.md) |
+| 2024-11-26 01:38:25 | self-hosted-tech-finder.md | [link](tech-general/self-hosted-tech-finder.md) |
+| 2024-11-26 01:38:15 | ruggedized-product-finder.md | [link](research/purchasing/ruggedized-product-finder.md) |
+| 2024-11-26 01:38:08 | brand-reliability-checker.md | [link](research/purchasing/brand-reliability-checker.md) |
+| 2024-11-26 01:37:59 | research-with-python-tutorials-generator.md | [link](research/research-with-python-tutorials-generator.md) |
+| 2024-11-26 01:37:38 | quick-email-template-generator.md | [link](writing/quick-email-template-generator.md) |
+| 2024-11-26 01:37:04 | career-pivot-ideator.md | [link](career/career-pivot-ideator.md) |
+| 2024-11-26 01:37:00 | brief-generator.md | [link](writing/brief-generator.md) |
+| 2024-11-26 01:36:57 | broken-link-helper.md | [link](utilities/broken-link-helper.md) |
+| 2024-11-26 01:36:14 | free-tier-ai-software.md | [link](ai-related/free-tier-ai-software.md) |
+| 2024-11-26 01:35:58 | let's-work-remotely!.md | [link](productivity/let's-work-remotely!.md) |
+| 2024-11-26 01:35:53 | random-gpt-suggestion-tool.md | [link](llms/random-gpt-suggestion-tool.md) |
+| 2024-11-26 01:35:44 | python-chatgpt-ap-script-builder.md | [link](data/python-chatgpt-ap-script-builder.md) |
+| 2024-11-26 01:35:41 | pub-crawl-creator.md | [link](for-fun/pub-crawl-creator.md) |
+| 2024-11-26 01:35:39 | pub-agenda-generator.md | [link](for-fun/pub-agenda-generator.md) |
+| 2024-11-26 01:35:30 | preparedness-advisor.md | [link](preparedness/preparedness-advisor.md) |
+| 2024-11-26 01:35:30 | preparedness-brief-creator.md | [link](preparedness/preparedness-brief-creator.md) |
+| 2024-11-26 01:35:30 | preparedness-partner.md | [link](preparedness/preparedness-partner.md) |
+| 2024-11-26 01:35:12 | personal-conspiracy-theory-generator.md | [link](for-fun/personal-conspiracy-theory-generator.md) |
+| 2024-11-26 01:35:01 | opportunities-for-comment-pr-assistant.md | [link](professional/pr-and-comms/opportunities-for-comment-pr-assistant.md) |
+| 2024-11-26 01:34:54 | open-data-finder.md | [link](data/data-discovery/open-data-finder.md) |
+| 2024-11-26 01:34:52 | new-statistics-locator.md | [link](data/data-discovery/new-statistics-locator.md) |
+| 2024-11-26 01:34:31 | medieval-english-text-generator.md | [link](writing/medieval-english-text-generator.md) |
+| 2024-11-26 01:34:26 | media-interview-coach.md | [link](professional/pr-and-comms/media-interview-coach.md) |
+| 2024-11-26 01:34:26 | media-opportunity-screener.md | [link](professional/pr-and-comms/media-opportunity-screener.md) |
+| 2024-11-26 01:34:19 | luggage-allowance-helper.md | [link](travel/luggage-allowance-helper.md) |
+| 2024-11-26 01:34:16 | location-based-threat-briefer.md | [link](preparedness/location-based-threat-briefer.md) |
+| 2024-11-26 01:34:12 | low-fat-food-options.md | [link](health/low-fat-food-options.md) |
+| 2024-11-26 01:34:07 | media-monitoring-brief-assistant.md | [link](professional/pr-and-comms/media-monitoring-brief-assistant.md) |
+| 2024-11-26 01:34:07 | media-monitoring-helper.md | [link](professional/pr-and-comms/media-monitoring-helper.md) |
+| 2024-11-26 01:34:07 | media-outreach-assistant.md | [link](professional/pr-and-comms/media-outreach-assistant.md) |
+| 2024-11-26 01:33:32 | life's-a-musical.md | [link](for-fun/life's-a-musical.md) |
+| 2024-11-26 01:33:27 | lousy-pun-joke-generator.md | [link](for-fun/lousy-pun-joke-generator.md) |
+| 2024-11-26 01:33:21 | late-night-venues.md | [link](travel/late-night-venues.md) |
+| 2024-11-26 01:33:14 | iterative-gpt-suggester.md | [link](llms/iterative-gpt-suggester.md) |
+| 2024-11-26 01:32:29 | if-we-don't-change....md | [link](sustainability/if-we-don't-change....md) |
+| 2024-11-26 01:32:25 | help-me-remember-that.md | [link](organisation/help-me-remember-that.md) |
+| 2024-11-26 01:32:21 | grow-with-my-job.md | [link](career/grow-with-my-job.md) |
+| 2024-11-26 01:32:19 | job-performance-coach.md | [link](career/job-performance-coach.md) |
+| 2024-11-26 01:32:14 | in-flight-wifi.md | [link](travel/in-flight-wifi.md) |
+| 2024-11-26 01:32:11 | indian-and-nepalese-restaurant-finder.md | [link](food-and-drink/indian-and-nepalese-restaurant-finder.md) |
+| 2024-11-26 01:31:29 | tech-comparison-head-to-head.md | [link](utilities/tech-comparison-head-to-head.md) |
+| 2024-11-26 01:31:25 | tech-improvement-guide.md | [link](tech-general/tech-improvement-guide.md) |
+| 2024-11-26 01:31:22 | tech-product-finder.md | [link](research/tech-product-finder.md) |
+| 2024-11-26 01:31:17 | technology-certification-finder.md | [link](career/technology-certification-finder.md) |
+| 2024-11-26 01:31:12 | tech-stack-optimizer.md | [link](tech-general/tech-stack-optimizer.md) |
+| 2024-11-26 01:30:56 | text-fixer-(british_english).md | [link](writing/text-fixer-(british_english).md) |
+| 2024-11-26 01:30:44 | the-checklist-pro.md | [link](organisation/the-checklist-pro.md) |
+| 2024-11-26 01:30:39 | the-creativity-coach.md | [link](health/mental-health/the-creativity-coach.md) |
+| 2024-11-26 01:30:24 | the-fake-wine-buff.md | [link](for-fun/the-fake-wine-buff.md) |
+| 2024-11-26 01:30:15 | the-professional-skeptic.md | [link](research/the-professional-skeptic.md) |
+| 2024-11-26 01:30:12 | the-sunrise-riser-sleeping-hours-suggester.md | [link](health/the-sunrise-riser-sleeping-hours-suggester.md) |
+| 2024-11-26 01:30:09 | topic-to-subreddit.md | [link](research/topic-to-subreddit.md) |
+| 2024-11-26 01:30:06 | travel-prep-pro.md | [link](travel/travel-prep-pro.md) |
+| 2024-11-26 01:30:03 | true-story-movie-recommender.md | [link](utilities/true-story-movie-recommender.md) |
+| 2024-11-26 01:29:59 | typo-master.md | [link](writing/typo-master.md) |
+| 2024-11-26 01:29:56 | vacation-doomsday-prepper.md | [link](for-fun/vacation-doomsday-prepper.md) |
+| 2024-11-26 01:29:48 | weird-clothing-suggester.md | [link](for-fun/weird-clothing-suggester.md) |
+| 2024-11-26 01:29:45 | what's-at-this-domain.md | [link](utilities/what's-at-this-domain.md) |
+| 2024-11-26 01:29:42 | who's-this-person.md | [link](utilities/who's-this-person.md) |
+| 2024-11-26 01:29:37 | your-friendly-ai-prof.md | [link](ai-related/your-friendly-ai-prof.md) |
+| 2024-11-26 01:29:34 | ye-olde-text-converter.md | [link](writing/ye-olde-text-converter.md) |
+| 2024-11-26 01:29:32 | worst-eats-guide.md | [link](food-and-drink/worst-eats-guide.md) |
+| 2024-11-26 01:29:09 | gaslighting-guardian.md | [link](health/mental-health/gaslighting-guardian.md) |
+| 2024-11-26 01:28:34 | acronym_to_organisation.md | [link](utilities/acronym_to_organisation.md) |
+| 2024-11-26 01:28:31 | backoffice-development-copilot.md | [link](development/backoffice-development-copilot.md) |
+| 2024-11-26 01:28:31 | backoffice-gpt-creation-assistant.md | [link](development/backoffice-gpt-creation-assistant.md) |
+| 2024-11-26 01:28:26 | backup-coach.md | [link](tech-general/backup-coach.md) |
+| 2024-11-26 01:28:26 | backup-evaluation-assistant.md | [link](tech-general/backup-evaluation-assistant.md) |
+| 2024-11-26 01:28:05 | brainstorming-coach.md | [link](productivity/brainstorming/brainstorming-coach.md) |
+| 2024-11-26 01:28:05 | brainstorming-assistant.md | [link](productivity/brainstorming/brainstorming-assistant.md) |
+| 2024-11-26 01:27:58 | boss-update-batcher.md | [link](productivity/boss-update-batcher.md) |
+| 2024-11-26 01:27:54 | beer-tap-identifier.md | [link](food-and-drink/beer-tap-identifier.md) |
+| 2024-11-26 01:27:27 | airport-food-options.md | [link](travel/airport-food-options.md) |
+| 2024-11-26 01:27:08 | email-optimiser.md | [link](writing/email-optimiser.md) |
+| 2024-11-26 01:27:04 | email-disaster.md | [link](for-fun/email-disaster.md) |
+| 2024-11-26 01:26:28 | data-organisation-genie.md | [link](data/data-organisation-genie.md) |
+| 2024-11-26 01:25:58 | ai-could-help-here.md | [link](ai-related/ai-could-help-here.md) |
+| 2024-11-26 01:25:58 | ai-tech-advisor.md | [link](ai-related/ai-tech-advisor.md) |
+| 2024-11-26 01:25:43 | a-day-in-gpt-land.md | [link](ai-related/a-day-in-gpt-land.md) |
+
 ## Individual LLM Agent Configurations
 
 ```
