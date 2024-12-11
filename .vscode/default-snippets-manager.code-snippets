@@ -1,0 +1,18 @@
+{
+	"HF added": {
+		"prefix": "HF added",
+		"description": "HF added",
+		"scope": "markdown",
+		"body": [
+			"hf_status: \"Added\""
+		]
+	},
+	"HF Pending": {
+		"prefix": "HF Pending",
+		"description": "HF Pending",
+		"scope": "markdown",
+		"body": [
+			"hf_status: \"Pending\""
+		]
+	}
+}
