@@ -6,8 +6,14 @@
 
 ## Index
 
+ 
+
 | Date | Assistant Name | Repo Link | Hugging Face Badge |
 |------|----------------|-----------|------------------|
+| 2024-12-12 17:27:34 | Eco Ninja V3 | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/econinja/eco-ninja-v3.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/674dfb83203be059afb0da43) |
+| 2024-12-12 17:26:03 | Sitrep Maker General | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](geopolitics/brief-generators/sitrep-maker-general.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/674d466ea845eb960e079530) |
+| 2024-12-12 17:24:12 | Llm Background Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llms/llm-background-assistant.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/674d4458a845eb960e0794b3) |
+| 2024-12-12 17:23:00 | Bad Jokes Galore | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](for-fun/bad-jokes-galore.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/674d41dfcf1f9846ac2d50e0) |
 | 2024-12-12 17:17:09 | View On Hf Badges | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](utilities/view-on-hf-badges.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6759f095fa3a18005bba7d2e) |
 | 2024-12-12 17:02:40 | Postgres Schema Coach | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/postgres/postgres-schema-coach.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6701e0c3b41b0e86f9d5ad2e) |
 | 2024-12-12 17:01:43 | Backup Coach | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](tech-general/backup-coach.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6701e064b41b0e86f9d5acdd) |
@@ -23,7 +29,6 @@
 | 2024-12-10 16:50:27 | Notes | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](notes.md) |  |
 | 2024-12-10 05:15:41 | The Llm Mimic | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llms/the-llm-mimic.md) |  |
 | 2024-12-10 04:35:04 | Llm Output Judge | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llms/llm-output-judge.md) |  |
-| 2024-12-10 03:09:22 | Bad Jokes Galore | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](for-fun/bad-jokes-galore.md) |  |
 | 2024-12-02 20:35:41 | Eco Ninja3 | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/data-discovery/eco-ninja3.md) |  |
 | 2024-12-02 11:38:11 | Prompt To Llm | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/prompt-to-llm.md) |  |
 | 2024-12-02 06:33:06 | Freeform Converter | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/freeform-converter.md) |  |
