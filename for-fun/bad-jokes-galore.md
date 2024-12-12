@@ -6,6 +6,8 @@ chatgpt_url:
 friendly_title:
 ---
 
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/674d41dfcf1f9846ac2d50e0)
+
 ## Summary
 Need some bad jokes to bore your relatives with? This agent has you covered!
 
