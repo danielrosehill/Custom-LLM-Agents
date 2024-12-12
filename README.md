@@ -1,15 +1,11 @@
-# Daniel Rosehill Open Source Custom LLM Configuration Library
-
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/Custom-LLM-Agents)
-
-![Sloth making a new LLM](images/banner.webp)
+# Repository Documentation
 
 ## Index
 
- 
-
 | Date | Assistant Name | Repo Link | Hugging Face Badge |
 |------|----------------|-----------|------------------|
+| 2024-12-12 17:31:16 | Beer Tap Identifier | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](food-and-drink/beer-tap-identifier.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/674d41200a1ac006d7354790) |
+| 2024-12-12 17:30:32 | Stack Research Prompt | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/stack-research-prompt.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6759f22de2c6caf4b22afa82) |
 | 2024-12-12 17:27:34 | Eco Ninja V3 | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/econinja/eco-ninja-v3.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/674dfb83203be059afb0da43) |
 | 2024-12-12 17:26:03 | Sitrep Maker General | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](geopolitics/brief-generators/sitrep-maker-general.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/674d466ea845eb960e079530) |
 | 2024-12-12 17:24:12 | Llm Background Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llms/llm-background-assistant.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/674d4458a845eb960e0794b3) |
@@ -23,7 +19,6 @@
 | 2024-12-11 22:11:10 | Voice Prompt Refiner | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/voice-prompt-refiner.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6759efc2fa3a18005bba7cee) |
 | 2024-12-11 22:10:03 | Text To Video Prompt | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/text-to-video-prompt.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6759ecd6692d209d580976fe) |
 | 2024-12-11 22:00:20 | Changelog | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](changelog.md) |  |
-| 2024-12-11 21:31:28 | Stack Research Prompt | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/stack-research-prompt.md) |  |
 | 2024-12-10 17:00:00 | Docker Compose Analyser | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](utilities/docker-compose-analyser.md) |  |
 | 2024-12-10 16:55:01 | Pending_files | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](pending_files.md) |  |
 | 2024-12-10 16:50:27 | Notes | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](notes.md) |  |
@@ -163,81 +158,9 @@
 | 2024-11-26 01:28:05 | Brainstorming Coach | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](productivity/brainstorming/brainstorming-coach.md) |  |
 | 2024-11-26 01:28:05 | Brainstorming Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](productivity/brainstorming/brainstorming-assistant.md) |  |
 | 2024-11-26 01:27:58 | Boss Update Batcher | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](productivity/boss-update-batcher.md) |  |
-| 2024-11-26 01:27:54 | Beer Tap Identifier | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](food-and-drink/beer-tap-identifier.md) |  |
 | 2024-11-26 01:27:27 | Airport Food Options | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](travel/airport-food-options.md) |  |
 | 2024-11-26 01:27:08 | Email Optimiser | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/email-optimiser.md) |  |
 | 2024-11-26 01:27:04 | Email Disaster | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](for-fun/email-disaster.md) |  |
 | 2024-11-26 01:26:28 | Data Organisation Genie | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/data-organisation-genie.md) |  |
 | 2024-11-26 01:25:58 | Ai Could Help Here | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](ai-related/ai-could-help-here.md) |  |
 | 2024-11-26 01:25:43 | A Day In Gpt Land | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](ai-related/a-day-in-gpt-land.md) |  |
-## Individual LLM Agent Configurations
-
-```
-LLM Name
-- about.md
-- Config
--- config.md
--- config.json
-```
-
-- The `LLM Name` is the LLM's name.
-- `about.md` provides a little bit of information about the custom LLM's intended purpose
-- `config` houses configuration files provided in markdown and JSON format (the latter for machine-readibility and portability)
-
-
-
-## About This Repository
-
-This repository contains links to custom LLMs that I have build on top of ChatGPT (*although increasingly I'm exploring the use of other LLMs including Claude*).
-
-I am finding amazing utility in creating custom LLMs for specific purposes (commonly those related to my professional life). 
-
-However, while it lacks the ability of custom LLMs to quickly store detailed contextual information, prompt engineering is often enough to quickly and dramatically accelerate the value yielded from working with LLMs.
-
-The overarching objective is to create a sort of "fleet" of LLM agents to help me manage various aspects of my work and personal lives.
-
-Like everything I open-source, I'm doing so to make a small contribution to the collective sum of human knowledge. If you'd like to use any of these LLMs for whatever reason, you have my full permission to do so.
-
-## File Formats
-
-LLMs are organised into folders describing their purpose.
-
-- LLMName/
-  - Config/
-    - config.txt
-    - config.json
-  - about.md
-  
-In this setup:
-
-- `config.txt` is a text file containing the LLM configuration
-- `config.json` is a JSON file containing the LLM configuration
-- `about.md` is a markdown document describing the purpose of the LLM and providing other details intended for a human reader
-
-You can use `JSON` directly in ChatLLM's custom LLM editor to effectively recreate any of these LLMs.
-
-## Pronouns
-
-For simplicity I use "he" when I need to refer to the user in a configuration text.
-
-## Author
-
-Daniel Rosehill  
-(public at danielrosehill dot com)
-
-## Licensing
-
-All my GitHub repositories are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
-
-### Summary of the License
-The Creative Commons Attribution 4.0 International (CC BY 4.0) license allows others to:
-- **Share**: Copy and redistribute the material in any medium or format.
-- **Adapt**: Remix, transform, and build upon the material for any purpose, even commercially.
-
-The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-#### License Terms
-- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- **No additional restrictions**: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-For the full legal code, please visit the [Creative Commons website](https://creativecommons.org/licenses/by/4.0/legalcode).
