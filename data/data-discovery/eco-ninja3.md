@@ -2,6 +2,8 @@
 title: "Eco Ninja - V3"
 ---
 
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/674dfb83203be059afb0da43)
+
 ![alt text](../../images/banners/image.png)
 
 # Monetised emissions data retrieval genie (Eco Ninja 3)
@@ -13,8 +15,7 @@ Variant name: "Eco Ninja 3"!
 Usage:
 - Prompt template (adapt)
 - LLM assistant configuration
-
-![Use On Hugging Chat](https://img.shields.io/badge/Use%20On-Hugging%20Chat-blue?style=for-the-badge)
+ 
 
 ## Variables
 

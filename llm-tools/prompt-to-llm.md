@@ -2,9 +2,10 @@
 title: "Prompt To LLM"
 ---
 
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/674d7fd13b64184e69e89508)
+
 ## Prompt To LLM Utility
 
-[![use on Hugging Face](https://img.shields.io/badge/use%20on-Hugging%20Face-blue?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/674d7fd13b64184e69e89508)
 
 ## Configuration for "Prompt to LLM Tool" Assistant
 
