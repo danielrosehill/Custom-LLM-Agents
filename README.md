@@ -7,6 +7,7 @@
 ## Index
 | Date | Assistant Name | Repo Link | Hugging Face Badge |
 |------|----------------|-----------|------------------|
+| 2024-12-13 01:33:05 | Company Backgrounder | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](research/company-backgrounder.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b722cb491864d969872db) |
 | 2024-12-12 21:04:10 | Israel Price Comparison Helper | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](shopping/israel-price-comparison-helper.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b336841cdb0f48acc55cc) |
 | 2024-12-12 20:23:21 | Israel Tech Shopping | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](shopping/israel-tech-shopping.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b2727fbc7dfcdaa9f8e7b) |
 | 2024-12-12 18:14:49 | Voice To Text | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](shopping/voice-to-text.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b0be7be9adaf5257b7f94) |
@@ -171,7 +172,6 @@
 | 2024-11-26 01:26:28 | Data Organisation Genie | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/data-organisation-genie.md) |  |
 | 2024-11-26 01:25:58 | Ai Could Help Here | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](ai-related/ai-could-help-here.md) |  |
 | 2024-11-26 01:25:43 | A Day In Gpt Land | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](ai-related/a-day-in-gpt-land.md) |  |
-
 ## Individual LLM Agent Configurations
 
 ```
