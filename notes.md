@@ -1,12 +1,9 @@
-## Notes For Self
+## Notes For Repo Manager (Me!)
 
-Use YAML frontmatter to mark Hugging Face addition status:
+Path for regenerating index:
 
-```
-hf_status: "Pending"
-```
+/home/daniel/Git/Custom-LLM-Agents/non-docs/scripts/index-builder/v8/program.py
 
+As relative to repo route:
 
-```
-hf_status: "Added"
-```
+non-docs/scripts/index-builder/v8/program.py

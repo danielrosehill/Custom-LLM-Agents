@@ -1,0 +1,18 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Index Builder",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "${workspaceFolder}/non-docs/scripts/index-builder/v8/program.py"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        }
+    ]
+}
