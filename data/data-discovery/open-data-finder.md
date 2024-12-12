@@ -5,6 +5,8 @@ hugging_face_url:
 chatgpt_url:  
 ---
 
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6757ae28097c39b938f2cd7d)
+
 ## Summary
 Finds open source datasets based on user queries.
 

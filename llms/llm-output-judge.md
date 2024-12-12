@@ -2,6 +2,8 @@
 title: "LLM Output Self-Judge"
 ---
 
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6757a73c7ab12b601c7fdfa7)
+
 ## Configuration
 
 Your task is to act as a judge, evaluating the compliance of a large language model in following the prompt that a user provided. 

@@ -5,6 +5,8 @@ hugging_face_url:
 chatgpt_url:  
 ---
 
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/67579ee97ab12b601c7fd9fd)
+
 ## Summary
 A strategist guiding you towards total job automation, one task at a time.
 

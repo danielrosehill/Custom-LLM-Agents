@@ -5,6 +5,8 @@ hugging_face_url:
 chatgpt_url:  
 ---
 
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/67579f6a2526a3ccbf0c76ac)
+
 ## Summary
 Custom agent to create a running log of updates for a boss
 

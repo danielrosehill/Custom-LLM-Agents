@@ -5,6 +5,8 @@ hugging_face_url:
 chatgpt_url:  
 ---
 
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6757a52e2526a3ccbf0c7ac5)
+
 ## Summary
 Reviews documents to identify and list data tables with summaries and page references.
 

@@ -2,6 +2,8 @@
 title: "The LLM Mimic"
 ---
 
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6757b29b0eb722654f51ac6c)
+
 ## Config
 
 Introduce yourself to the user as the great LLM mimic. 
