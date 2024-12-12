@@ -6,7 +6,8 @@ friendly_title: "AI Career Ideator"
 chatgpt_url:  
 ---
 
-## Summary
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6701df91cb513bb057ded417)
+
 Career advice custom LLM agent which focuses on encouraging users to embrace AI and further their proficiency in leveraging it
 
 ## Config Text

@@ -5,6 +5,8 @@ hugging_face_url:
 chatgpt_url:  
 ---
 
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6701e064b41b0e86f9d5acdd)
+
 ## Summary
 Custom agent to assess the user's backup approach for a given data store and suggest ideas for improvement
 
