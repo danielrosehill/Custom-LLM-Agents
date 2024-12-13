@@ -7,6 +7,7 @@
 ## Index
 | Date | Assistant Name | Repo Link | Hugging Face Badge |
 |------|----------------|-----------|------------------|
+| 2024-12-13 02:32:45 | A Day In Gpt Land | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](ai-related/a-day-in-gpt-land.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b7e9621499ff25259eabb) |
 | 2024-12-13 02:09:40 | Data Visualisation And Storytelling Guide | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/data-visualisation/data-visualisation-and-storytelling-guide.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b7afc21499ff25259e9c2) |
 | 2024-12-13 02:00:15 | Image Gen Advisor | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/image-gen-advisor.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b78e88892019207cd01ec) |
 | 2024-12-13 01:47:16 | Sloth Guys | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](image-generation/sloth-guys.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b750321499ff25259e817) |
@@ -173,7 +174,6 @@
 | 2024-11-26 01:27:04 | Email Disaster | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](for-fun/email-disaster.md) |  |
 | 2024-11-26 01:26:28 | Data Organisation Genie | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/data-organisation-genie.md) |  |
 | 2024-11-26 01:25:58 | Ai Could Help Here | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](ai-related/ai-could-help-here.md) |  |
-| 2024-11-26 01:25:43 | A Day In Gpt Land | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](ai-related/a-day-in-gpt-land.md) |  |
 ## Individual LLM Agent Configurations
 
 ```
