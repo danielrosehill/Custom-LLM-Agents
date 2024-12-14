@@ -7,6 +7,7 @@
 ## Index
 | Date | Assistant Name | Repo Link | Hugging Face Badge |
 |------|----------------|-----------|------------------|
+| 2024-12-14 09:23:58 | Dictated Text Fixer | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/dictated-text-fixer.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675d323cd74aa23d31f4fd78) |
 | 2024-12-13 18:13:35 | Spot The Llm | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/spot-the-llm.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675c5c9b7b4e71b47969538e) |
 | 2024-12-13 03:09:28 | Relations Briefer | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](geopolitics/brief-generators/relations-briefer.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b88ebc00f90d9bde73d4b) |
 | 2024-12-13 02:47:51 | Gpt Test Bench | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llms/evaluation/gpt-test-bench.md) |  |
