@@ -7,6 +7,7 @@
 ## Index
 | Date | Assistant Name | Repo Link | Hugging Face Badge |
 |------|----------------|-----------|------------------|
+| 2024-12-15 14:47:32 | Toxic Email Parser | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](health/mental-health/toxic-email-parser.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675ecf4241db734868f0c1e0) |
 | 2024-12-14 18:28:29 | Inventory Helper | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](organisation/inventory-helper.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675db20e1cb94b2f5a99c110) |
 | 2024-12-14 12:29:19 | Pick An Approach | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/pick-an-approach.md) |  |
 | 2024-12-14 11:52:46 | Decluttering | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](helpers/decluttering.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675d552a074837b9c77190a9) |
