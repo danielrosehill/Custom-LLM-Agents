@@ -229,8 +229,16 @@ In this setup:
 You can use `JSON` directly in ChatLLM's custom LLM editor to effectively recreate any of these LLMs.
 
 ## Pronouns
+ 
+A quick note about the use of pronouns in these configuration texts. 
 
-For simplicity I use "he" when I need to refer to the user in a configuration text.
+When rising configuration text for large language model assistants it is extremely important to be as precise and non confusing as possible. 
+
+Gender politics are, of course, highly topical these days. But even before that was the case, it would be odd to simply assume a gender in a chatbot. 
+
+For the vast majority of interactions, however, I expect that the chat bot is going to be interacting with the user in the second person ie addressing it as "you". Therefore, in the interest of minimizing the possibility for confusion when writing configurations, I identified the user was the pronoun "he" while fully knowing And appreciating that the user the assistant will likely be helping may be a "he", a "she", or somebody identifying by another gender pronoun. Sometimes I will use "the user" rather than he. Generally, however, my choice of words is decided by whatever seems most natural when I'm drafting that particular configuration. 
+
+Please understand that the configuration texts are worded thusly solely for this reason/
 
 ## Author
 
