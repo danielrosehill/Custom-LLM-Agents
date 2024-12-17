@@ -7,6 +7,7 @@
 ## Index
 | Date | Assistant Name | Repo Link | Hugging Face Badge |
 |------|----------------|-----------|------------------|
+| 2024-12-17 17:13:57 | Degaslighting Trainer | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](health/mental-health/degaslighting-trainer.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676194d0848a28b678962395) |
 | 2024-12-17 16:47:26 | Changelog | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](changelog.md) |  |
 | 2024-12-17 16:45:06 | Random Ai Assistant Ideator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](ideation/random-ai-assistant-ideator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/67618e14c43bc16e0532ffd7) |
 | 2024-12-17 16:34:15 | Remote Job Profiler | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](research/career-and-job-hunting/remote-job-profiler.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/67618ba28956d493cd64a50e) |
