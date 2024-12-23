@@ -69,7 +69,9 @@ def update_readme(readme_path, new_files):
 
     for assistant_name, creation_time, file_name, rel_path, badge in new_files:
         github_badge = f'[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)]({rel_path})'
-        new_index_content += f"| {creation_time.strftime('%Y-%m-%d %H:%M:%S')} | {assistant_name} | {github_badge} | {badge} |\n"
+        # Reformatting the timestamp to 'dd month (year)'
+        formatted_date = creation_time.strftime('%d %b (%Y)')
+        new_index_content += f"| {formatted_date} | {assistant_name} | {github_badge} | {badge} |\n"
 
     content = content[:index_start] + [new_index_content] + content[index_end:]
 
