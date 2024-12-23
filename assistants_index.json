@@ -8,6 +8,10 @@
         "url": "https://hf.co/chat/assistant/67698cab384ae3573032b658"
     },
     {
+        "title": "add-examples",
+        "url": "https://hf.co/chat/assistant/6769a67bd36d646a09336831"
+    },
+    {
         "title": "agenda-assistant-v2",
         "url": "https://hf.co/chat/assistant/6768a5297eba7923b7af64f6"
     },
@@ -256,8 +260,16 @@
         "url": "https://hf.co/chat/assistant/6769932014a1a00276338470"
     },
     {
+        "title": "just-code-please",
+        "url": "https://hf.co/chat/assistant/6769a897c39cd38c060cf1db"
+    },
+    {
         "title": "llm-approach-advisor",
         "url": "https://hf.co/chat/assistant/676974f97c53eb44ca900776"
+    },
+    {
+        "title": "llm-augmentation-guide",
+        "url": "https://hf.co/chat/assistant/6769a552685abc1df63ae00e"
     },
     {
         "title": "llm-background-assistant",
@@ -394,6 +406,10 @@
     {
         "title": "true-story-movie-recommender",
         "url": "https://hf.co/chat/assistant/67699f75890c7f9b0d6d903a"
+    },
+    {
+        "title": "ui-improver",
+        "url": "https://hf.co/chat/assistant/6769a774890c7f9b0d6d913e"
     },
     {
         "title": "view-on-hf-badges",
