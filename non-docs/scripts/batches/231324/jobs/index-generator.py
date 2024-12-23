@@ -63,15 +63,23 @@ def update_readme(readme_path, new_files):
         index_end = len(content)
 
     new_index_content = (
-        "| Creation Date | Assistant Name | Repo Link | Use Now |\n"
-        "|---------------|----------------|-----------|---------|\n"
+        "| Date | Assistant Name | Repo Link | Use Now |\n"
+        "|------|----------------|-----------|---------|\n"
     )
+
+    total_assistants = len(new_files)
+    total_hf_links = sum(1 for _, _, _, _, badge in new_files if badge)
 
     for assistant_name, creation_time, file_name, rel_path, badge in new_files:
         github_badge = f'[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)]({rel_path})'
-        # Reformatting the timestamp to 'dd-mm (mon)-yy'
-        formatted_date = creation_time.strftime('%d-%m (%b)-%y')
-        new_index_content += f"| {formatted_date} | {assistant_name} | {github_badge} | {badge} |\n"
+        new_index_content += f"| {creation_time.strftime('%Y-%m-%d %H:%M:%S')} | {assistant_name} | {github_badge} | {badge} |\n"
+
+    # Add totals at the end of the table
+    new_index_content += f"\n**Total Assistants:** {total_assistants}\n"
+    new_index_content += f"**Total on Hugging Face Chat:** {total_hf_links}\n"
+    
+    # Add a single blank line after the totals
+    new_index_content += "\n"
 
     content = content[:index_start] + [new_index_content] + content[index_end:]
 
