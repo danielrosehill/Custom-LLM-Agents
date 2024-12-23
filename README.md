@@ -2,6 +2,18 @@
 
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/Custom-LLM-Agents)
 
+This repository contains configuration files for large language model (LLM) assistants.
+
+When I began this repository, most of the assistants were deployed onto the custom GPT platform. 
+
+My approach to AI is to remain vendor agnostic whenever possible. So most of these have since been moved over to Hugging Face Chat. If the assistant has been set up on Hugging Face, then the link in the index will resolve to it.  
+
+Note: like on any properly provisioned platform, I have absolutely zero access into the contents of any interactions by users with assistants that I create. 
+
+The GitHub link in the index simply opens the markdown file for that index configuration page. This is where I share the configuration as I've written it. Sometimes I'll include the iterations as I make them. 
+
+I share these assistants on the hope that they might be useful to others!
+
 ![Sloth making a new LLM](images/banner.webp)
 
 ## Index
