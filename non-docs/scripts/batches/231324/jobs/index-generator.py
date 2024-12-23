@@ -74,14 +74,20 @@ def update_readme(readme_path, new_files):
         github_badge = f'[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)]({rel_path})'
         new_index_content += f"| {creation_time.strftime('%Y-%m-%d %H:%M:%S')} | {assistant_name} | {github_badge} | {badge} |\n"
 
-    # Add totals at the end of the table
-    new_index_content += f"\n**Total Assistants:** {total_assistants}\n"
-    new_index_content += f"**Total on Hugging Face Chat:** {total_hf_links}\n"
-    
-    # Add a single blank line after the totals
+    # Add a blank line after the index
     new_index_content += "\n"
 
-    content = content[:index_start] + [new_index_content] + content[index_end:]
+    # Add the totals section as a markdown table immediately after the index
+    totals_section = (
+        "## Total Count\n\n"
+        "| Metric                  | Count |\n"
+        "|-------------------------|-------|\n"
+        f"| Total Assistants        | {total_assistants} |\n"
+        f"| Total on Hugging Face   | {total_hf_links} |\n\n"
+    )
+
+    # Inject both the index and totals section into the README
+    content = content[:index_start] + [new_index_content] + [totals_section] + content[index_end:]
 
     with open(readme_path, 'w') as mdfile:
         mdfile.writelines(content)

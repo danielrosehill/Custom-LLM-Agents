@@ -8,7 +8,9 @@ When I began this repository, most of the assistants were deployed onto the cust
 
 My approach to AI is to remain vendor agnostic whenever possible. So most of these have since been moved over to Hugging Face Chat. If the assistant has been set up on Hugging Face, then the link in the index will resolve to it.  
 
-Note: like on any properly provisioned platform, I have absolutely zero access into the contents of any interactions by users with assistants that I create. 
+These assistants are pretty wide ranging. Some are tools I've created for my own personal uses. In other cases, they were created for clients or jobs. My experience working with assistants changes and grows over time much as their capabilities evolve. So any of the configurations really just reflect my current understanding for how to maximize the utility of these tools. I'm very interested in leveraging voice with these assistants, so that will be an increasing focus in the future.
+
+## Structure 
 
 The GitHub link in the index simply opens the markdown file for that index configuration page. This is where I share the configuration as I've written it. Sometimes I'll include the iterations as I make them. 
 
@@ -224,10 +226,15 @@ I share these assistants on the hope that they might be useful to others!
 | 2024-11-26 01:29:32 | Worst Eats Guide | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](food-and-drink/worst-eats-guide.md) |  |
 | 2024-12-23 17:44:08 | Ye Olde Text Converter | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/jokes/ye-olde-text-converter.md) |  |
 
-**Total Assistants:** 204
-**Total on Hugging Face Chat:** 80
+## Total Count
+
+| Metric                  | Count |
+|-------------------------|-------|
+| Total Assistants        | 204 |
+| Total on Hugging Face   | 80 |
 
 ## Individual LLM Agent Configurations
+
 
 ```
 LLM Name
@@ -240,20 +247,6 @@ LLM Name
 - The `LLM Name` is the LLM's name.
 - `about.md` provides a little bit of information about the custom LLM's intended purpose
 - `config` houses configuration files provided in markdown and JSON format (the latter for machine-readibility and portability)
-
-
-
-## About This Repository
-
-This repository contains links to custom LLMs that I have build on top of ChatGPT (*although increasingly I'm exploring the use of other LLMs including Claude*).
-
-I am finding amazing utility in creating custom LLMs for specific purposes (commonly those related to my professional life). 
-
-However, while it lacks the ability of custom LLMs to quickly store detailed contextual information, prompt engineering is often enough to quickly and dramatically accelerate the value yielded from working with LLMs.
-
-The overarching objective is to create a sort of "fleet" of LLM agents to help me manage various aspects of my work and personal lives.
-
-Like everything I open-source, I'm doing so to make a small contribution to the collective sum of human knowledge. If you'd like to use any of these LLMs for whatever reason, you have my full permission to do so.
 
 ## File Formats
 
@@ -306,3 +299,11 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 - **No additional restrictions**: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 For the full legal code, please visit the [Creative Commons website](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+## Total Count
+
+| Metric                  | Count |
+|-------------------------|-------|
+| Total Assistants        | 204 |
+| Total on Hugging Face   | 80 |
+
