@@ -1,9 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
+# Sensory Processing Support Assistance Tool
 
 ## Summary
 A LLM intended to provide guidance to adults who suffer from sensory processing and integration difficulties
