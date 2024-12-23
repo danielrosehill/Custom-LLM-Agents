@@ -229,13 +229,6 @@ I share these assistants on the hope that they might be useful to others!
 | Nov 26 (2024) | Worst Eats Guide | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](food-and-drink/worst-eats-guide.md) |  |
 | Dec 23 (2024) | Ye Olde Text Converter | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/jokes/ye-olde-text-converter.md) |  |
 
-## Total Count
-
-| Metric | Count |
-|-------------------------|-------|
-| Total Assistants | 209 |
-| Total on Hugging Face | 90 |
-
 ## Individual LLM Agent Configurations
 
 
@@ -337,6 +330,13 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 207 |
 | Total on Hugging Face | 90 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 207 |
+| Total on Hugging Face | 95 |
 
 ## Total Count
 
