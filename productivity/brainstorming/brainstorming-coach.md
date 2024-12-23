@@ -1,5 +1,7 @@
 # Brainstorming Coach
 
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676998ca0efd1a5bae6fddd7)
+
 ## Summary
 Agent to help users get started with brainstorming and make the most of the technique
 
