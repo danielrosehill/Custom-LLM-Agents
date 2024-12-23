@@ -7,6 +7,7 @@
 ## Index
 | Date | Assistant Name | Repo Link | Hugging Face Badge |
 |------|----------------|-----------|------------------|
+| 2024-12-23 05:16:56 | Bluf Email Generator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/bluf-email-generator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6768d60a802ca8f9d4600557) |
 | 2024-12-23 04:53:18 | Voice Context Data Helper | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/voice-helpers/voice-context-data-helper.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6768d07954c6d31d32d3786e) |
 | 2024-12-23 04:16:12 | Tech Spec Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](research/tech-spec-assistant.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6768c7c97baf7ae121bfcf7a) |
 | 2024-12-23 03:45:17 | Voice Preface | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](snippets/voice-preface.md) |  |
