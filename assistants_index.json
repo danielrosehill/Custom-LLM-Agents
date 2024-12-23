@@ -76,6 +76,10 @@
         "url": "https://hf.co/chat/assistant/6762c852203d2dc056b1e4fa"
     },
     {
+        "title": "context-data-extractor",
+        "url": "https://hf.co/chat/assistant/6769775b53155b6690e86d5c"
+    },
+    {
         "title": "context-data-ideator",
         "url": "https://hf.co/chat/assistant/6762d5b9bb93201f4b42bcbd"
     },
@@ -164,6 +168,10 @@
         "url": "https://hf.co/chat/assistant/6768a9d54144bd429bbd84a3"
     },
     {
+        "title": "llm-approach-advisor",
+        "url": "https://hf.co/chat/assistant/676974f97c53eb44ca900776"
+    },
+    {
         "title": "llm-background-assistant",
         "url": "https://hf.co/chat/assistant/674d4458a845eb960e0794b3"
     },
@@ -194,6 +202,10 @@
     {
         "title": "postgres-schema-coach",
         "url": "https://hf.co/chat/assistant/6701e0c3b41b0e86f9d5ad2e"
+    },
+    {
+        "title": "process-improvement",
+        "url": "https://hf.co/chat/assistant/6769730fc8c3abc5c7a8ecb0"
     },
     {
         "title": "prompt-eng-analyser",
