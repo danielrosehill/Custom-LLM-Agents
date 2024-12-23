@@ -136,6 +136,18 @@
         "url": "https://hf.co/chat/assistant/67698f01c9f2e60f896fac8a"
     },
     {
+        "title": "csv-taxonomy-generator",
+        "url": "https://hf.co/chat/assistant/67699d9753155b6690e8726d"
+    },
+    {
+        "title": "csv-to-markdown-reformatter",
+        "url": "https://hf.co/chat/assistant/67699ded6f424cd438c4fe97"
+    },
+    {
+        "title": "daily-schedule-manager",
+        "url": "https://hf.co/chat/assistant/67699d17685abc1df63adefc"
+    },
+    {
         "title": "data-visualisation-and-storytelling-guide",
         "url": "https://hf.co/chat/assistant/675b7afc21499ff25259e9c2"
     },
@@ -370,6 +382,10 @@
     {
         "title": "toxic-email-parser",
         "url": "https://hf.co/chat/assistant/675ecf4241db734868f0c1e0"
+    },
+    {
+        "title": "true-story-movie-recommender",
+        "url": "https://hf.co/chat/assistant/67699f75890c7f9b0d6d903a"
     },
     {
         "title": "view-on-hf-badges",

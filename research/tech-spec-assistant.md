@@ -1,4 +1,4 @@
-# Configuration for Tech Stack Evaluation Assistant
+# Tech Stack Evaluation Assistant
 
 [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6768c7c97baf7ae121bfcf7a)
 
