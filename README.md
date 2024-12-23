@@ -171,6 +171,7 @@ I share these assistants on the hope that they might be useful to others!
 | Nov 26 (2024) | Pub Agenda Generator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](for-fun/pub-agenda-generator.md) |  |
 | Nov 26 (2024) | Pub Crawl Creator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](for-fun/pub-crawl-creator.md) |  |
 | Dec 23 (2024) | Purpose | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](ai-related/ai-could-help-here.md) |  |
+| Dec 23 (2024) | Python GUI Generation Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](code-gen/python-generator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769aa11c39cd38c060cf20a) |
 | Nov 26 (2024) | Quick Email Template Generator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/quick-email-template-generator.md) |  |
 | Dec 17 (2024) | Random AI Assistant Ideator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](ideation/random-ai-assistant-ideator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/67618e14c43bc16e0532ffd7) |
 | Nov 26 (2024) | Random Gpt Suggestion Tool | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llms/random-gpt-suggestion-tool.md) |  |
@@ -216,6 +217,7 @@ I share these assistants on the hope that they might be useful to others!
 | Dec 15 (2024) | Toxic Email Parser | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](health/mental-health/toxic-email-parser.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675ecf4241db734868f0c1e0) |
 | Nov 26 (2024) | Travel Prep Pro | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](travel/travel-prep-pro.md) |  |
 | Dec 23 (2024) | True Story Movie & Documentary Finder | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](entertainment/true-story-movie-recommender.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/67699f75890c7f9b0d6d903a) |
+| Dec 23 (2024) | Tumbleweed Troubleshooter (KDE Plasma) | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](tech-support/tumbleweed-helper.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769aaf3384ae3573032ba71) |
 | Dec 23 (2024) | Typo Master | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/jokes/typo-master.md) |  |
 | Dec 23 (2024) | UI Improvement Tool (Python/Bash) | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](code-gen/ui-improver.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769a774890c7f9b0d6d913e) |
 | Nov 26 (2024) | Vacation Doomsday Prepper | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](for-fun/vacation-doomsday-prepper.md) |  |
@@ -390,4 +392,11 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 211 |
 | Total on Hugging Face | 109 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 213 |
+| Total on Hugging Face | 111 |
 

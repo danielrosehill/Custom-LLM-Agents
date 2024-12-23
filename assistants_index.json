@@ -336,6 +336,10 @@
         "url": "https://hf.co/chat/assistant/674d7fd13b64184e69e89508"
     },
     {
+        "title": "python-generator",
+        "url": "https://hf.co/chat/assistant/6769aa11c39cd38c060cf20a"
+    },
+    {
         "title": "random-ai-assistant-ideator",
         "url": "https://hf.co/chat/assistant/67618e14c43bc16e0532ffd7"
     },
@@ -406,6 +410,10 @@
     {
         "title": "true-story-movie-recommender",
         "url": "https://hf.co/chat/assistant/67699f75890c7f9b0d6d903a"
+    },
+    {
+        "title": "tumbleweed-helper",
+        "url": "https://hf.co/chat/assistant/6769aaf3384ae3573032ba71"
     },
     {
         "title": "ui-improver",
