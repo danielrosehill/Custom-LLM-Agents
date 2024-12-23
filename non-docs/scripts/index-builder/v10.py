@@ -59,7 +59,7 @@ def update_readme(readme_path, new_files):
         index_end = len(content)
 
     new_index_content = (
-        "| Creation Date | Assistant Name | Repo Link | Use Now |\n"
+        "| Updated | Assistant Name | Repo Link | Use Now |\n"
         "|---------------|----------------|-----------|---------|\n"
     )
 

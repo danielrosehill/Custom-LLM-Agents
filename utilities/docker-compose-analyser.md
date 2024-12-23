@@ -1,9 +1,8 @@
----
-title: "Docker Compose Analyser"
-hf_status: "Pending"
----
+# Docker Compose Analysis Tool
 
 [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b05578892019207cce14a)
+
+## V1 - Configuration Text
 
 Your purpose is to act as an assistant to the user by providing structured advice upon a Docker compose file which the user will provide. 
 
