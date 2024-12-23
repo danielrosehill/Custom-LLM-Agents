@@ -62,6 +62,7 @@ I share these assistants on the hope that they might be useful to others!
 | Dec 18 (2024) | Contextual Data Generation Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/context/context-snippet-generator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/67624b04c43bc16e05331a06) |
 | Dec 23 (2024) | Custom GPT To Hugging Face Chat Conversion Utility | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](utilities/chatgpt-to-hf-chat.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b0744903247ce54987b69) |
 | Dec 23 (2024) | Daily Schedule Manager | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](organisation/workflow-planners/daily-schedule-manager.md) |  |
+| Dec 23 (2024) | Daniel's Email Optimiser | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/email-assistants/email-optimiser.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/67699c8f45672804f8d00840) |
 | Dec 23 (2024) | Data Organisation Sidekick | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/data-organisation/data-organisation-genie.md) |  |
 | Dec 23 (2024) | Data Relationship Utility | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/data-utilities/data-relationships-utility.md) |  |
 | Dec 23 (2024) | Data Visualisation & Storytelling Guide | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/data-visualisation/data-visualisation-and-storytelling-guide.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b7afc21499ff25259e9c2) |
@@ -80,7 +81,6 @@ I share these assistants on the hope that they might be useful to others!
 | Nov 26 (2024) | Dummy Tech Project Ideator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/data-utilities/dummy-tech-project-ideator.md) |  |
 | Dec 12 (2024) | Eco Ninja V3 - Sustsainability Data Retrieval Genie | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/econinja/eco-ninja-v3.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/674dfb83203be059afb0da43) |
 | Nov 26 (2024) | Email Disaster | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](for-fun/email-disaster.md) |  |
-| Dec 23 (2024) | Email Optimiser | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/email-assistants/email-optimiser.md) |  |
 | Dec 23 (2024) | Email Shortener | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/email-assistants/email-shortener.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/67696e6bc8c3abc5c7a8ec14) |
 | Nov 26 (2024) | Emergency Shelter Finding Guidance | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](preparedness/emergency-shelter-finding-guidance.md) |  |
 | Nov 26 (2024) | Example Output | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/data-discovery/ghg-emissions-data.md) |  |
@@ -351,4 +351,11 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 207 |
 | Total on Hugging Face | 98 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 207 |
+| Total on Hugging Face | 99 |
 
