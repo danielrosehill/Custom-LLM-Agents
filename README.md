@@ -64,6 +64,7 @@ I share these assistants on the hope that they might be useful to others!
 | Dec 23 (2024) | Data Organisation Sidekick | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/data-organisation/data-organisation-genie.md) |  |
 | Dec 23 (2024) | Data Relationship Utility | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/data-utilities/data-relationships-utility.md) |  |
 | Dec 23 (2024) | Data Visualisation & Storytelling Guide | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/data-visualisation/data-visualisation-and-storytelling-guide.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b7afc21499ff25259e9c2) |
+| Dec 23 (2024) | Data Visualisation Ideator (Alternatives Suggester) | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/data-visualisation/data-vis-ideator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769b4923055fc7410147914) |
 | Nov 26 (2024) | Databases Are Better Than Spreadsheets | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/education/databases-are-better-than-spreadsheets.md) |  |
 | Dec 14 (2024) | Decluttering | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](helpers/decluttering.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675d552a074837b9c77190a9) |
 | Dec 23 (2024) | Dictated Text Fixer | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](voice/dictated-text-fixer.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675d323cd74aa23d31f4fd78) |
@@ -447,4 +448,11 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 219 |
 | Total on Hugging Face | 115 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 220 |
+| Total on Hugging Face | 116 |
 
