@@ -121,6 +121,7 @@ I share these assistants on the hope that they might be useful to others!
 | Nov 26 (2024) | Keep Me On Time | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](organisation/time-management/keep-me-on-time.md) |  |
 | Dec 23 (2024) | LLM Approach Advisory Tool | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/llm-approach-advisor.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676974f97c53eb44ca900776) |
 | Dec 12 (2024) | LLM Background Assistant (Researcher) | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llms/llm-background-assistant.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/674d4458a845eb960e0794b3) |
+| Dec 23 (2024) | LLM Test Lab (Evaluation Tool) | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llms/evaluation/gpt-test-bench.md) |  |
 | Dec 12 (2024) | LLM Use-Case Ideation Bot | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llms/llm-use-case-ideation-bot.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6757b54b097c39b938f2d199) |
 | Dec 12 (2024) | LLMs People And Orgs | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llms/llms-people-and-orgs.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6757b68c0ff27103bd871481) |
 | Nov 26 (2024) | Late Night Venues | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](travel/late-night-venues.md) |  |
@@ -213,7 +214,6 @@ I share these assistants on the hope that they might be useful to others!
 | Nov 26 (2024) | Travel Prep Pro | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](travel/travel-prep-pro.md) |  |
 | Nov 26 (2024) | True Story Movie Recommender | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](utilities/true-story-movie-recommender.md) |  |
 | Dec 23 (2024) | Typo Master | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/jokes/typo-master.md) |  |
-| Dec 13 (2024) | V1 | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llms/evaluation/gpt-test-bench.md) |  |
 | Nov 26 (2024) | Vacation Doomsday Prepper | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](for-fun/vacation-doomsday-prepper.md) |  |
 | Dec 12 (2024) | View on Hugging Face Markdown badge generator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](utilities/view-on-hf-badges.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6759f095fa3a18005bba7d2e) |
 | Dec 23 (2024) | Voice Assistant Configuration Helper | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/voice-helpers/voice-config-helper.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6768a167612c984fd47e5024) |
@@ -322,6 +322,13 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 | Metric | Count |
 |-------------------------|-------|
 | Total Assistants | 209 |
+| Total on Hugging Face | 90 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 207 |
 | Total on Hugging Face | 90 |
 
 ## Total Count
