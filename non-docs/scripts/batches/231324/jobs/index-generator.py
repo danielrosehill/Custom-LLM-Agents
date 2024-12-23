@@ -31,7 +31,7 @@ def find_new_markdown_files(repo_root, readme_path):
                 badge = find_badge_in_file(file_path)
                 assistant_name = ' '.join(word.capitalize() for word in file.replace('.md', '').split('-'))
                 new_files.append((assistant_name, creation_time, file, rel_path, badge))
-    return sorted(new_files, key=lambda x: x[0])  # Sort alphabetically by assistant_name (index 0)
+    return sorted(new_files, key=lambda x: x)  # Sort alphabetically by assistant_name (index 0)
 
 def find_badge_in_file(file_path):
     with open(file_path, 'r') as f:
@@ -63,8 +63,8 @@ def update_readme(readme_path, new_files):
         index_end = len(content)
 
     new_index_content = (
-        "| Date | Assistant Name | Repo Link | Hugging Face Badge |\n"
-        "|------|----------------|-----------|------------------|\n"
+        "| Date | Assistant Name | Repo Link | Use Now |\n"
+        "|------|----------------|-----------|---------|\n"
     )
 
     for assistant_name, creation_time, file_name, rel_path, badge in new_files:
