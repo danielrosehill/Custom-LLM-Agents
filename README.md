@@ -92,7 +92,7 @@ I share these assistants on the hope that they might be useful to others!
 | Nov 26 (2024) | Geopolitical Brief Generator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](geopolitics/brief-generators/geopolitical-brief-generator.md) |  |
 | Dec 13 (2024) | Geopolitical Relationship Briefer | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](geopolitics/brief-generators/relations-briefer.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b88ebc00f90d9bde73d4b) |
 | Dec 12 (2024) | Geopolitical Scenario Simulator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](geopolitics/simulators/geopolitical-scenario-simulator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6757a6b19370b67839010745) |
-| Nov 26 (2024) | Gifted Adult Helper | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](health/mental-health/gifted-adult-helper.md) |  |
+| Dec 23 (2024) | Gifted Adult Helper | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](health/mental-health/gifted-adult-helper.md) |  |
 | Dec 17 (2024) | Go Sell Yourself! | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](career/go-sell-yourself.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6761ea0c90f63f7b682335b1) |
 | Nov 26 (2024) | Gpt Prompt Chaining Coach | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](prompt-eng/coaches/gpt-prompt-chaining-coach.md) |  |
 | Nov 26 (2024) | Gpt Usage Coach | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llms/ideation/gpt-usage-coach.md) |  |
@@ -183,7 +183,7 @@ I share these assistants on the hope that they might be useful to others!
 | Dec 23 (2024) | SQL Schema Genie | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/sql-helpers/schema-genie.md) |  |
 | Dec 23 (2024) | Salary Research Sidekick | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](career/job-hunt-helpers/salary-research-sidekick.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6768b4b7c8c3abc5c7a8d60a) |
 | Nov 26 (2024) | Self Hosted Tech Finder | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](tech-general/self-hosted-tech-finder.md) |  |
-| Nov 26 (2024) | Sensory Support Gpt | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](health/mental-health/sensory-support-gpt.md) |  |
+| Dec 23 (2024) | Sensory Processing Support Assistance Tool | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](health/mental-health/sensory-support-gpt.md) |  |
 | Dec 23 (2024) | Snippet for configuring voice-centric assistants | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](snippets/voice-preface.md) |  |
 | Dec 13 (2024) | Spot The Llm | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/spot-the-llm.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675c5c9b7b4e71b47969538e) |
 | Dec 23 (2024) | Stack Research Prompt | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/prompt-creation-assistants/stack-research-prompt.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6759f22de2c6caf4b22afa82) |
@@ -200,7 +200,7 @@ I share these assistants on the hope that they might be useful to others!
 | Nov 26 (2024) | Text Fixer (british_english) | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/text-fixer-(british_english).md) |  |
 | Dec 23 (2024) | Text To Video Prompt | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/prompt-creation-assistants/text-to-video-prompt.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6759ecd6692d209d580976fe) |
 | Nov 26 (2024) | The Checklist Pro | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](organisation/the-checklist-pro.md) |  |
-| Nov 26 (2024) | The Creativity Coach | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](health/mental-health/the-creativity-coach.md) |  |
+| Dec 23 (2024) | The Creativity Coach | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](health/mental-health/the-creativity-coach.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769a1b63055fc74101476a5) |
 | Nov 26 (2024) | The Database Matchmaker | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/data-architecture/the-database-matchmaker.md) |  |
 | Dec 23 (2024) | The Fake Wine Buff | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](for-fun/the-fake-wine-buff.md) |  |
 | Dec 12 (2024) | The Llm Mimic | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llms/the-llm-mimic.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6757b29b0eb722654f51ac6c) |
@@ -364,4 +364,11 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 206 |
 | Total on Hugging Face | 103 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 206 |
+| Total on Hugging Face | 104 |
 
