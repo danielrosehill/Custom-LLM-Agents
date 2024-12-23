@@ -68,6 +68,10 @@
         "url": "https://hf.co/chat/assistant/6769991f83d3037536d6cdf4"
     },
     {
+        "title": "brief-generator",
+        "url": "https://hf.co/chat/assistant/676999c853155b6690e871f2"
+    },
+    {
         "title": "broken-link-helper",
         "url": "https://hf.co/chat/assistant/6757a04fca07b5d6830df541"
     },
@@ -156,8 +160,16 @@
         "url": "https://hf.co/chat/assistant/675b05578892019207cce14a"
     },
     {
+        "title": "document-stats-and-numbers-miner",
+        "url": "https://hf.co/chat/assistant/67699a6b83d3037536d6ce24"
+    },
+    {
         "title": "document-table-finder",
         "url": "https://hf.co/chat/assistant/6757a52e2526a3ccbf0c7ac5"
+    },
+    {
+        "title": "dummy--csv-data-generator",
+        "url": "https://hf.co/chat/assistant/67699ac945672804f8d00806"
     },
     {
         "title": "eco-ninja-v3",
