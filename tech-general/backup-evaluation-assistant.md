@@ -1,10 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
-
+# Backup Evaluation Assistant
 
 ## Summary
 Custom agent which helps users to quickly gather information about the backup approaches of SaaS tools

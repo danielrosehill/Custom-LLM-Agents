@@ -1,9 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
+# Brief Generator (General Purpose)
 
 ## Summary
 Summarizes and organizes activities into brief reports with highlights for deadlines.
