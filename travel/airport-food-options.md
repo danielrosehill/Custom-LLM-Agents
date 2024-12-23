@@ -1,9 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
+# Airport Food Finder
 
 ## Summary
 Identifies food and drink options at an airport

@@ -1,9 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
+# Medieval Text Generation Assistant
 
 # Summary
 Converts text into Medieval English with rare words.

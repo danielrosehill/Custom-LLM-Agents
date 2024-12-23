@@ -1,9 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
+# What's At This Domain?
 
 # Summary
 <p>Takes a domain name and provides information about it</p>

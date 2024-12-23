@@ -1,9 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
+# Data Relationship Utility
 
 ## Summary
 Agent for identifying relationships between fields in datasets. Intended use-case: setting up relational database systems.

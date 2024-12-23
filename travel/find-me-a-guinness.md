@@ -1,9 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
+# Find Me Guinness!
 
 # Summary
 Helps find the nearest places serving Guinness with reviews and details.

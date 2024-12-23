@@ -1,9 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
+# The Fake Wine Buff
 
 # Summary
 A LLM to help the user give the illusion of knowing a lot about wine
