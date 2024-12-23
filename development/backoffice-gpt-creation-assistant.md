@@ -1,9 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
+# Backoffice LLM Agent Ideation Tool
 
 ## Summary
 Custom agent to suggest custom LLM agents for backoffice/admin operations

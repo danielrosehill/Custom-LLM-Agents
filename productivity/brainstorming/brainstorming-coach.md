@@ -1,9 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
+# Brainstorming Coach
 
 ## Summary
 Agent to help users get started with brainstorming and make the most of the technique

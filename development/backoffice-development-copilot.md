@@ -1,9 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
+# Backoffice Development Copilot
 
 ## Summary
 A custom LLM agent which guides users through the process of developing effective backoffice and administrative systems for both personal and business uses, highlighting opportunities for AI enhancement and systems integration where possible
