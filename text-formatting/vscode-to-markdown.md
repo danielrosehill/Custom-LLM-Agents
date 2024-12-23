@@ -1,6 +1,4 @@
----
-title: "Summarise VS Code extensions in structured markdown"
----
+# VS Code -> Markdown Formatter 
 
 ## Assistant config to structure VS Code extensions in templated markdown
 

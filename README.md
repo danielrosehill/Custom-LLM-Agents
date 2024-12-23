@@ -82,7 +82,6 @@ I share these assistants on the hope that they might be useful to others!
 | Dec 23 (2024) | Email Shortener | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/email-assistants/email-shortener.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/67696e6bc8c3abc5c7a8ec14) |
 | Nov 26 (2024) | Emergency Shelter Finding Guidance | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](preparedness/emergency-shelter-finding-guidance.md) |  |
 | Nov 26 (2024) | Example Output | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/data-discovery/ghg-emissions-data.md) |  |
-| Nov 26 (2024) | Extension Name (Link To Listing)  | By: Publisher Name | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](text-formatting/vscode-to-markdown.md) |  |
 | Nov 26 (2024) | Find A Bar Near Me | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](travel/find-a-bar-near-me.md) |  |
 | Dec 23 (2024) | Find Me A License | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](utilities/find-a-license.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769ae205ea5dbac8674c55d) |
 | Nov 26 (2024) | Find Me Compatible Hardware | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](research/purchasing/find-me-compatible-hardware.md) |  |
@@ -226,6 +225,7 @@ I share these assistants on the hope that they might be useful to others!
 | Dec 23 (2024) | Tumbleweed Troubleshooter (KDE Plasma) | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](tech-support/tumbleweed-helper.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769aaf3384ae3573032ba71) |
 | Dec 23 (2024) | Typo Master | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/jokes/typo-master.md) |  |
 | Dec 23 (2024) | UI Improvement Tool (Python/Bash) | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](code-gen/ui-improver.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769a774890c7f9b0d6d913e) |
+| Dec 23 (2024) | VS Code -> Markdown Formatter | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](text-formatting/vscode-to-markdown.md) |  |
 | Nov 26 (2024) | Vacation Doomsday Prepper | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](for-fun/vacation-doomsday-prepper.md) |  |
 | Dec 12 (2024) | View on Hugging Face Markdown badge generator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](utilities/view-on-hf-badges.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6759f095fa3a18005bba7d2e) |
 | Dec 23 (2024) | Voice Assistant Configuration Helper | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/voice-helpers/voice-config-helper.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6768a167612c984fd47e5024) |
@@ -433,6 +433,13 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 218 |
 | Total on Hugging Face | 114 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 219 |
+| Total on Hugging Face | 115 |
 
 ## Total Count
 
