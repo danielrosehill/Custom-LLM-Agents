@@ -4,6 +4,10 @@
         "url": "https://hf.co/chat/assistant/675b7e9621499ff25259eabb"
     },
     {
+        "title": "acronym_to_organisation",
+        "url": "https://hf.co/chat/assistant/67698cab384ae3573032b658"
+    },
+    {
         "title": "agenda-assistant-v2",
         "url": "https://hf.co/chat/assistant/6768a5297eba7923b7af64f6"
     },
@@ -42,6 +46,10 @@
     {
         "title": "boss-update-batcher",
         "url": "https://hf.co/chat/assistant/67579f6a2526a3ccbf0c76ac"
+    },
+    {
+        "title": "broken-link-helper",
+        "url": "https://hf.co/chat/assistant/6757a04fca07b5d6830df541"
     },
     {
         "title": "business-continuity-advisor",
@@ -100,6 +108,10 @@
         "url": "https://hf.co/chat/assistant/676983f0b6426161b4ba2caf"
     },
     {
+        "title": "csv",
+        "url": "https://hf.co/chat/assistant/67698f01c9f2e60f896fac8a"
+    },
+    {
         "title": "data-visualisation-and-storytelling-guide",
         "url": "https://hf.co/chat/assistant/675b7afc21499ff25259e9c2"
     },
@@ -138,6 +150,10 @@
     {
         "title": "email-shortener",
         "url": "https://hf.co/chat/assistant/67696e6bc8c3abc5c7a8ec14"
+    },
+    {
+        "title": "ergonomic-evaulation-assistant",
+        "url": "https://hf.co/chat/assistant/6768bae1cfb5f6f6033e63f9"
     },
     {
         "title": "freeform-converter",
@@ -188,6 +204,10 @@
         "url": "https://hf.co/chat/assistant/6768a9d54144bd429bbd84a3"
     },
     {
+        "title": "json",
+        "url": "https://hf.co/chat/assistant/6769932014a1a00276338470"
+    },
+    {
         "title": "llm-approach-advisor",
         "url": "https://hf.co/chat/assistant/676974f97c53eb44ca900776"
     },
@@ -216,8 +236,24 @@
         "url": "https://hf.co/chat/assistant/6768a645802ca8f9d460007e"
     },
     {
+        "title": "mongodb",
+        "url": "https://hf.co/chat/assistant/67698faa28f7b8f9319e1523"
+    },
+    {
+        "title": "mysql",
+        "url": "https://hf.co/chat/assistant/6769927e7c53eb44ca900b39"
+    },
+    {
+        "title": "neo4j",
+        "url": "https://hf.co/chat/assistant/67699150d36d646a09336576"
+    },
+    {
         "title": "open-data-finder",
         "url": "https://hf.co/chat/assistant/6757ae28097c39b938f2cd7d"
+    },
+    {
+        "title": "postgres",
+        "url": "https://hf.co/chat/assistant/676990b9d36d646a09336559"
     },
     {
         "title": "postgres-schema-coach",
@@ -266,6 +302,10 @@
     {
         "title": "spot-the-llm",
         "url": "https://hf.co/chat/assistant/675c5c9b7b4e71b47969538e"
+    },
+    {
+        "title": "sqlite",
+        "url": "https://hf.co/chat/assistant/676992ce1936c35ab02bfa0f"
     },
     {
         "title": "stack-research-prompt",
