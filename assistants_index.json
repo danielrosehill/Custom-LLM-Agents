@@ -312,6 +312,10 @@
         "url": "https://hf.co/chat/assistant/6769730fc8c3abc5c7a8ecb0"
     },
     {
+        "title": "prompt-analyst",
+        "url": "https://hf.co/chat/assistant/6769a3553055fc74101476db"
+    },
+    {
         "title": "prompt-eng-analyser",
         "url": "https://hf.co/chat/assistant/675b0992d19467d49184081a"
     },

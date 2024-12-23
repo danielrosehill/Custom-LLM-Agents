@@ -160,6 +160,7 @@ I share these assistants on the hope that they might be useful to others!
 | Nov 26 (2024) | Preparedness Brief Creator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](preparedness/preparedness-brief-creator.md) |  |
 | Nov 26 (2024) | Preparedness Partner | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](preparedness/preparedness-partner.md) |  |
 | Dec 23 (2024) | Process Improvement Helper (Tech Oriented) | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](productivity/process-improvement.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769730fc8c3abc5c7a8ecb0) |
+| Dec 23 (2024) | Prompt Analyst | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](prompt-eng/prompt-analyst.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769a3553055fc74101476db) |
 | Dec 12 (2024) | Prompt Eng Analyser | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/prompt-eng-analyser.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b0992d19467d49184081a) |
 | Dec 23 (2024) | Prompt Engineering Digest | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](prompt-eng/news-digest/prompt-engineering-digest.md) |  |
 | Nov 26 (2024) | Prompt Shortener | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](prompt-eng/utilities/prompt-shortener.md) |  |
@@ -371,4 +372,11 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 206 |
 | Total on Hugging Face | 104 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 207 |
+| Total on Hugging Face | 105 |
 
