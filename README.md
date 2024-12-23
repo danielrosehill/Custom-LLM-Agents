@@ -84,6 +84,7 @@ I share these assistants on the hope that they might be useful to others!
 | Nov 26 (2024) | Example Output | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/data-discovery/ghg-emissions-data.md) |  |
 | Nov 26 (2024) | Extension Name (Link To Listing)  | By: Publisher Name | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](text-formatting/vscode-to-markdown.md) |  |
 | Nov 26 (2024) | Find A Bar Near Me | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](travel/find-a-bar-near-me.md) |  |
+| Dec 23 (2024) | Find Me A License | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](utilities/find-a-license.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769ae205ea5dbac8674c55d) |
 | Nov 26 (2024) | Find Me Compatible Hardware | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](research/purchasing/find-me-compatible-hardware.md) |  |
 | Dec 23 (2024) | Find Me Guinness! | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](travel/find-me-a-guinness.md) |  |
 | Dec 23 (2024) | Freeform Converter | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/freeform-text-handlers/freeform-converter.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/670cfcba1f325eee148c7c19) |
@@ -407,4 +408,11 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 214 |
 | Total on Hugging Face | 112 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 215 |
+| Total on Hugging Face | 113 |
 
