@@ -1,5 +1,4 @@
-# Company explorer
-
+# Company Exploration Tool (Topic To Copmany)
 
 [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6768fa2ba465d8e1f2841d02)
 
