@@ -104,6 +104,7 @@ I share these assistants on the hope that they might be useful to others!
 | Nov 26 (2024) | If We Don't Change... | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/if-we-don't-change....md) |  |
 | Dec 13 (2024) | Image Gen Advisor | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/image-gen-advisor.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b78e88892019207cd01ec) |
 | Dec 23 (2024) | Image To SQL Query | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/sql-helpers/image_to_sql_query.md) |  |
+| Dec 23 (2024) | Impact bond research assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](research/sustainability/impact-bond-researcher.md) |  |
 | Nov 26 (2024) | Improve My Gpt Prompt | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](prompt-eng/utilities/improve-my-gpt-prompt.md) |  |
 | Nov 26 (2024) | Improve My Script | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](development/improve-my-script.md) |  |
 | Nov 26 (2024) | In Flight Wifi | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](travel/in-flight-wifi.md) |  |
@@ -175,6 +176,7 @@ I share these assistants on the hope that they might be useful to others!
 | Dec 23 (2024) | Purpose | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](ai-related/ai-could-help-here.md) |  |
 | Dec 23 (2024) | Python GUI Generation Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](code-gen/python-generator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769aa11c39cd38c060cf20a) |
 | Nov 26 (2024) | Quick Email Template Generator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/quick-email-template-generator.md) |  |
+| Dec 23 (2024) | Quick Statistic Checker | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](research/stat-checker.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769b1543f41e5999813ad25) |
 | Dec 17 (2024) | Random AI Assistant Ideator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](ideation/random-ai-assistant-ideator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/67618e14c43bc16e0532ffd7) |
 | Nov 26 (2024) | Random Gpt Suggestion Tool | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llms/random-gpt-suggestion-tool.md) |  |
 | Nov 26 (2024) | Recent Documentary Finder | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](for-fun/recent-documentary-finder.md) |  |
@@ -196,6 +198,7 @@ I share these assistants on the hope that they might be useful to others!
 | Dec 23 (2024) | Stack Research Prompt | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/prompt-creation-assistants/stack-research-prompt.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6759f22de2c6caf4b22afa82) |
 | Nov 26 (2024) | Sustainability Report Finder | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/sustainability-reports/sustainability-report-finder.md) |  |
 | Nov 26 (2024) | Sustainable Living Advisor | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/advisory/sustainable-living-advisor.md) |  |
+| Dec 23 (2024) | Sutainability Linked Bonds And Loans | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](research/sustainability/slbs-and-slls.md) |  |
 | Dec 20 (2024) | Synthetic Data Generation Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](cybersecurity/synthetic-pii-creator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676582eb67886299fb855408) |
 | Nov 26 (2024) | Taxonomy And Category Builder | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/taxonomies/taxonomy-and-category-builder.md) |  |
 | Dec 12 (2024) | Taxonomy Ideation Wizard | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/taxonomies/taxonomy-ideation-tool.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6701e018cb513bb057ded466) |
@@ -422,4 +425,11 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 215 |
 | Total on Hugging Face | 113 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 218 |
+| Total on Hugging Face | 114 |
 
