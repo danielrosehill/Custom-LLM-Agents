@@ -1,5 +1,7 @@
 # Airport Food Finder
 
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769980a6f424cd438c4fdd3)
+
 ## Summary
 Identifies food and drink options at an airport
 

@@ -1,5 +1,8 @@
 # Brainstorming Assistant
 
+
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769978f384ae3573032b7d2)
+
 ## Summary
 LLM agent which provides guidance to help the user have effective brainstorming sessions
 
