@@ -23,11 +23,18 @@ def find_new_markdown_files(repo_root, readme_path):
                 if rel_path == readme_rel_path:
                     continue
                 creation_time = datetime.fromtimestamp(os.path.getctime(file_path))
-                modification_time = datetime.fromtimestamp(os.path.getmtime(file_path))
                 badge = find_badge_in_file(file_path)
-                assistant_name = ' '.join(word.capitalize() for word in file.replace('.md', '').split('-'))
+                assistant_name = extract_title_from_file(file_path) or ' '.join(word.capitalize() for word in file.replace('.md', '').split('-'))
                 new_files.append((assistant_name, creation_time, file, rel_path, badge))
     return sorted(new_files, key=lambda x: x)  # Sort alphabetically by assistant_name (index 0)
+
+def extract_title_from_file(file_path):
+    """Extract the first h1 (# Header) from the markdown file."""
+    with open(file_path, 'r') as f:
+        for line in f:
+            if line.startswith('# '):  # Look for h1 headers
+                return line[2:].strip()  # Remove '# ' and any surrounding whitespace
+    return None
 
 def find_badge_in_file(file_path):
     with open(file_path, 'r') as f:
@@ -43,12 +50,22 @@ def update_readme(readme_path, new_files):
 
     index_start = None
     index_end = None
+    totals_start = None
+    totals_end = None
 
+    # Locate sections in README
     for i, line in enumerate(content):
         if line.strip() == "## Index":
             index_start = i + 1
         elif index_start is not None and line.startswith("## "):
             index_end = i
+            break
+
+    for i, line in enumerate(content):
+        if line.strip() == "## Total Count":
+            totals_start = i
+        elif totals_start is not None and line.startswith("## "):
+            totals_end = i
             break
 
     if index_start is None:
@@ -58,13 +75,15 @@ def update_readme(readme_path, new_files):
     if index_end is None:
         index_end = len(content)
 
+    if totals_start is None:
+        totals_start = len(content)
+        totals_end = len(content)
+
+    # Build new index content
     new_index_content = (
         "| Creation Date | Assistant Name | Repo Link | Use Now |\n"
         "|---------------|----------------|-----------|---------|\n"
     )
-
-    total_assistants = len(new_files)
-    total_hf_links = sum(1 for _, _, _, _, badge in new_files if badge)
 
     for assistant_name, creation_time, file_name, rel_path, badge in new_files:
         github_badge = f'[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)]({rel_path})'
@@ -74,7 +93,11 @@ def update_readme(readme_path, new_files):
     # Add a blank line after the index
     new_index_content += "\n"
 
-    # Add the totals section as a markdown table immediately after the index
+    # Calculate totals once
+    total_assistants = len(new_files)
+    total_hf_links = sum(1 for _, _, _, _, badge in new_files if badge)
+
+    # Build totals section
     totals_section = (
         "## Total Count\n\n"
         "| Metric | Count |\n"
@@ -83,8 +106,9 @@ def update_readme(readme_path, new_files):
         f"| Total on Hugging Face | {total_hf_links} |\n\n"
     )
 
-    # Inject both the index and totals section into the README
-    content = content[:index_start] + [new_index_content] + [totals_section] + content[index_end:]
+    # Inject updated content into README
+    content[index_start:index_end] = [new_index_content]
+    content[totals_start:totals_end] = [totals_section]
 
     with open(readme_path, 'w') as mdfile:
         mdfile.writelines(content)
