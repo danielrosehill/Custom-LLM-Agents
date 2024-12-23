@@ -1,9 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
+# Free Tier AI Software
 
 # Summary
 LLM that identifies software with a free tier

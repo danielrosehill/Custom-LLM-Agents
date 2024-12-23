@@ -1,10 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
-
+ 
 ## Summary
 Identifies ways AI and LLMs can improve your life suggesting concrete use-cases
 
