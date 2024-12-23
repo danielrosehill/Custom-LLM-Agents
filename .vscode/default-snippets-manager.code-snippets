@@ -1,4 +1,13 @@
 {
+	"View On Hugging Face badge": {
+		"prefix": "View On Hugging Face badge",
+		"description": "View On Hugging Face badge",
+		"scope": "markdown",
+		"body": [
+			"",
+			"[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6768d60a802ca8f9d4600557)"
+		]
+	},
 	"HF added": {
 		"prefix": "HF added",
 		"description": "HF added",
