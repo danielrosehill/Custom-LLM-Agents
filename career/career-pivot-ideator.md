@@ -1,9 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
+# Career Pivot Ideator
 
 ## Summary
 Suggests minor career pivots that users could take to work in more fulfilling jobs

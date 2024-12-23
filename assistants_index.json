@@ -9,7 +9,7 @@
     },
     {
         "title": "ai-career-ideator",
-        "url": "https://hf.co/chat/assistant/6701df91cb513bb057ded417\""
+        "url": "https://hf.co/chat/assistant/6701df91cb513bb057ded417"
     },
     {
         "title": "ai-tech-advisor",
@@ -58,6 +58,10 @@
     {
         "title": "company-explorer",
         "url": "https://hf.co/chat/assistant/6768fa2ba465d8e1f2841d02"
+    },
+    {
+        "title": "company-news-retriever",
+        "url": "https://hf.co/chat/assistant/6769775b53155b6690e86d5c"
     },
     {
         "title": "company-remote-info",
@@ -286,6 +290,10 @@
     {
         "title": "voice-context-data-helper",
         "url": "https://hf.co/chat/assistant/6768d07954c6d31d32d3786e"
+    },
+    {
+        "title": "voice-note-helper",
+        "url": "https://hf.co/chat/assistant/67697bd73f41e5999813a5dc"
     },
     {
         "title": "voice-prompt-refiner",
