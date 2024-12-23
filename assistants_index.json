@@ -1,0 +1,278 @@
+[
+    {
+        "title": "a-day-in-gpt-land",
+        "url": "https://hf.co/chat/assistant/675b7e9621499ff25259eabb"
+    },
+    {
+        "title": "agenda-assistant-v2",
+        "url": "https://hf.co/chat/assistant/6768a5297eba7923b7af64f6"
+    },
+    {
+        "title": "ai-career-ideator",
+        "url": "https://hf.co/chat/assistant/6701df91cb513bb057ded417\""
+    },
+    {
+        "title": "ai-tech-advisor",
+        "url": "https://hf.co/chat/assistant/6701df2bcb513bb057ded3a8"
+    },
+    {
+        "title": "assistant-team-manager",
+        "url": "https://hf.co/chat/assistant/675b82b18892019207cd0533"
+    },
+    {
+        "title": "automate-my-workflow",
+        "url": "https://hf.co/chat/assistant/67579ee97ab12b601c7fd9fd"
+    },
+    {
+        "title": "backup-coach",
+        "url": "https://hf.co/chat/assistant/6701e064b41b0e86f9d5acdd"
+    },
+    {
+        "title": "bad-jokes-galore",
+        "url": "https://hf.co/chat/assistant/674d41dfcf1f9846ac2d50e0"
+    },
+    {
+        "title": "beer-tap-identifier",
+        "url": "https://hf.co/chat/assistant/674d41200a1ac006d7354790"
+    },
+    {
+        "title": "bluf-email-generator",
+        "url": "https://hf.co/chat/assistant/6768d60a802ca8f9d4600557"
+    },
+    {
+        "title": "boss-update-batcher",
+        "url": "https://hf.co/chat/assistant/67579f6a2526a3ccbf0c76ac"
+    },
+    {
+        "title": "business-continuity-advisor",
+        "url": "https://hf.co/chat/assistant/675b07eeb36bc6d22c25ee37"
+    },
+    {
+        "title": "chatgpt-to-hf-chat",
+        "url": "https://hf.co/chat/assistant/675b0744903247ce54987b69"
+    },
+    {
+        "title": "company-backgrounder",
+        "url": "https://hf.co/chat/assistant/675b722cb491864d969872db"
+    },
+    {
+        "title": "company-remote-info",
+        "url": "https://hf.co/chat/assistant/6768a3b54d6ce65716485c94"
+    },
+    {
+        "title": "company-screener",
+        "url": "https://hf.co/chat/assistant/6768ae79384ae35730329bd9"
+    },
+    {
+        "title": "competitive-landscape-mapper",
+        "url": "https://hf.co/chat/assistant/6768b9091936c35ab02be05a"
+    },
+    {
+        "title": "config-test-creator",
+        "url": "https://hf.co/chat/assistant/6762c852203d2dc056b1e4fa"
+    },
+    {
+        "title": "context-data-ideator",
+        "url": "https://hf.co/chat/assistant/6762d5b9bb93201f4b42bcbd"
+    },
+    {
+        "title": "context-snippet-generator",
+        "url": "https://hf.co/chat/assistant/67624b04c43bc16e05331a06"
+    },
+    {
+        "title": "data-visualisation-and-storytelling-guide",
+        "url": "https://hf.co/chat/assistant/675b7afc21499ff25259e9c2"
+    },
+    {
+        "title": "decluttering",
+        "url": "https://hf.co/chat/assistant/675d552a074837b9c77190a9"
+    },
+    {
+        "title": "degaslighting-trainer",
+        "url": "https://hf.co/chat/assistant/676194d0848a28b678962395"
+    },
+    {
+        "title": "dictated-text-fixer",
+        "url": "https://hf.co/chat/assistant/675d323cd74aa23d31f4fd78"
+    },
+    {
+        "title": "doc-anon-tool",
+        "url": "https://hf.co/chat/assistant/6760b39606189c9ac0656dd6"
+    },
+    {
+        "title": "docker-compose-analyser",
+        "url": "https://hf.co/chat/assistant/675b05578892019207cce14a"
+    },
+    {
+        "title": "document-table-finder",
+        "url": "https://hf.co/chat/assistant/6757a52e2526a3ccbf0c7ac5"
+    },
+    {
+        "title": "eco-ninja-v3",
+        "url": "https://hf.co/chat/assistant/674dfb83203be059afb0da43"
+    },
+    {
+        "title": "eco-ninja3",
+        "url": "https://hf.co/chat/assistant/674dfb83203be059afb0da43"
+    },
+    {
+        "title": "freeform-converter",
+        "url": "https://hf.co/chat/assistant/670cfcba1f325eee148c7c19"
+    },
+    {
+        "title": "geopolitical-scenario-simulator",
+        "url": "https://hf.co/chat/assistant/6757a6b19370b67839010745"
+    },
+    {
+        "title": "go-sell-yourself",
+        "url": "https://hf.co/chat/assistant/6761ea0c90f63f7b682335b1"
+    },
+    {
+        "title": "grumpy-llm",
+        "url": "https://hf.co/chat/assistant/6757b7b9a55bdf54377f9b68"
+    },
+    {
+        "title": "image-gen-advisor",
+        "url": "https://hf.co/chat/assistant/675b78e88892019207cd01ec"
+    },
+    {
+        "title": "interview-preparation-helper",
+        "url": "https://hf.co/chat/assistant/6768b2c72fb5aa29a08237c9"
+    },
+    {
+        "title": "inventory-helper",
+        "url": "https://hf.co/chat/assistant/675db20e1cb94b2f5a99c110"
+    },
+    {
+        "title": "israel-price-comparison-helper",
+        "url": "https://hf.co/chat/assistant/675b336841cdb0f48acc55cc"
+    },
+    {
+        "title": "israel-tech-shopping",
+        "url": "https://hf.co/chat/assistant/675b2727fbc7dfcdaa9f8e7b"
+    },
+    {
+        "title": "job-search-accountability-partner",
+        "url": "https://hf.co/chat/assistant/6768a9d54144bd429bbd84a3"
+    },
+    {
+        "title": "llm-background-assistant",
+        "url": "https://hf.co/chat/assistant/674d4458a845eb960e0794b3"
+    },
+    {
+        "title": "llm-output-judge",
+        "url": "https://hf.co/chat/assistant/6757a73c7ab12b601c7fdfa7"
+    },
+    {
+        "title": "llm-use-case-ideation-bot",
+        "url": "https://hf.co/chat/assistant/6757b54b097c39b938f2d199"
+    },
+    {
+        "title": "llms-people-and-orgs",
+        "url": "https://hf.co/chat/assistant/6757b68c0ff27103bd871481"
+    },
+    {
+        "title": "meeting-briefer",
+        "url": "https://hf.co/chat/assistant/6768b0d4c39cd38c060cd37f"
+    },
+    {
+        "title": "minutes-creator-v2",
+        "url": "https://hf.co/chat/assistant/6768a645802ca8f9d460007e"
+    },
+    {
+        "title": "open-data-finder",
+        "url": "https://hf.co/chat/assistant/6757ae28097c39b938f2cd7d"
+    },
+    {
+        "title": "postgres-schema-coach",
+        "url": "https://hf.co/chat/assistant/6701e0c3b41b0e86f9d5ad2e"
+    },
+    {
+        "title": "prompt-eng-analyser",
+        "url": "https://hf.co/chat/assistant/675b0992d19467d49184081a"
+    },
+    {
+        "title": "prompt-to-llm",
+        "url": "https://hf.co/chat/assistant/674d7fd13b64184e69e89508"
+    },
+    {
+        "title": "random-ai-assistant-ideator",
+        "url": "https://hf.co/chat/assistant/67618e14c43bc16e0532ffd7"
+    },
+    {
+        "title": "relations-briefer",
+        "url": "https://hf.co/chat/assistant/675b88ebc00f90d9bde73d4b"
+    },
+    {
+        "title": "remote-job-profiler",
+        "url": "https://hf.co/chat/assistant/67618ba28956d493cd64a50e"
+    },
+    {
+        "title": "resume-hole-picker",
+        "url": "https://hf.co/chat/assistant/6768aceb6f424cd438c4e0d0"
+    },
+    {
+        "title": "salary-research-sidekick",
+        "url": "https://hf.co/chat/assistant/6768b4b7c8c3abc5c7a8d60a"
+    },
+    {
+        "title": "sitrep-maker-general",
+        "url": "https://hf.co/chat/assistant/674d466ea845eb960e079530"
+    },
+    {
+        "title": "sloth-guys",
+        "url": "https://hf.co/chat/assistant/675b750321499ff25259e817"
+    },
+    {
+        "title": "spot-the-llm",
+        "url": "https://hf.co/chat/assistant/675c5c9b7b4e71b47969538e"
+    },
+    {
+        "title": "stack-research-prompt",
+        "url": "https://hf.co/chat/assistant/6759f22de2c6caf4b22afa82"
+    },
+    {
+        "title": "synthetic-pii-creator",
+        "url": "https://hf.co/chat/assistant/676582eb67886299fb855408"
+    },
+    {
+        "title": "taxonomy-ideation-tool",
+        "url": "https://hf.co/chat/assistant/6701e018cb513bb057ded466"
+    },
+    {
+        "title": "tech-spec-assistant",
+        "url": "https://hf.co/chat/assistant/6768c7c97baf7ae121bfcf7a"
+    },
+    {
+        "title": "text-to-video-prompt",
+        "url": "https://hf.co/chat/assistant/6759ecd6692d209d580976fe"
+    },
+    {
+        "title": "the-llm-mimic",
+        "url": "https://hf.co/chat/assistant/6757b29b0eb722654f51ac6c"
+    },
+    {
+        "title": "toxic-email-parser",
+        "url": "https://hf.co/chat/assistant/675ecf4241db734868f0c1e0"
+    },
+    {
+        "title": "view-on-hf-badges",
+        "url": "https://hf.co/chat/assistant/6759f095fa3a18005bba7d2e"
+    },
+    {
+        "title": "voice-config-helper",
+        "url": "https://hf.co/chat/assistant/6768a167612c984fd47e5024"
+    },
+    {
+        "title": "voice-context-data-helper",
+        "url": "https://hf.co/chat/assistant/6768d07954c6d31d32d3786e"
+    },
+    {
+        "title": "voice-prompt-refiner",
+        "url": "https://hf.co/chat/assistant/6759efc2fa3a18005bba7cee"
+    },
+    {
+        "title": "voice-to-text",
+        "url": "https://hf.co/chat/assistant/675b0be7be9adaf5257b7f94"
+    }
+]
