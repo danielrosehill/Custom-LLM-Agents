@@ -119,6 +119,7 @@ I share these assistants on the hope that they might be useful to others!
 | Dec 23 (2024) | Just The Code, Please! | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](code-gen/just-code-please.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769a897c39cd38c060cf1db) |
 | Nov 26 (2024) | Keep Me On Time | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](organisation/time-management/keep-me-on-time.md) |  |
 | Dec 23 (2024) | LLM Approach Advisory Tool | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/llm-approach-advisor.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676974f97c53eb44ca900776) |
+| Dec 23 (2024) | LLM Assistant Configuration Generator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](utilities/assistant-configuration-generator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769acce952e0760fd6c8626) |
 | Dec 23 (2024) | LLM Augmentation Guide | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/llm-augmentation-guide.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769a552685abc1df63ae00e) |
 | Dec 12 (2024) | LLM Background Assistant (Researcher) | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llms/llm-background-assistant.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/674d4458a845eb960e0794b3) |
 | Dec 23 (2024) | LLM Test Lab (Evaluation Tool) | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llms/evaluation/gpt-test-bench.md) |  |
@@ -399,4 +400,11 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 213 |
 | Total on Hugging Face | 111 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 214 |
+| Total on Hugging Face | 112 |
 
