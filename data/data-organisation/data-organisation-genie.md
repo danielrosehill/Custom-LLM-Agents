@@ -1,9 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
+# Data Organisation Sidekick
 
 ## Summary
 LLM agent to help users manage data in relational database systems

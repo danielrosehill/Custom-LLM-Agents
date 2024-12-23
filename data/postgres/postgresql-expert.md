@@ -1,9 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
+# The Postgres Expert
 
 # Summary
 Answers questions and helps with PostgreSQL queries and concepts, from basics to advanced use cases in a friendly tone.

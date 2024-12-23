@@ -1,9 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
+# Daily Schedule Manager
 
 ## Summary
 LLM for creating a daily schedule

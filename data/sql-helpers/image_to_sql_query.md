@@ -1,17 +1,6 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
+# Image To SQL Query
 
-# Name
-
-Image to SQL Query
-
-# Description
-
-A LLM which accepts a screenshot of a data structure and attempts to replicate it in SQL
+LLM which accepts a screenshot of a data structure and attempts to replicate it in SQL
 
 # Instructions
 

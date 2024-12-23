@@ -1,9 +1,4 @@
----
-creation_date:  
-added_to_hugging_face:  
-hugging_face_url:  
-chatgpt_url:  
----
+# Media Outreach Assistant
 
 # Summary
 Helps the user to develop media lists suggesting relevant journalists to contact
