@@ -48,6 +48,10 @@
         "url": "https://hf.co/chat/assistant/675b07eeb36bc6d22c25ee37"
     },
     {
+        "title": "career-pivot-ideator",
+        "url": "https://hf.co/chat/assistant/67697e1714a1a002763381ab"
+    },
+    {
         "title": "chatgpt-to-hf-chat",
         "url": "https://hf.co/chat/assistant/675b0744903247ce54987b69"
     },
@@ -90,6 +94,10 @@
     {
         "title": "context-snippet-generator",
         "url": "https://hf.co/chat/assistant/67624b04c43bc16e05331a06"
+    },
+    {
+        "title": "courses-and-certs",
+        "url": "https://hf.co/chat/assistant/676983f0b6426161b4ba2caf"
     },
     {
         "title": "data-visualisation-and-storytelling-guide",
@@ -144,6 +152,10 @@
         "url": "https://hf.co/chat/assistant/6761ea0c90f63f7b682335b1"
     },
     {
+        "title": "grow-with-my-job",
+        "url": "https://hf.co/chat/assistant/67697fa57c53eb44ca9008d5"
+    },
+    {
         "title": "grumpy-llm",
         "url": "https://hf.co/chat/assistant/6757b7b9a55bdf54377f9b68"
     },
@@ -166,6 +178,10 @@
     {
         "title": "israel-tech-shopping",
         "url": "https://hf.co/chat/assistant/675b2727fbc7dfcdaa9f8e7b"
+    },
+    {
+        "title": "job-performance-coach",
+        "url": "https://hf.co/chat/assistant/676980cfc9f2e60f896faab1"
     },
     {
         "title": "job-search-accountability-partner",

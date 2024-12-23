@@ -2,7 +2,9 @@
 ## Summary
 Identifies ways AI and LLMs can improve your life suggesting concrete use-cases
 
----
+## Hugging Face
+
+This configuration is a relatively old one that I authored when creating most assistants on Chat GPT, and I think that its use has been replaced by more targeted recent assistance focused on AI guidance generally. This one won't be replicated onto Hugging Face.
 
 # Purpose
 This LLM agent helps users identify areas where AI technologies and custom LLMs can enhance their lives. It asks users about the challenges they face and provides ten personalized suggestions for how AI and custom LLMs can assist them. 
