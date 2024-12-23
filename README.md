@@ -141,6 +141,7 @@ I share these assistants on the hope that they might be useful to others!
 | Nov 26 (2024) | Media Monitoring Helper | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](professional/pr-and-comms/media-monitoring-helper.md) |  |
 | Nov 26 (2024) | Media Opportunity Screener | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](professional/pr-and-comms/media-opportunity-screener.md) |  |
 | Dec 23 (2024) | Media Outreach Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](professional/pr-and-comms/media-outreach-assistant.md) |  |
+| Dec 23 (2024) | Media Source Background Checker | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](research/media-source-background-checker.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769b2f6952e0760fd6c86f2) |
 | Dec 23 (2024) | Medieval Text Generation Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/jokes/medieval-english-text-generator.md) |  |
 | Nov 26 (2024) | Meeting Agenda Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](professional/meeting-organisers/meeting-agenda-assistant.md) |  |
 | Dec 23 (2024) | Meeting Minutes Creator (V2) | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](professional/meeting-organisers/minutes-creator-v2.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6768a645802ca8f9d460007e) |
@@ -432,4 +433,11 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 218 |
 | Total on Hugging Face | 114 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 219 |
+| Total on Hugging Face | 115 |
 
