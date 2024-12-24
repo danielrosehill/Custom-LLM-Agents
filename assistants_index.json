@@ -212,6 +212,10 @@
         "url": "https://hf.co/chat/assistant/67696e6bc8c3abc5c7a8ec14"
     },
     {
+        "title": "emissions-report-analyst",
+        "url": "https://hf.co/chat/assistant/676aacc8f48cb11efe7f02ea"
+    },
+    {
         "title": "ergonomic-evaulation-assistant",
         "url": "https://hf.co/chat/assistant/6768bae1cfb5f6f6033e63f9"
     },
@@ -370,6 +374,10 @@
     {
         "title": "remote-job-profiler",
         "url": "https://hf.co/chat/assistant/67618ba28956d493cd64a50e"
+    },
+    {
+        "title": "report-summariser",
+        "url": "https://hf.co/chat/assistant/676aaa9990f98bff93e01dab"
     },
     {
         "title": "resume-hole-picker",
