@@ -10,6 +10,13 @@ My approach to AI is to remain vendor agnostic whenever possible. So most of the
 
 These assistants are pretty wide ranging. Some are tools I've created for my own personal uses. In other cases, they were created for clients or jobs. My experience working with assistants changes and grows over time much as their capabilities evolve. So any of the configurations really just reflect my current understanding for how to maximize the utility of these tools. I'm very interested in leveraging voice with these assistants, so that will be an increasing focus in the future.
 
+## JSON Index
+
+This badge links to the JSON index for the assistants, which is built dynamically whenever I push the repository. It can be used to provide a list of all the assistants in this repository to tools like "wizard" agents who guide to specific tools.
+
+[![JSON Index](https://img.shields.io/badge/JSON%20Index-blue)](https://raw.githubusercontent.com/danielrosehill/Custom-LLM-Agents/refs/heads/main/assistants_index.json)
+
+
 ## Structure 
  
 The GitHub link in the index simply opens the markdown file for that index configuration page. This is where I share the configuration as I've written it. Sometimes I'll include the iterations as I make them. 
@@ -198,9 +205,9 @@ I share these assistants on the hope that they might be useful to others!
 | Dec 23 (2024) | Snippet for configuring voice-centric assistants | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](snippets/voice-preface.md) |  |
 | Dec 13 (2024) | Spot The Llm | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/spot-the-llm.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675c5c9b7b4e71b47969538e) |
 | Dec 23 (2024) | Stack Research Prompt | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/prompt-creation-assistants/stack-research-prompt.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6759f22de2c6caf4b22afa82) |
+| Dec 24 (2024) | Sustainability Linked Bonds And Loans Research Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](research/sustainability/slbs-and-slls.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676aa8e2f5594e37952a01c3) |
 | Nov 26 (2024) | Sustainability Report Finder | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/sustainability-reports/sustainability-report-finder.md) |  |
 | Nov 26 (2024) | Sustainable Living Advisor | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/advisory/sustainable-living-advisor.md) |  |
-| Dec 23 (2024) | Sutainability Linked Bonds And Loans | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](research/sustainability/slbs-and-slls.md) |  |
 | Dec 20 (2024) | Synthetic Data Generation Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](cybersecurity/synthetic-pii-creator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676582eb67886299fb855408) |
 | Nov 26 (2024) | Taxonomy And Category Builder | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/taxonomies/taxonomy-and-category-builder.md) |  |
 | Dec 12 (2024) | Taxonomy Ideation Wizard | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/taxonomies/taxonomy-ideation-tool.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6701e018cb513bb057ded466) |
@@ -463,4 +470,11 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 221 |
 | Total on Hugging Face | 117 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 221 |
+| Total on Hugging Face | 118 |
 
