@@ -376,6 +376,10 @@
         "url": "https://hf.co/chat/assistant/675b0992d19467d49184081a"
     },
     {
+        "title": "prompt-length-guide",
+        "url": "https://hf.co/chat/assistant/676ac19c72105fc97b441f05"
+    },
+    {
         "title": "prompt-to-llm",
         "url": "https://hf.co/chat/assistant/674d7fd13b64184e69e89508"
     },
@@ -478,6 +482,10 @@
     {
         "title": "the-night-time-forager",
         "url": "https://hf.co/chat/assistant/676ab9fe7d4a0c865055650a"
+    },
+    {
+        "title": "token-estimator",
+        "url": "https://hf.co/chat/assistant/676ac05090f98bff93e023ed"
     },
     {
         "title": "toxic-email-parser",
