@@ -212,6 +212,10 @@
         "url": "https://hf.co/chat/assistant/67696e6bc8c3abc5c7a8ec14"
     },
     {
+        "title": "email-thread-reader",
+        "url": "https://hf.co/chat/assistant/676aaddd9aa1f60df34a30e5"
+    },
+    {
         "title": "emissions-report-analyst",
         "url": "https://hf.co/chat/assistant/676aacc8f48cb11efe7f02ea"
     },
@@ -280,6 +284,10 @@
         "url": "https://hf.co/chat/assistant/6769a897c39cd38c060cf1db"
     },
     {
+        "title": "linux-hardware-finder",
+        "url": "https://hf.co/chat/assistant/676ab15072e9b857f61625da"
+    },
+    {
         "title": "llm-api-guide",
         "url": "https://hf.co/chat/assistant/676a9047657f53b58a920b52"
     },
@@ -306,6 +314,10 @@
     {
         "title": "llms-people-and-orgs",
         "url": "https://hf.co/chat/assistant/6757b68c0ff27103bd871481"
+    },
+    {
+        "title": "media-monitoring-helper",
+        "url": "https://hf.co/chat/assistant/676aaed072e9b857f6162534"
     },
     {
         "title": "media-source-background-checker",
@@ -366,6 +378,10 @@
     {
         "title": "random-ai-assistant-ideator",
         "url": "https://hf.co/chat/assistant/67618e14c43bc16e0532ffd7"
+    },
+    {
+        "title": "recent-news-digest",
+        "url": "https://hf.co/chat/assistant/676aafaf589078e4a21a322f"
     },
     {
         "title": "relations-briefer",
