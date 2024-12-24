@@ -98,7 +98,7 @@ I share these assistants on the hope that they might be useful to others!
 | Nov 26 (2024) | Find Me Compatible Hardware | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](research/purchasing/find-me-compatible-hardware.md) |  |
 | Dec 23 (2024) | Find Me Guinness! | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](travel/find-me-a-guinness.md) |  |
 | Dec 23 (2024) | Freeform Writing Converter | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/freeform-text-handlers/freeform-converter.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/670cfcba1f325eee148c7c19) |
-| Dec 24 (2024) | GHG Emissions Discovery Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/sustainability-reports/ghg-report-finder-v2.md) |  |
+| Dec 24 (2024) | GHG Emissions Discovery Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/sustainability-reports/ghg-report-finder-v2.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676afd4089e2b65a406900b8) |
 | Dec 24 (2024) | GHG Emissions Report Analyst | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/emissions-report-analyst.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676aacc8f48cb11efe7f02ea) |
 | Nov 26 (2024) | Gaslighting Guardian | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](health/mental-health/gaslighting-guardian.md) |  |
 | Dec 23 (2024) | General Purpose Personal Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](rag-enabled/general-personal-assistant.md) |  |
@@ -215,6 +215,7 @@ I share these assistants on the hope that they might be useful to others!
 | Dec 23 (2024) | Snippet for configuring voice-centric assistants | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](snippets/voice-preface.md) |  |
 | Dec 13 (2024) | Spot The Llm | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/spot-the-llm.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675c5c9b7b4e71b47969538e) |
 | Dec 23 (2024) | Stack Research Prompt | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/prompt-creation-assistants/stack-research-prompt.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6759f22de2c6caf4b22afa82) |
+| Dec 24 (2024) | Sustainability Data Gathering Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/data-discovery/sustainability-data.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676aff1371e0f0e07689ad1e) |
 | Dec 24 (2024) | Sustainability Linked Bonds And Loans Research Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/slbs-and-slls.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676aa8e2f5594e37952a01c3) |
 | Dec 24 (2024) | Sustainability News Digest (Finance) | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/recent-news-digest.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676aafaf589078e4a21a322f) |
 | Dec 24 (2024) | Sustainability Regulation Guide | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/sustainability-regulation.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676abf0ccfc381aec6cba726) |
@@ -546,4 +547,11 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 234 |
 | Total on Hugging Face | 132 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 235 |
+| Total on Hugging Face | 134 |
 
