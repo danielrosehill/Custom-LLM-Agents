@@ -98,6 +98,7 @@ I share these assistants on the hope that they might be useful to others!
 | Nov 26 (2024) | Find Me Compatible Hardware | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](research/purchasing/find-me-compatible-hardware.md) |  |
 | Dec 23 (2024) | Find Me Guinness! | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](travel/find-me-a-guinness.md) |  |
 | Dec 23 (2024) | Freeform Writing Converter | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/freeform-text-handlers/freeform-converter.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/670cfcba1f325eee148c7c19) |
+| Dec 24 (2024) | GHG Emissions Discovery Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/sustainability-reports/ghg-report-finder-v2.md) |  |
 | Dec 24 (2024) | GHG Emissions Report Analyst | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/emissions-report-analyst.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676aacc8f48cb11efe7f02ea) |
 | Nov 26 (2024) | Gaslighting Guardian | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](health/mental-health/gaslighting-guardian.md) |  |
 | Dec 23 (2024) | General Purpose Personal Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](rag-enabled/general-personal-assistant.md) |  |
@@ -537,5 +538,12 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 | Metric | Count |
 |-------------------------|-------|
 | Total Assistants | 233 |
+| Total on Hugging Face | 132 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 234 |
 | Total on Hugging Face | 132 |
 
