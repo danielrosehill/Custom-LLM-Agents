@@ -140,6 +140,10 @@
         "url": "https://hf.co/chat/assistant/67624b04c43bc16e05331a06"
     },
     {
+        "title": "corn-the-sloth",
+        "url": "https://hf.co/chat/assistant/676abda472e9b857f61628db"
+    },
+    {
         "title": "courses-and-certs",
         "url": "https://hf.co/chat/assistant/676983f0b6426161b4ba2caf"
     },
@@ -466,6 +470,10 @@
     {
         "title": "the-llm-mimic",
         "url": "https://hf.co/chat/assistant/6757b29b0eb722654f51ac6c"
+    },
+    {
+        "title": "the-night-time-forager",
+        "url": "https://hf.co/chat/assistant/676ab9fe7d4a0c865055650a"
     },
     {
         "title": "toxic-email-parser",
