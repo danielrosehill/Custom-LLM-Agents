@@ -392,6 +392,10 @@
         "url": "https://hf.co/chat/assistant/675b88ebc00f90d9bde73d4b"
     },
     {
+        "title": "remote-friendly-finder",
+        "url": "https://hf.co/chat/assistant/676ab52d90f98bff93e020dd"
+    },
+    {
         "title": "remote-job-profiler",
         "url": "https://hf.co/chat/assistant/67618ba28956d493cd64a50e"
     },
@@ -418,6 +422,10 @@
     {
         "title": "sloth-guys",
         "url": "https://hf.co/chat/assistant/675b750321499ff25259e817"
+    },
+    {
+        "title": "sloth-metaphor-explainer",
+        "url": "https://hf.co/chat/assistant/676ab7d57d4a0c8650556475"
     },
     {
         "title": "spot-the-llm",
