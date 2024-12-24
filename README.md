@@ -183,8 +183,10 @@ I share these assistants on the hope that they might be useful to others!
 | Dec 12 (2024) | Prompt Eng Analyser | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/prompt-eng-analyser.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b0992d19467d49184081a) |
 | Dec 23 (2024) | Prompt Engineering Digest | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](prompt-eng/news-digest/prompt-engineering-digest.md) |  |
 | Dec 23 (2024) | Prompt Example Addition Tool | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](prompt-eng/add-examples.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769a67bd36d646a09336831) |
+| Dec 24 (2024) | Prompt Length Guide | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](prompt-eng/prompt-length-guide.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676ac19c72105fc97b441f05) |
 | Nov 26 (2024) | Prompt Shortener | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](prompt-eng/utilities/prompt-shortener.md) |  |
 | Dec 12 (2024) | Prompt To Llm | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llm-tools/prompt-to-llm.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/674d7fd13b64184e69e89508) |
+| Dec 24 (2024) | Prompt Tokenisation Estimator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](prompt-eng/token-estimator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676ac05090f98bff93e023ed) |
 | Nov 26 (2024) | Pub Agenda Generator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](for-fun/pub-agenda-generator.md) |  |
 | Nov 26 (2024) | Pub Crawl Creator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](for-fun/pub-crawl-creator.md) |  |
 | Dec 23 (2024) | Purpose | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](ai-related/ai-could-help-here.md) |  |
@@ -529,4 +531,11 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 231 |
 | Total on Hugging Face | 130 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 233 |
+| Total on Hugging Face | 132 |
 
