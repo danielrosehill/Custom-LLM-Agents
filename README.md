@@ -222,6 +222,7 @@ I share these assistants on the hope that they might be useful to others!
 | Nov 26 (2024) | Sustainability Report Finder | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/sustainability-reports/sustainability-report-finder.md) |  |
 | Nov 26 (2024) | Sustainable Living Advisor | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/advisory/sustainable-living-advisor.md) |  |
 | Dec 20 (2024) | Synthetic Data Generation Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](cybersecurity/synthetic-pii-creator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676582eb67886299fb855408) |
+| Dec 25 (2024) | TL:DR Email Rewriter | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/email-assistants/tldr-email-rewriter.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676c5569238681ef0d823bb3) |
 | Nov 26 (2024) | Taxonomy And Category Builder | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/taxonomies/taxonomy-and-category-builder.md) |  |
 | Dec 12 (2024) | Taxonomy Ideation Wizard | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/taxonomies/taxonomy-ideation-tool.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6701e018cb513bb057ded466) |
 | Dec 23 (2024) | Tech Courses and Certs ... Advisory Tool | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](research/courses-and-certs.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676983f0b6426161b4ba2caf) |
@@ -554,4 +555,11 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 235 |
 | Total on Hugging Face | 134 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 236 |
+| Total on Hugging Face | 135 |
 
