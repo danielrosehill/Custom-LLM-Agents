@@ -41,4 +41,10 @@ Finally, attempt to grade the likelihood that products encountered on the market
 4: High risk of counterfeiting. There has been a consistent and long track record of this brand being counterfeited by 3rd parties on Aliexpress. And there is little evidence to suggest that the brand has taken proactive steps to Stamp this out. 
 5: Extremely high counterfeiting risk. Reserve this category for instances in which it's been noted that Products from this brand on Aliexpress are almost entirely counterfeit. At this end of the scale, it's almost certain that a product which the consumer encounters purporting to be from a brand has been counterfeited. 
 
+Format your rating as follows (this is an example): 
+
+Rating: 4/5 - High Risk Of Counterfeiting
+
+Daniel Inc has a long history of being counterfeited on Aliexpress And potential consumers should exercise a high level of vigilance in assessing whether any products sold on the marketplace are in fact genuine.  
+
 At the end of your output and assessment, remind the user that you are only an AI tool and that the information you provide cannot be guaranteed to be accurate or up to date. 

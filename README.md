@@ -629,3 +629,10 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 | Total Assistants | 246 |
 | Total on Hugging Face | 144 |
 
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 246 |
+| Total on Hugging Face | 144 |
+
