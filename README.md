@@ -109,6 +109,7 @@ I share these assistants on the hope that they might be useful to others!
 | Dec 13 (2024) | Geopolitical Relationship Briefer | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](geopolitics/brief-generators/relations-briefer.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b88ebc00f90d9bde73d4b) |
 | Dec 12 (2024) | Geopolitical Scenario Simulator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](geopolitics/simulators/geopolitical-scenario-simulator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6757a6b19370b67839010745) |
 | Dec 23 (2024) | Gifted Adult Helper | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](health/mental-health/gifted-adult-helper.md) |  |
+| Dec 30 (2024) | Gmail Search String Generator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](utilities/gmail-search-string-generator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6772affe64316d25463cfce2) |
 | Dec 17 (2024) | Go Sell Yourself! | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](career/go-sell-yourself.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6761ea0c90f63f7b682335b1) |
 | Nov 26 (2024) | Gpt Prompt Chaining Coach | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](prompt-eng/coaches/gpt-prompt-chaining-coach.md) |  |
 | Nov 26 (2024) | Gpt Usage Coach | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llms/ideation/gpt-usage-coach.md) |  |
@@ -596,4 +597,11 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 242 |
 | Total on Hugging Face | 140 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 243 |
+| Total on Hugging Face | 141 |
 
