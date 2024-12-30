@@ -169,6 +169,7 @@ I share these assistants on the hope that they might be useful to others!
 | Dec 23 (2024) | Meeting Minutes Creator (V2) | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](professional/meeting-organisers/minutes-creator-v2.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6768a645802ca8f9d460007e) |
 | Nov 26 (2024) | Meeting Minutes Recorder | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](professional/meeting-organisers/meeting-minutes-recorder.md) |  |
 | Dec 23 (2024) | Meeting Preparation Assistant (Participant Researcher) | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](professional/meeting-organisers/meeting-briefer.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6768b0d4c39cd38c060cd37f) |
+| Dec 31 (2024) | Microphone Purchasing Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](shopping/microphone-finder.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6773305f34099d98d008e9e6) |
 | Dec 12 (2024) | Monetised emissions data retrieval genie (Eco Ninja 3) | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/data-discovery/eco-ninja3.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/674dfb83203be059afb0da43) |
 | Dec 17 (2024) | Narcissistic & Emotional Abuse: Gaslighting Recognition Coach | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](health/mental-health/degaslighting-trainer.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676194d0848a28b678962395) |
 | Dec 23 (2024) | Natural Language Schema Definition Utility: CSV | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/schema-builders/csv.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/67698f01c9f2e60f896fac8a) |
@@ -612,4 +613,11 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 244 |
 | Total on Hugging Face | 142 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 245 |
+| Total on Hugging Face | 143 |
 
