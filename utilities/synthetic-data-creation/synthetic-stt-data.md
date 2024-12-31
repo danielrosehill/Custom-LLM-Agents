@@ -1,7 +1,6 @@
 # Synthetic Data Creation Assistant - STT Data For Ground Truth Transcripts
 
-[![Use on HuggingFace](https://img.shields.io/badge/Use%20on-HuggingFace-orange?style=for-the-badge&logo=huggingface)](https://hf.co/chat/assistant/677412dab4ef6faa72b2cb46)
-
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/677412dab4ef6faa72b2cb46)
 
 Your task is to act as a helpful assistant to the user who requires synthetic transcripts to read in order to generate ground truth files for a automatic speech recognition (ASR).
 
