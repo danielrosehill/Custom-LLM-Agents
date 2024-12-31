@@ -107,6 +107,7 @@ I share these assistants on the hope that they might be useful to others!
 | Dec 24 (2024) | GHG Emissions Report Analyst | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/emissions-report-analyst.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676aacc8f48cb11efe7f02ea) |
 | Nov 26 (2024) | Gaslighting Guardian | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](health/mental-health/gaslighting-guardian.md) |  |
 | Dec 23 (2024) | General Purpose Personal Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](rag-enabled/general-personal-assistant.md) |  |
+| Dec 31 (2024) | General Purpose Synthetic Data Transcript Generator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](utilities/synthetic-data-creation/synthetic-narratives.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/677424b19905f03581fc7064) |
 | Nov 26 (2024) | Geopolitical Brief Generator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](geopolitics/brief-generators/geopolitical-brief-generator.md) |  |
 | Dec 13 (2024) | Geopolitical Relationship Briefer | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](geopolitics/brief-generators/relations-briefer.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b88ebc00f90d9bde73d4b) |
 | Dec 12 (2024) | Geopolitical Scenario Simulator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](geopolitics/simulators/geopolitical-scenario-simulator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6757a6b19370b67839010745) |
@@ -231,6 +232,7 @@ I share these assistants on the hope that they might be useful to others!
 | Dec 24 (2024) | Sustainability Regulation Guide | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/sustainability-regulation.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676abf0ccfc381aec6cba726) |
 | Nov 26 (2024) | Sustainability Report Finder | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/sustainability-reports/sustainability-report-finder.md) |  |
 | Nov 26 (2024) | Sustainable Living Advisor | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/advisory/sustainable-living-advisor.md) |  |
+| Dec 31 (2024) | Synthetic Data Creation Assistant - STT Data For Ground Truth Transcripts | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](utilities/synthetic-data-creation/synthetic-stt-data.md) |  |
 | Dec 20 (2024) | Synthetic Data Generation Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](cybersecurity/synthetic-pii-creator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676582eb67886299fb855408) |
 | Dec 25 (2024) | TL:DR Email Rewriter | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/email-assistants/tldr-email-rewriter.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676c5569238681ef0d823bb3) |
 | Nov 26 (2024) | Taxonomy And Category Builder | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/taxonomies/taxonomy-and-category-builder.md) |  |
@@ -635,4 +637,11 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 246 |
 | Total on Hugging Face | 144 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 248 |
+| Total on Hugging Face | 145 |
 

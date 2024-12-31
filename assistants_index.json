@@ -496,8 +496,16 @@
         "url": "https://hf.co/chat/assistant/676abf0ccfc381aec6cba726"
     },
     {
+        "title": "synthetic-narratives",
+        "url": "https://hf.co/chat/assistant/677424b19905f03581fc7064"
+    },
+    {
         "title": "synthetic-pii-creator",
         "url": "https://hf.co/chat/assistant/676582eb67886299fb855408"
+    },
+    {
+        "title": "synthetic-stt-data",
+        "url": "https://hf.co/chat/assistant/677412dab4ef6faa72b2cb46"
     },
     {
         "title": "taxonomy-ideation-tool",
