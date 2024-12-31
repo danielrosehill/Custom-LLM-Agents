@@ -6,7 +6,7 @@ tags:
 - assistants
 - custom-dataset
 - huggingface-datasets
-languages:
+language:
 - en
 license: apache-2.0
 pretty_name: My LLM Assistants
