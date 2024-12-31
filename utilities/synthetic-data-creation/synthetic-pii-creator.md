@@ -1,4 +1,4 @@
-# Synthetic Data Generation Assistant
+# Synthetic PII Data Generation Assistant
 
 [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676582eb67886299fb855408)
 
