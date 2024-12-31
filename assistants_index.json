@@ -96,6 +96,10 @@
         "url": "https://hf.co/chat/assistant/675b07eeb36bc6d22c25ee37"
     },
     {
+        "title": "career-disruptor",
+        "url": "https://hf.co/chat/assistant/677456ab0cf142113f9bef71"
+    },
+    {
         "title": "career-pivot-ideator",
         "url": "https://hf.co/chat/assistant/67697e1714a1a002763381ab"
     },
@@ -422,6 +426,10 @@
     {
         "title": "python-generator",
         "url": "https://hf.co/chat/assistant/6769aa11c39cd38c060cf20a"
+    },
+    {
+        "title": "q-and-a",
+        "url": "https://hf.co/chat/assistant/6774563254009a0567bfffd5"
     },
     {
         "title": "random-ai-assistant-ideator",
