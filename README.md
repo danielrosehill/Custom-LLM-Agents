@@ -116,7 +116,10 @@ I share these assistants on the hope that they might be useful to others!
 | Dec 24 (2024) | Cornelius The Sloth | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](for-fun/corn-the-sloth.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676abda472e9b857f61628db) |
 | Dec 23 (2024) | Custom GPT To Hugging Face Chat Conversion Utility | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](utilities/chatgpt-to-hf-chat.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b0744903247ce54987b69) |
 | Dec 23 (2024) | Daily Schedule Manager | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](organisation/workflow-planners/daily-schedule-manager.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/67699d17685abc1df63adefc) |
+| Jan 01 (2025) | Daniel's Drink FInding Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](my-personal-bots/daniel-drink-finder.md) |  |
 | Dec 23 (2024) | Daniel's Email Optimiser | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](writing/email-assistants/email-optimiser.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/67699c8f45672804f8d00840) |
+| Jan 01 (2025) | Daniel's Food Menu Selector | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](my-personal-bots/daniel-menu-picker.md) |  |
+| Jan 01 (2025) | Daniel's Personal Bar Finder | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](my-personal-bots/daniel-pub-finder.md) |  |
 | Dec 23 (2024) | Data Organisation Sidekick | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/data-organisation/data-organisation-genie.md) |  |
 | Dec 23 (2024) | Data Relationship Utility | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/data-utilities/data-relationships-utility.md) |  |
 | Dec 23 (2024) | Data Visualisation & Storytelling Guide | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](data/data-visualisation/data-visualisation-and-storytelling-guide.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/675b7afc21499ff25259e9c2) |
@@ -399,5 +402,12 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 | Metric | Count |
 |-------------------------|-------|
 | Total Assistants | 251 |
+| Total on Hugging Face | 148 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 254 |
 | Total on Hugging Face | 148 |
 
