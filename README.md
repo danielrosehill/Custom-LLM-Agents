@@ -25,11 +25,31 @@ task_ids:
 
 This repository contains configuration files for large language model (LLM) assistants.
 
-When I began this repository, most of the assistants were deployed onto the custom GPT platform. 
+When I began this repository, most of the assistants were deployed onto the custom GPT platform. Hence, most of my early configuration text referred specifically to "custom GPTs."
 
-My approach to AI is to remain vendor agnostic whenever possible. So most of these have since been moved over to Hugging Face Chat. If the assistant has been set up on Hugging Face, then the link in the index will resolve to it.  
+My approach to AI is to remain vendor agnostic whenever possible. So most of these have since been moved over to Hugging Face Chat And my personal use has shifted to using Open AI, primarily via the API. If the assistant has been set up on Hugging Face, then the link in the index will resolve to it.  If it's not there, I've probably determined that it wouldn't be that useful to people. 
 
-These assistants are pretty wide ranging. Some are tools I've created for my own personal uses. In other cases, they were created for clients or jobs. My experience working with assistants changes and grows over time much as their capabilities evolve. So any of the configurations really just reflect my current understanding for how to maximize the utility of these tools. I'm very interested in leveraging voice with these assistants, so that will be an increasing focus in the future.
+I share a few personal assistants that probably won't be useful to anybody else, just in the way of showing again some of the potential uses for AI assistants. Many of them are written tongue in cheek and put together for a laugh. 
+
+The range of assistants here is pretty wide ranging . The development process is piecemeal. I sometimes create five configurations in a day, then take a break for a week, then add a couple more. Simply by doing this consistently over time the collection has grown to a couple of hundred.
+
+Some are tools I've created for my own personal uses. In other cases, they were created for clients or jobs. In a couple of cases, I've even written configuration text for friends who are equally enthusiastic about exploring AI. 
+
+My experience working with assistants changes and grows over time much as their capabilities evolve. So any of the configurations really just reflect my current understanding for how to maximize the utility of these tools. My configuration texts are probably full of things that could have been done better, which is another benefit of open sourcing them. I invite anybody to fork their repository and make their own tweaks to my configurations to create and deploy more effective agents. 
+
+I'm very interested in leveraging voice with these assistants, so that will be an increasing focus in the future.
+
+## A Few Notes On Specific Folders
+
+### Aspirational Configurations
+
+I'm frequently drawn to writing up configuration texts for assistants that I know are not very likely to work given current model capabilities or without extensive integrations with APIs or RAG pipelines. 
+
+My initial thought was not to bother even writing them. My later thought was. "AI is moving so fast, why not Ideas that might become very practical six months down the line?" In that vein, I created a folder called Aspirational where assistance that I think are unlikely to work well today. Can be housed to distinguish them from other today's models.
+
+### For Fun
+
+As the title suggests, these are assistants that I just put together to have a bit of fun with the whole LLM thing! 
 
 ## JSON Index
 
