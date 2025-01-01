@@ -393,19 +393,6 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 
 ## Total Count
 
-| Metric                  | Count |
-|-------------------------|-------|
-| Total Assistants        | 204 |
-| Total on Hugging Face   | 80 |
-## Total Count
-
-| Metric | Count |
-|-------------------------|-------|
-| Total Assistants | 251 |
-| Total on Hugging Face | 148 |
-
-## Total Count
-
 | Metric | Count |
 |-------------------------|-------|
 | Total Assistants | 254 |
