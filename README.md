@@ -254,6 +254,7 @@ I share these assistants on the hope that they might be useful to others!
 | Dec 23 (2024) | Quick Statistic Checker | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](research/stat-checker.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/6769b1543f41e5999813ad25) |
 | Dec 17 (2024) | Random AI Assistant Ideator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](ideation/random-ai-assistant-ideator.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/67618e14c43bc16e0532ffd7) |
 | Nov 26 (2024) | Random Gpt Suggestion Tool | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](llms/random-gpt-suggestion-tool.md) |  |
+| Jan 01 (2025) | Random LLM Agent Ideator | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](misc/random-llm-assistant.md) | [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/67749a91ca2db3540379e460) |
 | Nov 26 (2024) | Recent Documentary Finder | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](for-fun/recent-documentary-finder.md) |  |
 | Nov 26 (2024) | Recent Report Finder | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](sustainability/sustainability-reports/recent-report-finder.md) |  |
 | Nov 26 (2024) | Regulation And Policy Comparison Assistant | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](research/policy-analysis/regulation-and-policy-comparison-assistant.md) |  |
@@ -397,4 +398,11 @@ For the full legal code, please visit the [Creative Commons website](https://cre
 |-------------------------|-------|
 | Total Assistants | 254 |
 | Total on Hugging Face | 148 |
+
+## Total Count
+
+| Metric | Count |
+|-------------------------|-------|
+| Total Assistants | 255 |
+| Total on Hugging Face | 149 |
 
